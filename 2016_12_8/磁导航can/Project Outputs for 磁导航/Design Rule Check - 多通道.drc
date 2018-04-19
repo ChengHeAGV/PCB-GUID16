@@ -1,0 +1,172 @@
+Protel Design System Design Rule Check
+PCB File : D:\guokai\PCB电路图\AGV_PCB_20161208\磁导航can\多通道.~(1096).PcbDoc
+Date     : 2018/1/18
+Time     : 10:34:06
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh13-4(2082.803mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh13-3(2004.063mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh13-2(1925.323mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh13-1(1846.583mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh6-4(6023.913mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh6-3(5945.173mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh6-2(5866.433mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh6-1(5787.693mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh5-1(5393.992mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh5-2(5472.732mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh5-3(5551.473mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh5-4(5630.213mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh3-4(4842.811mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh3-3(4764.071mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh3-2(4685.331mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh3-1(4606.591mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh2-1(4212.89mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh2-2(4291.63mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh2-3(4370.37mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh2-4(4449.11mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh8-4(6811.315mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh8-3(6732.575mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh8-2(6653.834mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh8-1(6575.094mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh7-1(6181.394mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh7-2(6260.134mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh7-3(6338.874mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh7-4(6417.614mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh4-4(5236.512mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh4-3(5157.772mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh4-2(5079.032mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh4-1(5000.292mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh10-4(3268.008mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh10-3(3189.268mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh10-2(3110.528mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh10-1(3031.787mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh16-4(905.803mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh16-3(827.063mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh16-2(748.323mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh16-1(669.583mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh12-4(2480.606mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh12-3(2401.866mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh12-2(2323.126mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh12-1(2244.386mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh11-4(2874.307mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh11-3(2795.567mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh11-2(2716.827mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh11-1(2638.087mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh14-4(1693.205mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh14-3(1614.465mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh14-2(1535.724mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh14-1(1456.984mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh15-4(1299.504mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh15-3(1220.764mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh15-2(1142.024mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh15-1(1063.284mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh1-1(3819.189mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh1-2(3897.929mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh1-3(3976.669mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh1-4(4055.41mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh9-4(3661.709mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh9-3(3582.969mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh9-2(3504.228mil,-1292.583mil)  Top Layer
+   Violation between Track (0.583mil,-1338.583mil)(7480.315mil,-1338.583mil)  Keep-Out Layer and 
+                     Pad U5_cdh9-1(3425.488mil,-1292.583mil)  Top Layer
+Rule Violations :64
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=78.74mil) (HasPad('Free-2')or HasPad('Free-3')),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=236.22mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=11.811mil) (InPolygon),(All)
+Rule Violations :0
+
+
+Violations Detected : 64
+Time Elapsed        : 00:00:10

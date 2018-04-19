@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Administrator\Desktop\PCBµçÂ·Í¼\AGV_PCB_20161208\´Åµ¼º½¼ì²â°åcan\¼ì²â°å.PcbDoc
+Date         : 2017/1/10 ÐÇÆÚ¶þ
+Time         : ÏÂÎç 3:04:32
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 64
+    Connections routed, 64
+    Connections remaining, 0
+count : 4

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C5 Old Footprint=C0805 New Footprint=0603
+Added Member To Class: ClassName=CDH[1..8] Member=Element[1]: CDH
+Added Member To Class: ClassName=CDH[1..8] Member=Element[2]: CDH
+Added Member To Class: ClassName=CDH[1..8] Member=Element[3]: CDH
+Added Member To Class: ClassName=CDH[1..8] Member=Element[4]: CDH
+Added Member To Class: ClassName=CDH[1..8] Member=Element[5]: CDH
+Added Member To Class: ClassName=CDH[1..8] Member=Element[6]: CDH
+Added Member To Class: ClassName=CDH[1..8] Member=Element[7]: CDH
+Added Member To Class: ClassName=CDH[1..8] Member=Element[8]: CDH

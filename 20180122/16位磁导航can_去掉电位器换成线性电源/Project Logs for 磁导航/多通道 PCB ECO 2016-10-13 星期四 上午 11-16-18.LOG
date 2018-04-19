@@ -1,0 +1,974 @@
+Added Component: Designator=C2_U_cdh1(C0805)
+Added Component: Designator=C2_U_cdh2(C0805)
+Added Component: Designator=C2_U_cdh3(C0805)
+Added Component: Designator=C2_U_cdh4(C0805)
+Added Component: Designator=C2_U_cdh5(C0805)
+Added Component: Designator=C2_U_cdh6(C0805)
+Added Component: Designator=C2_U_cdh7(C0805)
+Added Component: Designator=C2_U_cdh8(C0805)
+Added Component: Designator=C3(CAP-6*12)
+Added Component: Designator=C4(CAP-6*12)
+Added Component: Designator=C5(C0805)
+Added Component: Designator=D2_U_cdh1(LED1)
+Added Component: Designator=D2_U_cdh2(LED1)
+Added Component: Designator=D2_U_cdh3(LED1)
+Added Component: Designator=D2_U_cdh4(LED1)
+Added Component: Designator=D2_U_cdh5(LED1)
+Added Component: Designator=D2_U_cdh6(LED1)
+Added Component: Designator=D2_U_cdh7(LED1)
+Added Component: Designator=D2_U_cdh8(LED1)
+Added Component: Designator=D3(DIDOE)
+Added Component: Designator=F2_U_cdh1(1206)
+Added Component: Designator=F2_U_cdh2(1206)
+Added Component: Designator=F2_U_cdh3(1206)
+Added Component: Designator=F2_U_cdh4(1206)
+Added Component: Designator=F2_U_cdh5(1206)
+Added Component: Designator=F2_U_cdh6(1206)
+Added Component: Designator=F2_U_cdh7(1206)
+Added Component: Designator=F2_U_cdh8(1206)
+Added Component: Designator=F3(1206)
+Added Component: Designator=P1(HDR2X5)
+Added Component: Designator=Q2_U_cdh1(SOT-23)
+Added Component: Designator=Q2_U_cdh2(SOT-23)
+Added Component: Designator=Q2_U_cdh3(SOT-23)
+Added Component: Designator=Q2_U_cdh4(SOT-23)
+Added Component: Designator=Q2_U_cdh5(SOT-23)
+Added Component: Designator=Q2_U_cdh6(SOT-23)
+Added Component: Designator=Q2_U_cdh7(SOT-23)
+Added Component: Designator=Q2_U_cdh8(SOT-23)
+Added Component: Designator=R3_U_cdh1(0805)
+Added Component: Designator=R3_U_cdh2(0805)
+Added Component: Designator=R3_U_cdh3(0805)
+Added Component: Designator=R3_U_cdh4(0805)
+Added Component: Designator=R3_U_cdh5(0805)
+Added Component: Designator=R3_U_cdh6(0805)
+Added Component: Designator=R3_U_cdh7(0805)
+Added Component: Designator=R3_U_cdh8(0805)
+Added Component: Designator=R4_U_cdh1(0805)
+Added Component: Designator=R4_U_cdh2(0805)
+Added Component: Designator=R4_U_cdh3(0805)
+Added Component: Designator=R4_U_cdh4(0805)
+Added Component: Designator=R4_U_cdh5(0805)
+Added Component: Designator=R4_U_cdh6(0805)
+Added Component: Designator=R4_U_cdh7(0805)
+Added Component: Designator=R4_U_cdh8(0805)
+Added Component: Designator=R6_U_cdh1(0805)
+Added Component: Designator=R6_U_cdh2(0805)
+Added Component: Designator=R6_U_cdh3(0805)
+Added Component: Designator=R6_U_cdh4(0805)
+Added Component: Designator=R6_U_cdh5(0805)
+Added Component: Designator=R6_U_cdh6(0805)
+Added Component: Designator=R6_U_cdh7(0805)
+Added Component: Designator=R6_U_cdh8(0805)
+Added Component: Designator=R8_U_cdh1(3224W)
+Added Component: Designator=R8_U_cdh2(3224W)
+Added Component: Designator=R8_U_cdh3(3224W)
+Added Component: Designator=R8_U_cdh4(3224W)
+Added Component: Designator=R8_U_cdh5(3224W)
+Added Component: Designator=R8_U_cdh6(3224W)
+Added Component: Designator=R8_U_cdh7(3224W)
+Added Component: Designator=R8_U_cdh8(3224W)
+Added Component: Designator=R12_U_cdh1(0805)
+Added Component: Designator=R12_U_cdh2(0805)
+Added Component: Designator=R12_U_cdh3(0805)
+Added Component: Designator=R12_U_cdh4(0805)
+Added Component: Designator=R12_U_cdh5(0805)
+Added Component: Designator=R12_U_cdh6(0805)
+Added Component: Designator=R12_U_cdh7(0805)
+Added Component: Designator=R12_U_cdh8(0805)
+Added Component: Designator=R13_U_cdh1(0805)
+Added Component: Designator=R13_U_cdh2(0805)
+Added Component: Designator=R13_U_cdh3(0805)
+Added Component: Designator=R13_U_cdh4(0805)
+Added Component: Designator=R13_U_cdh5(0805)
+Added Component: Designator=R13_U_cdh6(0805)
+Added Component: Designator=R13_U_cdh7(0805)
+Added Component: Designator=R13_U_cdh8(0805)
+Added Component: Designator=R14_U_cdh1(0805)
+Added Component: Designator=R14_U_cdh2(0805)
+Added Component: Designator=R14_U_cdh3(0805)
+Added Component: Designator=R14_U_cdh4(0805)
+Added Component: Designator=R14_U_cdh5(0805)
+Added Component: Designator=R14_U_cdh6(0805)
+Added Component: Designator=R14_U_cdh7(0805)
+Added Component: Designator=R14_U_cdh8(0805)
+Added Component: Designator=R16_U_cdh1(0805)
+Added Component: Designator=R16_U_cdh2(0805)
+Added Component: Designator=R16_U_cdh3(0805)
+Added Component: Designator=R16_U_cdh4(0805)
+Added Component: Designator=R16_U_cdh5(0805)
+Added Component: Designator=R16_U_cdh6(0805)
+Added Component: Designator=R16_U_cdh7(0805)
+Added Component: Designator=R16_U_cdh8(0805)
+Added Component: Designator=R18_U_cdh1(0805)
+Added Component: Designator=R18_U_cdh2(0805)
+Added Component: Designator=R18_U_cdh3(0805)
+Added Component: Designator=R18_U_cdh4(0805)
+Added Component: Designator=R18_U_cdh5(0805)
+Added Component: Designator=R18_U_cdh6(0805)
+Added Component: Designator=R18_U_cdh7(0805)
+Added Component: Designator=R18_U_cdh8(0805)
+Added Component: Designator=R20_U_cdh1(0805)
+Added Component: Designator=R20_U_cdh2(0805)
+Added Component: Designator=R20_U_cdh3(0805)
+Added Component: Designator=R20_U_cdh4(0805)
+Added Component: Designator=R20_U_cdh5(0805)
+Added Component: Designator=R20_U_cdh6(0805)
+Added Component: Designator=R20_U_cdh7(0805)
+Added Component: Designator=R20_U_cdh8(0805)
+Added Component: Designator=R22_U_cdh1(0805)
+Added Component: Designator=R22_U_cdh2(0805)
+Added Component: Designator=R22_U_cdh3(0805)
+Added Component: Designator=R22_U_cdh4(0805)
+Added Component: Designator=R22_U_cdh5(0805)
+Added Component: Designator=R22_U_cdh6(0805)
+Added Component: Designator=R22_U_cdh7(0805)
+Added Component: Designator=R22_U_cdh8(0805)
+Added Component: Designator=R24_U_cdh1(0805)
+Added Component: Designator=R24_U_cdh2(0805)
+Added Component: Designator=R24_U_cdh3(0805)
+Added Component: Designator=R24_U_cdh4(0805)
+Added Component: Designator=R24_U_cdh5(0805)
+Added Component: Designator=R24_U_cdh6(0805)
+Added Component: Designator=R24_U_cdh7(0805)
+Added Component: Designator=R24_U_cdh8(0805)
+Added Component: Designator=R26_U_cdh1(0805)
+Added Component: Designator=R26_U_cdh2(0805)
+Added Component: Designator=R26_U_cdh3(0805)
+Added Component: Designator=R26_U_cdh4(0805)
+Added Component: Designator=R26_U_cdh5(0805)
+Added Component: Designator=R26_U_cdh6(0805)
+Added Component: Designator=R26_U_cdh7(0805)
+Added Component: Designator=R26_U_cdh8(0805)
+Added Component: Designator=U1(TO-220)
+Added Component: Designator=U3_U_cdh1(SO-8)
+Added Component: Designator=U3_U_cdh2(SO-8)
+Added Component: Designator=U3_U_cdh3(SO-8)
+Added Component: Designator=U3_U_cdh4(SO-8)
+Added Component: Designator=U3_U_cdh5(SO-8)
+Added Component: Designator=U3_U_cdh6(SO-8)
+Added Component: Designator=U3_U_cdh7(SO-8)
+Added Component: Designator=U3_U_cdh8(SO-8)
+Added Component: Designator=U5_U_cdh1(SOT-23-4)
+Added Component: Designator=U5_U_cdh2(SOT-23-4)
+Added Component: Designator=U5_U_cdh3(SOT-23-4)
+Added Component: Designator=U5_U_cdh4(SOT-23-4)
+Added Component: Designator=U5_U_cdh5(SOT-23-4)
+Added Component: Designator=U5_U_cdh6(SOT-23-4)
+Added Component: Designator=U5_U_cdh7(SOT-23-4)
+Added Component: Designator=U5_U_cdh8(SOT-23-4)
+Added Component: Designator=U19_U_cdh1(TSSOP14)
+Added Component: Designator=U19_U_cdh2(TSSOP14)
+Added Component: Designator=U19_U_cdh3(TSSOP14)
+Added Component: Designator=U19_U_cdh4(TSSOP14)
+Added Component: Designator=U19_U_cdh5(TSSOP14)
+Added Component: Designator=U19_U_cdh6(TSSOP14)
+Added Component: Designator=U19_U_cdh7(TSSOP14)
+Added Component: Designator=U19_U_cdh8(TSSOP14)
+Added Pin To Net: NetName=GND Pin=C2_U_cdh1-1
+Added Pin To Net: NetName=VCC8 Pin=C2_U_cdh1-2
+Added Pin To Net: NetName=GND Pin=C2_U_cdh2-1
+Added Pin To Net: NetName=VCC8 Pin=C2_U_cdh2-2
+Added Pin To Net: NetName=GND Pin=C2_U_cdh3-1
+Added Pin To Net: NetName=VCC8 Pin=C2_U_cdh3-2
+Added Pin To Net: NetName=GND Pin=C2_U_cdh4-1
+Added Pin To Net: NetName=VCC8 Pin=C2_U_cdh4-2
+Added Pin To Net: NetName=GND Pin=C2_U_cdh5-1
+Added Pin To Net: NetName=VCC8 Pin=C2_U_cdh5-2
+Added Pin To Net: NetName=GND Pin=C2_U_cdh6-1
+Added Pin To Net: NetName=VCC8 Pin=C2_U_cdh6-2
+Added Pin To Net: NetName=GND Pin=C2_U_cdh7-1
+Added Pin To Net: NetName=VCC8 Pin=C2_U_cdh7-2
+Added Pin To Net: NetName=GND Pin=C2_U_cdh8-1
+Added Pin To Net: NetName=VCC8 Pin=C2_U_cdh8-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC8 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC8 Pin=C5-2
+Added Pin To Net: NetName=VCC24 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=F3-1
+Added Pin To Net: NetName=NetC3_1 Pin=F3-2
+Added Pin To Net: NetName=CDH1 Pin=P1-1
+Added Pin To Net: NetName=CDH2 Pin=P1-2
+Added Pin To Net: NetName=CDH3 Pin=P1-3
+Added Pin To Net: NetName=CDH4 Pin=P1-4
+Added Pin To Net: NetName=CDH5 Pin=P1-5
+Added Pin To Net: NetName=CDH6 Pin=P1-6
+Added Pin To Net: NetName=CDH7 Pin=P1-7
+Added Pin To Net: NetName=CDH8 Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=VCC24 Pin=P1-10
+Added Pin To Net: NetName=GND Pin=Q2_U_cdh1-3
+Added Pin To Net: NetName=GND Pin=Q2_U_cdh2-3
+Added Pin To Net: NetName=GND Pin=Q2_U_cdh3-3
+Added Pin To Net: NetName=GND Pin=Q2_U_cdh4-3
+Added Pin To Net: NetName=GND Pin=Q2_U_cdh5-3
+Added Pin To Net: NetName=GND Pin=Q2_U_cdh6-3
+Added Pin To Net: NetName=GND Pin=Q2_U_cdh7-3
+Added Pin To Net: NetName=GND Pin=Q2_U_cdh8-3
+Added Pin To Net: NetName=GND Pin=R20_U_cdh1-2
+Added Pin To Net: NetName=GND Pin=R20_U_cdh2-2
+Added Pin To Net: NetName=GND Pin=R20_U_cdh3-2
+Added Pin To Net: NetName=GND Pin=R20_U_cdh4-2
+Added Pin To Net: NetName=GND Pin=R20_U_cdh5-2
+Added Pin To Net: NetName=GND Pin=R20_U_cdh6-2
+Added Pin To Net: NetName=GND Pin=R20_U_cdh7-2
+Added Pin To Net: NetName=GND Pin=R20_U_cdh8-2
+Added Pin To Net: NetName=VCC8 Pin=R24_U_cdh1-2
+Added Pin To Net: NetName=VCC8 Pin=R24_U_cdh2-2
+Added Pin To Net: NetName=VCC8 Pin=R24_U_cdh3-2
+Added Pin To Net: NetName=VCC8 Pin=R24_U_cdh4-2
+Added Pin To Net: NetName=VCC8 Pin=R24_U_cdh5-2
+Added Pin To Net: NetName=VCC8 Pin=R24_U_cdh6-2
+Added Pin To Net: NetName=VCC8 Pin=R24_U_cdh7-2
+Added Pin To Net: NetName=VCC8 Pin=R24_U_cdh8-2
+Added Pin To Net: NetName=GND Pin=R26_U_cdh1-1
+Added Pin To Net: NetName=GND Pin=R26_U_cdh2-1
+Added Pin To Net: NetName=GND Pin=R26_U_cdh3-1
+Added Pin To Net: NetName=GND Pin=R26_U_cdh4-1
+Added Pin To Net: NetName=GND Pin=R26_U_cdh5-1
+Added Pin To Net: NetName=GND Pin=R26_U_cdh6-1
+Added Pin To Net: NetName=GND Pin=R26_U_cdh7-1
+Added Pin To Net: NetName=GND Pin=R26_U_cdh8-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VCC8 Pin=U1-3
+Added Pin To Net: NetName=VCC8 Pin=U3_U_cdh1-1
+Added Pin To Net: NetName=VCC8 Pin=U3_U_cdh2-1
+Added Pin To Net: NetName=VCC8 Pin=U3_U_cdh3-1
+Added Pin To Net: NetName=VCC8 Pin=U3_U_cdh4-1
+Added Pin To Net: NetName=VCC8 Pin=U3_U_cdh5-1
+Added Pin To Net: NetName=VCC8 Pin=U3_U_cdh6-1
+Added Pin To Net: NetName=VCC8 Pin=U3_U_cdh7-1
+Added Pin To Net: NetName=VCC8 Pin=U3_U_cdh8-1
+Added Pin To Net: NetName=VCC8 Pin=U19_U_cdh1-4
+Added Pin To Net: NetName=GND Pin=U19_U_cdh1-11
+Added Pin To Net: NetName=VCC8 Pin=U19_U_cdh2-4
+Added Pin To Net: NetName=GND Pin=U19_U_cdh2-11
+Added Pin To Net: NetName=VCC8 Pin=U19_U_cdh3-4
+Added Pin To Net: NetName=GND Pin=U19_U_cdh3-11
+Added Pin To Net: NetName=VCC8 Pin=U19_U_cdh4-4
+Added Pin To Net: NetName=GND Pin=U19_U_cdh4-11
+Added Pin To Net: NetName=VCC8 Pin=U19_U_cdh5-4
+Added Pin To Net: NetName=GND Pin=U19_U_cdh5-11
+Added Pin To Net: NetName=VCC8 Pin=U19_U_cdh6-4
+Added Pin To Net: NetName=GND Pin=U19_U_cdh6-11
+Added Pin To Net: NetName=VCC8 Pin=U19_U_cdh7-4
+Added Pin To Net: NetName=GND Pin=U19_U_cdh7-11
+Added Pin To Net: NetName=VCC8 Pin=U19_U_cdh8-4
+Added Pin To Net: NetName=GND Pin=U19_U_cdh8-11
+Added Pin To Net: NetName=H1_IN1_U_cdh1 Pin=U5_U_cdh1-1
+Added Net: Name=H1_IN1_U_cdh1
+Added Pin To Net: NetName=H1_IN1_U_cdh2 Pin=U5_U_cdh2-1
+Added Net: Name=H1_IN1_U_cdh2
+Added Pin To Net: NetName=H1_IN1_U_cdh3 Pin=U5_U_cdh3-1
+Added Net: Name=H1_IN1_U_cdh3
+Added Pin To Net: NetName=H1_IN1_U_cdh4 Pin=U5_U_cdh4-1
+Added Net: Name=H1_IN1_U_cdh4
+Added Pin To Net: NetName=H1_IN1_U_cdh5 Pin=U5_U_cdh5-1
+Added Net: Name=H1_IN1_U_cdh5
+Added Pin To Net: NetName=H1_IN1_U_cdh6 Pin=U5_U_cdh6-1
+Added Net: Name=H1_IN1_U_cdh6
+Added Pin To Net: NetName=H1_IN1_U_cdh7 Pin=U5_U_cdh7-1
+Added Net: Name=H1_IN1_U_cdh7
+Added Pin To Net: NetName=H1_IN1_U_cdh8 Pin=U5_U_cdh8-1
+Added Net: Name=H1_IN1_U_cdh8
+Added Pin To Net: NetName=H1_IN3_U_cdh1 Pin=U5_U_cdh1-3
+Added Pin To Net: NetName=H1_IN3_U_cdh1 Pin=U19_U_cdh1-3
+Added Net: Name=H1_IN3_U_cdh1
+Added Pin To Net: NetName=H1_IN3_U_cdh2 Pin=U5_U_cdh2-3
+Added Pin To Net: NetName=H1_IN3_U_cdh2 Pin=U19_U_cdh2-3
+Added Net: Name=H1_IN3_U_cdh2
+Added Pin To Net: NetName=H1_IN3_U_cdh3 Pin=U5_U_cdh3-3
+Added Pin To Net: NetName=H1_IN3_U_cdh3 Pin=U19_U_cdh3-3
+Added Net: Name=H1_IN3_U_cdh3
+Added Pin To Net: NetName=H1_IN3_U_cdh4 Pin=U5_U_cdh4-3
+Added Pin To Net: NetName=H1_IN3_U_cdh4 Pin=U19_U_cdh4-3
+Added Net: Name=H1_IN3_U_cdh4
+Added Pin To Net: NetName=H1_IN3_U_cdh5 Pin=U5_U_cdh5-3
+Added Pin To Net: NetName=H1_IN3_U_cdh5 Pin=U19_U_cdh5-3
+Added Net: Name=H1_IN3_U_cdh5
+Added Pin To Net: NetName=H1_IN3_U_cdh6 Pin=U5_U_cdh6-3
+Added Pin To Net: NetName=H1_IN3_U_cdh6 Pin=U19_U_cdh6-3
+Added Net: Name=H1_IN3_U_cdh6
+Added Pin To Net: NetName=H1_IN3_U_cdh7 Pin=U5_U_cdh7-3
+Added Pin To Net: NetName=H1_IN3_U_cdh7 Pin=U19_U_cdh7-3
+Added Net: Name=H1_IN3_U_cdh7
+Added Pin To Net: NetName=H1_IN3_U_cdh8 Pin=U5_U_cdh8-3
+Added Pin To Net: NetName=H1_IN3_U_cdh8 Pin=U19_U_cdh8-3
+Added Net: Name=H1_IN3_U_cdh8
+Added Pin To Net: NetName=H1_OUT2_U_cdh1 Pin=R18_U_cdh1-1
+Added Pin To Net: NetName=H1_OUT2_U_cdh1 Pin=U3_U_cdh1-4
+Added Pin To Net: NetName=H1_OUT2_U_cdh1 Pin=U5_U_cdh1-2
+Added Pin To Net: NetName=H1_OUT2_U_cdh1 Pin=U19_U_cdh1-7
+Added Net: Name=H1_OUT2_U_cdh1
+Added Pin To Net: NetName=H1_OUT2_U_cdh2 Pin=R18_U_cdh2-1
+Added Pin To Net: NetName=H1_OUT2_U_cdh2 Pin=U3_U_cdh2-4
+Added Pin To Net: NetName=H1_OUT2_U_cdh2 Pin=U5_U_cdh2-2
+Added Pin To Net: NetName=H1_OUT2_U_cdh2 Pin=U19_U_cdh2-7
+Added Net: Name=H1_OUT2_U_cdh2
+Added Pin To Net: NetName=H1_OUT2_U_cdh3 Pin=R18_U_cdh3-1
+Added Pin To Net: NetName=H1_OUT2_U_cdh3 Pin=U3_U_cdh3-4
+Added Pin To Net: NetName=H1_OUT2_U_cdh3 Pin=U5_U_cdh3-2
+Added Pin To Net: NetName=H1_OUT2_U_cdh3 Pin=U19_U_cdh3-7
+Added Net: Name=H1_OUT2_U_cdh3
+Added Pin To Net: NetName=H1_OUT2_U_cdh4 Pin=R18_U_cdh4-1
+Added Pin To Net: NetName=H1_OUT2_U_cdh4 Pin=U3_U_cdh4-4
+Added Pin To Net: NetName=H1_OUT2_U_cdh4 Pin=U5_U_cdh4-2
+Added Pin To Net: NetName=H1_OUT2_U_cdh4 Pin=U19_U_cdh4-7
+Added Net: Name=H1_OUT2_U_cdh4
+Added Pin To Net: NetName=H1_OUT2_U_cdh5 Pin=R18_U_cdh5-1
+Added Pin To Net: NetName=H1_OUT2_U_cdh5 Pin=U3_U_cdh5-4
+Added Pin To Net: NetName=H1_OUT2_U_cdh5 Pin=U5_U_cdh5-2
+Added Pin To Net: NetName=H1_OUT2_U_cdh5 Pin=U19_U_cdh5-7
+Added Net: Name=H1_OUT2_U_cdh5
+Added Pin To Net: NetName=H1_OUT2_U_cdh6 Pin=R18_U_cdh6-1
+Added Pin To Net: NetName=H1_OUT2_U_cdh6 Pin=U3_U_cdh6-4
+Added Pin To Net: NetName=H1_OUT2_U_cdh6 Pin=U5_U_cdh6-2
+Added Pin To Net: NetName=H1_OUT2_U_cdh6 Pin=U19_U_cdh6-7
+Added Net: Name=H1_OUT2_U_cdh6
+Added Pin To Net: NetName=H1_OUT2_U_cdh7 Pin=R18_U_cdh7-1
+Added Pin To Net: NetName=H1_OUT2_U_cdh7 Pin=U3_U_cdh7-4
+Added Pin To Net: NetName=H1_OUT2_U_cdh7 Pin=U5_U_cdh7-2
+Added Pin To Net: NetName=H1_OUT2_U_cdh7 Pin=U19_U_cdh7-7
+Added Net: Name=H1_OUT2_U_cdh7
+Added Pin To Net: NetName=H1_OUT2_U_cdh8 Pin=R18_U_cdh8-1
+Added Pin To Net: NetName=H1_OUT2_U_cdh8 Pin=U3_U_cdh8-4
+Added Pin To Net: NetName=H1_OUT2_U_cdh8 Pin=U5_U_cdh8-2
+Added Pin To Net: NetName=H1_OUT2_U_cdh8 Pin=U19_U_cdh8-7
+Added Net: Name=H1_OUT2_U_cdh8
+Added Pin To Net: NetName=H1_OUT4_U_cdh1 Pin=R6_U_cdh1-1
+Added Pin To Net: NetName=H1_OUT4_U_cdh1 Pin=U3_U_cdh1-2
+Added Pin To Net: NetName=H1_OUT4_U_cdh1 Pin=U3_U_cdh1-3
+Added Pin To Net: NetName=H1_OUT4_U_cdh1 Pin=U5_U_cdh1-4
+Added Pin To Net: NetName=H1_OUT4_U_cdh1 Pin=U19_U_cdh1-13
+Added Net: Name=H1_OUT4_U_cdh1
+Added Pin To Net: NetName=H1_OUT4_U_cdh2 Pin=R6_U_cdh2-1
+Added Pin To Net: NetName=H1_OUT4_U_cdh2 Pin=U3_U_cdh2-2
+Added Pin To Net: NetName=H1_OUT4_U_cdh2 Pin=U3_U_cdh2-3
+Added Pin To Net: NetName=H1_OUT4_U_cdh2 Pin=U5_U_cdh2-4
+Added Pin To Net: NetName=H1_OUT4_U_cdh2 Pin=U19_U_cdh2-13
+Added Net: Name=H1_OUT4_U_cdh2
+Added Pin To Net: NetName=H1_OUT4_U_cdh3 Pin=R6_U_cdh3-1
+Added Pin To Net: NetName=H1_OUT4_U_cdh3 Pin=U3_U_cdh3-2
+Added Pin To Net: NetName=H1_OUT4_U_cdh3 Pin=U3_U_cdh3-3
+Added Pin To Net: NetName=H1_OUT4_U_cdh3 Pin=U5_U_cdh3-4
+Added Pin To Net: NetName=H1_OUT4_U_cdh3 Pin=U19_U_cdh3-13
+Added Net: Name=H1_OUT4_U_cdh3
+Added Pin To Net: NetName=H1_OUT4_U_cdh4 Pin=R6_U_cdh4-1
+Added Pin To Net: NetName=H1_OUT4_U_cdh4 Pin=U3_U_cdh4-2
+Added Pin To Net: NetName=H1_OUT4_U_cdh4 Pin=U3_U_cdh4-3
+Added Pin To Net: NetName=H1_OUT4_U_cdh4 Pin=U5_U_cdh4-4
+Added Pin To Net: NetName=H1_OUT4_U_cdh4 Pin=U19_U_cdh4-13
+Added Net: Name=H1_OUT4_U_cdh4
+Added Pin To Net: NetName=H1_OUT4_U_cdh5 Pin=R6_U_cdh5-1
+Added Pin To Net: NetName=H1_OUT4_U_cdh5 Pin=U3_U_cdh5-2
+Added Pin To Net: NetName=H1_OUT4_U_cdh5 Pin=U3_U_cdh5-3
+Added Pin To Net: NetName=H1_OUT4_U_cdh5 Pin=U5_U_cdh5-4
+Added Pin To Net: NetName=H1_OUT4_U_cdh5 Pin=U19_U_cdh5-13
+Added Net: Name=H1_OUT4_U_cdh5
+Added Pin To Net: NetName=H1_OUT4_U_cdh6 Pin=R6_U_cdh6-1
+Added Pin To Net: NetName=H1_OUT4_U_cdh6 Pin=U3_U_cdh6-2
+Added Pin To Net: NetName=H1_OUT4_U_cdh6 Pin=U3_U_cdh6-3
+Added Pin To Net: NetName=H1_OUT4_U_cdh6 Pin=U5_U_cdh6-4
+Added Pin To Net: NetName=H1_OUT4_U_cdh6 Pin=U19_U_cdh6-13
+Added Net: Name=H1_OUT4_U_cdh6
+Added Pin To Net: NetName=H1_OUT4_U_cdh7 Pin=R6_U_cdh7-1
+Added Pin To Net: NetName=H1_OUT4_U_cdh7 Pin=U3_U_cdh7-2
+Added Pin To Net: NetName=H1_OUT4_U_cdh7 Pin=U3_U_cdh7-3
+Added Pin To Net: NetName=H1_OUT4_U_cdh7 Pin=U5_U_cdh7-4
+Added Pin To Net: NetName=H1_OUT4_U_cdh7 Pin=U19_U_cdh7-13
+Added Net: Name=H1_OUT4_U_cdh7
+Added Pin To Net: NetName=H1_OUT4_U_cdh8 Pin=R6_U_cdh8-1
+Added Pin To Net: NetName=H1_OUT4_U_cdh8 Pin=U3_U_cdh8-2
+Added Pin To Net: NetName=H1_OUT4_U_cdh8 Pin=U3_U_cdh8-3
+Added Pin To Net: NetName=H1_OUT4_U_cdh8 Pin=U5_U_cdh8-4
+Added Pin To Net: NetName=H1_OUT4_U_cdh8 Pin=U19_U_cdh8-13
+Added Net: Name=H1_OUT4_U_cdh8
+Added Pin To Net: NetName=NetD2_U_cdh1_1 Pin=D2_U_cdh1-1
+Added Pin To Net: NetName=NetD2_U_cdh1_1 Pin=R22_U_cdh1-2
+Added Pin To Net: NetName=NetD2_U_cdh1_1 Pin=U19_U_cdh1-14
+Added Net: Name=NetD2_U_cdh1_1
+Added Pin To Net: NetName=NetD2_U_cdh1_2 Pin=D2_U_cdh1-2
+Added Pin To Net: NetName=NetD2_U_cdh1_2 Pin=R16_U_cdh1-1
+Added Pin To Net: NetName=NetD2_U_cdh1_2 Pin=R20_U_cdh1-1
+Added Net: Name=NetD2_U_cdh1_2
+Added Pin To Net: NetName=NetD2_U_cdh2_1 Pin=D2_U_cdh2-1
+Added Pin To Net: NetName=NetD2_U_cdh2_1 Pin=R22_U_cdh2-2
+Added Pin To Net: NetName=NetD2_U_cdh2_1 Pin=U19_U_cdh2-14
+Added Net: Name=NetD2_U_cdh2_1
+Added Pin To Net: NetName=NetD2_U_cdh2_2 Pin=D2_U_cdh2-2
+Added Pin To Net: NetName=NetD2_U_cdh2_2 Pin=R16_U_cdh2-1
+Added Pin To Net: NetName=NetD2_U_cdh2_2 Pin=R20_U_cdh2-1
+Added Net: Name=NetD2_U_cdh2_2
+Added Pin To Net: NetName=NetD2_U_cdh3_1 Pin=D2_U_cdh3-1
+Added Pin To Net: NetName=NetD2_U_cdh3_1 Pin=R22_U_cdh3-2
+Added Pin To Net: NetName=NetD2_U_cdh3_1 Pin=U19_U_cdh3-14
+Added Net: Name=NetD2_U_cdh3_1
+Added Pin To Net: NetName=NetD2_U_cdh3_2 Pin=D2_U_cdh3-2
+Added Pin To Net: NetName=NetD2_U_cdh3_2 Pin=R16_U_cdh3-1
+Added Pin To Net: NetName=NetD2_U_cdh3_2 Pin=R20_U_cdh3-1
+Added Net: Name=NetD2_U_cdh3_2
+Added Pin To Net: NetName=NetD2_U_cdh4_1 Pin=D2_U_cdh4-1
+Added Pin To Net: NetName=NetD2_U_cdh4_1 Pin=R22_U_cdh4-2
+Added Pin To Net: NetName=NetD2_U_cdh4_1 Pin=U19_U_cdh4-14
+Added Net: Name=NetD2_U_cdh4_1
+Added Pin To Net: NetName=NetD2_U_cdh4_2 Pin=D2_U_cdh4-2
+Added Pin To Net: NetName=NetD2_U_cdh4_2 Pin=R16_U_cdh4-1
+Added Pin To Net: NetName=NetD2_U_cdh4_2 Pin=R20_U_cdh4-1
+Added Net: Name=NetD2_U_cdh4_2
+Added Pin To Net: NetName=NetD2_U_cdh5_1 Pin=D2_U_cdh5-1
+Added Pin To Net: NetName=NetD2_U_cdh5_1 Pin=R22_U_cdh5-2
+Added Pin To Net: NetName=NetD2_U_cdh5_1 Pin=U19_U_cdh5-14
+Added Net: Name=NetD2_U_cdh5_1
+Added Pin To Net: NetName=NetD2_U_cdh5_2 Pin=D2_U_cdh5-2
+Added Pin To Net: NetName=NetD2_U_cdh5_2 Pin=R16_U_cdh5-1
+Added Pin To Net: NetName=NetD2_U_cdh5_2 Pin=R20_U_cdh5-1
+Added Net: Name=NetD2_U_cdh5_2
+Added Pin To Net: NetName=NetD2_U_cdh6_1 Pin=D2_U_cdh6-1
+Added Pin To Net: NetName=NetD2_U_cdh6_1 Pin=R22_U_cdh6-2
+Added Pin To Net: NetName=NetD2_U_cdh6_1 Pin=U19_U_cdh6-14
+Added Net: Name=NetD2_U_cdh6_1
+Added Pin To Net: NetName=NetD2_U_cdh6_2 Pin=D2_U_cdh6-2
+Added Pin To Net: NetName=NetD2_U_cdh6_2 Pin=R16_U_cdh6-1
+Added Pin To Net: NetName=NetD2_U_cdh6_2 Pin=R20_U_cdh6-1
+Added Net: Name=NetD2_U_cdh6_2
+Added Pin To Net: NetName=NetD2_U_cdh7_1 Pin=D2_U_cdh7-1
+Added Pin To Net: NetName=NetD2_U_cdh7_1 Pin=R22_U_cdh7-2
+Added Pin To Net: NetName=NetD2_U_cdh7_1 Pin=U19_U_cdh7-14
+Added Net: Name=NetD2_U_cdh7_1
+Added Pin To Net: NetName=NetD2_U_cdh7_2 Pin=D2_U_cdh7-2
+Added Pin To Net: NetName=NetD2_U_cdh7_2 Pin=R16_U_cdh7-1
+Added Pin To Net: NetName=NetD2_U_cdh7_2 Pin=R20_U_cdh7-1
+Added Net: Name=NetD2_U_cdh7_2
+Added Pin To Net: NetName=NetD2_U_cdh8_1 Pin=D2_U_cdh8-1
+Added Pin To Net: NetName=NetD2_U_cdh8_1 Pin=R22_U_cdh8-2
+Added Pin To Net: NetName=NetD2_U_cdh8_1 Pin=U19_U_cdh8-14
+Added Net: Name=NetD2_U_cdh8_1
+Added Pin To Net: NetName=NetD2_U_cdh8_2 Pin=D2_U_cdh8-2
+Added Pin To Net: NetName=NetD2_U_cdh8_2 Pin=R16_U_cdh8-1
+Added Pin To Net: NetName=NetD2_U_cdh8_2 Pin=R20_U_cdh8-1
+Added Net: Name=NetD2_U_cdh8_2
+Added Pin To Net: NetName=NetF2_U_cdh1_1 Pin=F2_U_cdh1-1
+Added Pin To Net: NetName=NetF2_U_cdh1_1 Pin=Q2_U_cdh1-1
+Added Net: Name=NetF2_U_cdh1_1
+Added Pin To Net: NetName=NetF2_U_cdh1_2 Pin=F2_U_cdh1-2
+Added Net: Name=NetF2_U_cdh1_2
+Added Pin To Net: NetName=NetF2_U_cdh2_1 Pin=F2_U_cdh2-1
+Added Pin To Net: NetName=NetF2_U_cdh2_1 Pin=Q2_U_cdh2-1
+Added Net: Name=NetF2_U_cdh2_1
+Added Pin To Net: NetName=NetF2_U_cdh2_2 Pin=F2_U_cdh2-2
+Added Net: Name=NetF2_U_cdh2_2
+Added Pin To Net: NetName=NetF2_U_cdh3_1 Pin=F2_U_cdh3-1
+Added Pin To Net: NetName=NetF2_U_cdh3_1 Pin=Q2_U_cdh3-1
+Added Net: Name=NetF2_U_cdh3_1
+Added Pin To Net: NetName=NetF2_U_cdh3_2 Pin=F2_U_cdh3-2
+Added Net: Name=NetF2_U_cdh3_2
+Added Pin To Net: NetName=NetF2_U_cdh4_1 Pin=F2_U_cdh4-1
+Added Pin To Net: NetName=NetF2_U_cdh4_1 Pin=Q2_U_cdh4-1
+Added Net: Name=NetF2_U_cdh4_1
+Added Pin To Net: NetName=NetF2_U_cdh4_2 Pin=F2_U_cdh4-2
+Added Net: Name=NetF2_U_cdh4_2
+Added Pin To Net: NetName=NetF2_U_cdh5_1 Pin=F2_U_cdh5-1
+Added Pin To Net: NetName=NetF2_U_cdh5_1 Pin=Q2_U_cdh5-1
+Added Net: Name=NetF2_U_cdh5_1
+Added Pin To Net: NetName=NetF2_U_cdh5_2 Pin=F2_U_cdh5-2
+Added Net: Name=NetF2_U_cdh5_2
+Added Pin To Net: NetName=NetF2_U_cdh6_1 Pin=F2_U_cdh6-1
+Added Pin To Net: NetName=NetF2_U_cdh6_1 Pin=Q2_U_cdh6-1
+Added Net: Name=NetF2_U_cdh6_1
+Added Pin To Net: NetName=NetF2_U_cdh6_2 Pin=F2_U_cdh6-2
+Added Net: Name=NetF2_U_cdh6_2
+Added Pin To Net: NetName=NetF2_U_cdh7_1 Pin=F2_U_cdh7-1
+Added Pin To Net: NetName=NetF2_U_cdh7_1 Pin=Q2_U_cdh7-1
+Added Net: Name=NetF2_U_cdh7_1
+Added Pin To Net: NetName=NetF2_U_cdh7_2 Pin=F2_U_cdh7-2
+Added Net: Name=NetF2_U_cdh7_2
+Added Pin To Net: NetName=NetF2_U_cdh8_1 Pin=F2_U_cdh8-1
+Added Pin To Net: NetName=NetF2_U_cdh8_1 Pin=Q2_U_cdh8-1
+Added Net: Name=NetF2_U_cdh8_1
+Added Pin To Net: NetName=NetF2_U_cdh8_2 Pin=F2_U_cdh8-2
+Added Net: Name=NetF2_U_cdh8_2
+Added Pin To Net: NetName=NetQ2_U_cdh1_2 Pin=Q2_U_cdh1-2
+Added Pin To Net: NetName=NetQ2_U_cdh1_2 Pin=R16_U_cdh1-2
+Added Net: Name=NetQ2_U_cdh1_2
+Added Pin To Net: NetName=NetQ2_U_cdh2_2 Pin=Q2_U_cdh2-2
+Added Pin To Net: NetName=NetQ2_U_cdh2_2 Pin=R16_U_cdh2-2
+Added Net: Name=NetQ2_U_cdh2_2
+Added Pin To Net: NetName=NetQ2_U_cdh3_2 Pin=Q2_U_cdh3-2
+Added Pin To Net: NetName=NetQ2_U_cdh3_2 Pin=R16_U_cdh3-2
+Added Net: Name=NetQ2_U_cdh3_2
+Added Pin To Net: NetName=NetQ2_U_cdh4_2 Pin=Q2_U_cdh4-2
+Added Pin To Net: NetName=NetQ2_U_cdh4_2 Pin=R16_U_cdh4-2
+Added Net: Name=NetQ2_U_cdh4_2
+Added Pin To Net: NetName=NetQ2_U_cdh5_2 Pin=Q2_U_cdh5-2
+Added Pin To Net: NetName=NetQ2_U_cdh5_2 Pin=R16_U_cdh5-2
+Added Net: Name=NetQ2_U_cdh5_2
+Added Pin To Net: NetName=NetQ2_U_cdh6_2 Pin=Q2_U_cdh6-2
+Added Pin To Net: NetName=NetQ2_U_cdh6_2 Pin=R16_U_cdh6-2
+Added Net: Name=NetQ2_U_cdh6_2
+Added Pin To Net: NetName=NetQ2_U_cdh7_2 Pin=Q2_U_cdh7-2
+Added Pin To Net: NetName=NetQ2_U_cdh7_2 Pin=R16_U_cdh7-2
+Added Net: Name=NetQ2_U_cdh7_2
+Added Pin To Net: NetName=NetQ2_U_cdh8_2 Pin=Q2_U_cdh8-2
+Added Pin To Net: NetName=NetQ2_U_cdh8_2 Pin=R16_U_cdh8-2
+Added Net: Name=NetQ2_U_cdh8_2
+Added Pin To Net: NetName=NetR3_U_cdh1_1 Pin=R3_U_cdh1-1
+Added Pin To Net: NetName=NetR3_U_cdh1_1 Pin=R14_U_cdh1-1
+Added Pin To Net: NetName=NetR3_U_cdh1_1 Pin=U19_U_cdh1-2
+Added Net: Name=NetR3_U_cdh1_1
+Added Pin To Net: NetName=NetR3_U_cdh1_2 Pin=R3_U_cdh1-2
+Added Pin To Net: NetName=NetR3_U_cdh1_2 Pin=R4_U_cdh1-1
+Added Pin To Net: NetName=NetR3_U_cdh1_2 Pin=U19_U_cdh1-1
+Added Net: Name=NetR3_U_cdh1_2
+Added Pin To Net: NetName=NetR3_U_cdh2_1 Pin=R3_U_cdh2-1
+Added Pin To Net: NetName=NetR3_U_cdh2_1 Pin=R14_U_cdh2-1
+Added Pin To Net: NetName=NetR3_U_cdh2_1 Pin=U19_U_cdh2-2
+Added Net: Name=NetR3_U_cdh2_1
+Added Pin To Net: NetName=NetR3_U_cdh2_2 Pin=R3_U_cdh2-2
+Added Pin To Net: NetName=NetR3_U_cdh2_2 Pin=R4_U_cdh2-1
+Added Pin To Net: NetName=NetR3_U_cdh2_2 Pin=U19_U_cdh2-1
+Added Net: Name=NetR3_U_cdh2_2
+Added Pin To Net: NetName=NetR3_U_cdh3_1 Pin=R3_U_cdh3-1
+Added Pin To Net: NetName=NetR3_U_cdh3_1 Pin=R14_U_cdh3-1
+Added Pin To Net: NetName=NetR3_U_cdh3_1 Pin=U19_U_cdh3-2
+Added Net: Name=NetR3_U_cdh3_1
+Added Pin To Net: NetName=NetR3_U_cdh3_2 Pin=R3_U_cdh3-2
+Added Pin To Net: NetName=NetR3_U_cdh3_2 Pin=R4_U_cdh3-1
+Added Pin To Net: NetName=NetR3_U_cdh3_2 Pin=U19_U_cdh3-1
+Added Net: Name=NetR3_U_cdh3_2
+Added Pin To Net: NetName=NetR3_U_cdh4_1 Pin=R3_U_cdh4-1
+Added Pin To Net: NetName=NetR3_U_cdh4_1 Pin=R14_U_cdh4-1
+Added Pin To Net: NetName=NetR3_U_cdh4_1 Pin=U19_U_cdh4-2
+Added Net: Name=NetR3_U_cdh4_1
+Added Pin To Net: NetName=NetR3_U_cdh4_2 Pin=R3_U_cdh4-2
+Added Pin To Net: NetName=NetR3_U_cdh4_2 Pin=R4_U_cdh4-1
+Added Pin To Net: NetName=NetR3_U_cdh4_2 Pin=U19_U_cdh4-1
+Added Net: Name=NetR3_U_cdh4_2
+Added Pin To Net: NetName=NetR3_U_cdh5_1 Pin=R3_U_cdh5-1
+Added Pin To Net: NetName=NetR3_U_cdh5_1 Pin=R14_U_cdh5-1
+Added Pin To Net: NetName=NetR3_U_cdh5_1 Pin=U19_U_cdh5-2
+Added Net: Name=NetR3_U_cdh5_1
+Added Pin To Net: NetName=NetR3_U_cdh5_2 Pin=R3_U_cdh5-2
+Added Pin To Net: NetName=NetR3_U_cdh5_2 Pin=R4_U_cdh5-1
+Added Pin To Net: NetName=NetR3_U_cdh5_2 Pin=U19_U_cdh5-1
+Added Net: Name=NetR3_U_cdh5_2
+Added Pin To Net: NetName=NetR3_U_cdh6_1 Pin=R3_U_cdh6-1
+Added Pin To Net: NetName=NetR3_U_cdh6_1 Pin=R14_U_cdh6-1
+Added Pin To Net: NetName=NetR3_U_cdh6_1 Pin=U19_U_cdh6-2
+Added Net: Name=NetR3_U_cdh6_1
+Added Pin To Net: NetName=NetR3_U_cdh6_2 Pin=R3_U_cdh6-2
+Added Pin To Net: NetName=NetR3_U_cdh6_2 Pin=R4_U_cdh6-1
+Added Pin To Net: NetName=NetR3_U_cdh6_2 Pin=U19_U_cdh6-1
+Added Net: Name=NetR3_U_cdh6_2
+Added Pin To Net: NetName=NetR3_U_cdh7_1 Pin=R3_U_cdh7-1
+Added Pin To Net: NetName=NetR3_U_cdh7_1 Pin=R14_U_cdh7-1
+Added Pin To Net: NetName=NetR3_U_cdh7_1 Pin=U19_U_cdh7-2
+Added Net: Name=NetR3_U_cdh7_1
+Added Pin To Net: NetName=NetR3_U_cdh7_2 Pin=R3_U_cdh7-2
+Added Pin To Net: NetName=NetR3_U_cdh7_2 Pin=R4_U_cdh7-1
+Added Pin To Net: NetName=NetR3_U_cdh7_2 Pin=U19_U_cdh7-1
+Added Net: Name=NetR3_U_cdh7_2
+Added Pin To Net: NetName=NetR3_U_cdh8_1 Pin=R3_U_cdh8-1
+Added Pin To Net: NetName=NetR3_U_cdh8_1 Pin=R14_U_cdh8-1
+Added Pin To Net: NetName=NetR3_U_cdh8_1 Pin=U19_U_cdh8-2
+Added Net: Name=NetR3_U_cdh8_1
+Added Pin To Net: NetName=NetR3_U_cdh8_2 Pin=R3_U_cdh8-2
+Added Pin To Net: NetName=NetR3_U_cdh8_2 Pin=R4_U_cdh8-1
+Added Pin To Net: NetName=NetR3_U_cdh8_2 Pin=U19_U_cdh8-1
+Added Net: Name=NetR3_U_cdh8_2
+Added Pin To Net: NetName=NetR4_U_cdh1_2 Pin=R4_U_cdh1-2
+Added Pin To Net: NetName=NetR4_U_cdh1_2 Pin=R22_U_cdh1-1
+Added Pin To Net: NetName=NetR4_U_cdh1_2 Pin=U19_U_cdh1-12
+Added Net: Name=NetR4_U_cdh1_2
+Added Pin To Net: NetName=NetR4_U_cdh2_2 Pin=R4_U_cdh2-2
+Added Pin To Net: NetName=NetR4_U_cdh2_2 Pin=R22_U_cdh2-1
+Added Pin To Net: NetName=NetR4_U_cdh2_2 Pin=U19_U_cdh2-12
+Added Net: Name=NetR4_U_cdh2_2
+Added Pin To Net: NetName=NetR4_U_cdh3_2 Pin=R4_U_cdh3-2
+Added Pin To Net: NetName=NetR4_U_cdh3_2 Pin=R22_U_cdh3-1
+Added Pin To Net: NetName=NetR4_U_cdh3_2 Pin=U19_U_cdh3-12
+Added Net: Name=NetR4_U_cdh3_2
+Added Pin To Net: NetName=NetR4_U_cdh4_2 Pin=R4_U_cdh4-2
+Added Pin To Net: NetName=NetR4_U_cdh4_2 Pin=R22_U_cdh4-1
+Added Pin To Net: NetName=NetR4_U_cdh4_2 Pin=U19_U_cdh4-12
+Added Net: Name=NetR4_U_cdh4_2
+Added Pin To Net: NetName=NetR4_U_cdh5_2 Pin=R4_U_cdh5-2
+Added Pin To Net: NetName=NetR4_U_cdh5_2 Pin=R22_U_cdh5-1
+Added Pin To Net: NetName=NetR4_U_cdh5_2 Pin=U19_U_cdh5-12
+Added Net: Name=NetR4_U_cdh5_2
+Added Pin To Net: NetName=NetR4_U_cdh6_2 Pin=R4_U_cdh6-2
+Added Pin To Net: NetName=NetR4_U_cdh6_2 Pin=R22_U_cdh6-1
+Added Pin To Net: NetName=NetR4_U_cdh6_2 Pin=U19_U_cdh6-12
+Added Net: Name=NetR4_U_cdh6_2
+Added Pin To Net: NetName=NetR4_U_cdh7_2 Pin=R4_U_cdh7-2
+Added Pin To Net: NetName=NetR4_U_cdh7_2 Pin=R22_U_cdh7-1
+Added Pin To Net: NetName=NetR4_U_cdh7_2 Pin=U19_U_cdh7-12
+Added Net: Name=NetR4_U_cdh7_2
+Added Pin To Net: NetName=NetR4_U_cdh8_2 Pin=R4_U_cdh8-2
+Added Pin To Net: NetName=NetR4_U_cdh8_2 Pin=R22_U_cdh8-1
+Added Pin To Net: NetName=NetR4_U_cdh8_2 Pin=U19_U_cdh8-12
+Added Net: Name=NetR4_U_cdh8_2
+Added Pin To Net: NetName=NetR6_U_cdh1_2 Pin=R6_U_cdh1-2
+Added Pin To Net: NetName=NetR6_U_cdh1_2 Pin=R8_U_cdh1-1
+Added Net: Name=NetR6_U_cdh1_2
+Added Pin To Net: NetName=NetR6_U_cdh2_2 Pin=R6_U_cdh2-2
+Added Pin To Net: NetName=NetR6_U_cdh2_2 Pin=R8_U_cdh2-1
+Added Net: Name=NetR6_U_cdh2_2
+Added Pin To Net: NetName=NetR6_U_cdh3_2 Pin=R6_U_cdh3-2
+Added Pin To Net: NetName=NetR6_U_cdh3_2 Pin=R8_U_cdh3-1
+Added Net: Name=NetR6_U_cdh3_2
+Added Pin To Net: NetName=NetR6_U_cdh4_2 Pin=R6_U_cdh4-2
+Added Pin To Net: NetName=NetR6_U_cdh4_2 Pin=R8_U_cdh4-1
+Added Net: Name=NetR6_U_cdh4_2
+Added Pin To Net: NetName=NetR6_U_cdh5_2 Pin=R6_U_cdh5-2
+Added Pin To Net: NetName=NetR6_U_cdh5_2 Pin=R8_U_cdh5-1
+Added Net: Name=NetR6_U_cdh5_2
+Added Pin To Net: NetName=NetR6_U_cdh6_2 Pin=R6_U_cdh6-2
+Added Pin To Net: NetName=NetR6_U_cdh6_2 Pin=R8_U_cdh6-1
+Added Net: Name=NetR6_U_cdh6_2
+Added Pin To Net: NetName=NetR6_U_cdh7_2 Pin=R6_U_cdh7-2
+Added Pin To Net: NetName=NetR6_U_cdh7_2 Pin=R8_U_cdh7-1
+Added Net: Name=NetR6_U_cdh7_2
+Added Pin To Net: NetName=NetR6_U_cdh8_2 Pin=R6_U_cdh8-2
+Added Pin To Net: NetName=NetR6_U_cdh8_2 Pin=R8_U_cdh8-1
+Added Net: Name=NetR6_U_cdh8_2
+Added Pin To Net: NetName=NetR8_U_cdh1_2 Pin=R8_U_cdh1-2
+Added Pin To Net: NetName=NetR8_U_cdh1_2 Pin=R18_U_cdh1-2
+Added Net: Name=NetR8_U_cdh1_2
+Added Pin To Net: NetName=NetR8_U_cdh1_3 Pin=R8_U_cdh1-3
+Added Pin To Net: NetName=NetR8_U_cdh1_3 Pin=R12_U_cdh1-1
+Added Net: Name=NetR8_U_cdh1_3
+Added Pin To Net: NetName=NetR8_U_cdh2_2 Pin=R8_U_cdh2-2
+Added Pin To Net: NetName=NetR8_U_cdh2_2 Pin=R18_U_cdh2-2
+Added Net: Name=NetR8_U_cdh2_2
+Added Pin To Net: NetName=NetR8_U_cdh2_3 Pin=R8_U_cdh2-3
+Added Pin To Net: NetName=NetR8_U_cdh2_3 Pin=R12_U_cdh2-1
+Added Net: Name=NetR8_U_cdh2_3
+Added Pin To Net: NetName=NetR8_U_cdh3_2 Pin=R8_U_cdh3-2
+Added Pin To Net: NetName=NetR8_U_cdh3_2 Pin=R18_U_cdh3-2
+Added Net: Name=NetR8_U_cdh3_2
+Added Pin To Net: NetName=NetR8_U_cdh3_3 Pin=R8_U_cdh3-3
+Added Pin To Net: NetName=NetR8_U_cdh3_3 Pin=R12_U_cdh3-1
+Added Net: Name=NetR8_U_cdh3_3
+Added Pin To Net: NetName=NetR8_U_cdh4_2 Pin=R8_U_cdh4-2
+Added Pin To Net: NetName=NetR8_U_cdh4_2 Pin=R18_U_cdh4-2
+Added Net: Name=NetR8_U_cdh4_2
+Added Pin To Net: NetName=NetR8_U_cdh4_3 Pin=R8_U_cdh4-3
+Added Pin To Net: NetName=NetR8_U_cdh4_3 Pin=R12_U_cdh4-1
+Added Net: Name=NetR8_U_cdh4_3
+Added Pin To Net: NetName=NetR8_U_cdh5_2 Pin=R8_U_cdh5-2
+Added Pin To Net: NetName=NetR8_U_cdh5_2 Pin=R18_U_cdh5-2
+Added Net: Name=NetR8_U_cdh5_2
+Added Pin To Net: NetName=NetR8_U_cdh5_3 Pin=R8_U_cdh5-3
+Added Pin To Net: NetName=NetR8_U_cdh5_3 Pin=R12_U_cdh5-1
+Added Net: Name=NetR8_U_cdh5_3
+Added Pin To Net: NetName=NetR8_U_cdh6_2 Pin=R8_U_cdh6-2
+Added Pin To Net: NetName=NetR8_U_cdh6_2 Pin=R18_U_cdh6-2
+Added Net: Name=NetR8_U_cdh6_2
+Added Pin To Net: NetName=NetR8_U_cdh6_3 Pin=R8_U_cdh6-3
+Added Pin To Net: NetName=NetR8_U_cdh6_3 Pin=R12_U_cdh6-1
+Added Net: Name=NetR8_U_cdh6_3
+Added Pin To Net: NetName=NetR8_U_cdh7_2 Pin=R8_U_cdh7-2
+Added Pin To Net: NetName=NetR8_U_cdh7_2 Pin=R18_U_cdh7-2
+Added Net: Name=NetR8_U_cdh7_2
+Added Pin To Net: NetName=NetR8_U_cdh7_3 Pin=R8_U_cdh7-3
+Added Pin To Net: NetName=NetR8_U_cdh7_3 Pin=R12_U_cdh7-1
+Added Net: Name=NetR8_U_cdh7_3
+Added Pin To Net: NetName=NetR8_U_cdh8_2 Pin=R8_U_cdh8-2
+Added Pin To Net: NetName=NetR8_U_cdh8_2 Pin=R18_U_cdh8-2
+Added Net: Name=NetR8_U_cdh8_2
+Added Pin To Net: NetName=NetR8_U_cdh8_3 Pin=R8_U_cdh8-3
+Added Pin To Net: NetName=NetR8_U_cdh8_3 Pin=R12_U_cdh8-1
+Added Net: Name=NetR8_U_cdh8_3
+Added Pin To Net: NetName=NetR12_U_cdh1_2 Pin=R12_U_cdh1-2
+Added Pin To Net: NetName=NetR12_U_cdh1_2 Pin=R13_U_cdh1-1
+Added Pin To Net: NetName=NetR12_U_cdh1_2 Pin=U19_U_cdh1-5
+Added Net: Name=NetR12_U_cdh1_2
+Added Pin To Net: NetName=NetR12_U_cdh2_2 Pin=R12_U_cdh2-2
+Added Pin To Net: NetName=NetR12_U_cdh2_2 Pin=R13_U_cdh2-1
+Added Pin To Net: NetName=NetR12_U_cdh2_2 Pin=U19_U_cdh2-5
+Added Net: Name=NetR12_U_cdh2_2
+Added Pin To Net: NetName=NetR12_U_cdh3_2 Pin=R12_U_cdh3-2
+Added Pin To Net: NetName=NetR12_U_cdh3_2 Pin=R13_U_cdh3-1
+Added Pin To Net: NetName=NetR12_U_cdh3_2 Pin=U19_U_cdh3-5
+Added Net: Name=NetR12_U_cdh3_2
+Added Pin To Net: NetName=NetR12_U_cdh4_2 Pin=R12_U_cdh4-2
+Added Pin To Net: NetName=NetR12_U_cdh4_2 Pin=R13_U_cdh4-1
+Added Pin To Net: NetName=NetR12_U_cdh4_2 Pin=U19_U_cdh4-5
+Added Net: Name=NetR12_U_cdh4_2
+Added Pin To Net: NetName=NetR12_U_cdh5_2 Pin=R12_U_cdh5-2
+Added Pin To Net: NetName=NetR12_U_cdh5_2 Pin=R13_U_cdh5-1
+Added Pin To Net: NetName=NetR12_U_cdh5_2 Pin=U19_U_cdh5-5
+Added Net: Name=NetR12_U_cdh5_2
+Added Pin To Net: NetName=NetR12_U_cdh6_2 Pin=R12_U_cdh6-2
+Added Pin To Net: NetName=NetR12_U_cdh6_2 Pin=R13_U_cdh6-1
+Added Pin To Net: NetName=NetR12_U_cdh6_2 Pin=U19_U_cdh6-5
+Added Net: Name=NetR12_U_cdh6_2
+Added Pin To Net: NetName=NetR12_U_cdh7_2 Pin=R12_U_cdh7-2
+Added Pin To Net: NetName=NetR12_U_cdh7_2 Pin=R13_U_cdh7-1
+Added Pin To Net: NetName=NetR12_U_cdh7_2 Pin=U19_U_cdh7-5
+Added Net: Name=NetR12_U_cdh7_2
+Added Pin To Net: NetName=NetR12_U_cdh8_2 Pin=R12_U_cdh8-2
+Added Pin To Net: NetName=NetR12_U_cdh8_2 Pin=R13_U_cdh8-1
+Added Pin To Net: NetName=NetR12_U_cdh8_2 Pin=U19_U_cdh8-5
+Added Net: Name=NetR12_U_cdh8_2
+Added Pin To Net: NetName=NetR13_U_cdh1_2 Pin=R13_U_cdh1-2
+Added Pin To Net: NetName=NetR13_U_cdh1_2 Pin=R14_U_cdh1-2
+Added Pin To Net: NetName=NetR13_U_cdh1_2 Pin=U19_U_cdh1-8
+Added Pin To Net: NetName=NetR13_U_cdh1_2 Pin=U19_U_cdh1-9
+Added Net: Name=NetR13_U_cdh1_2
+Added Pin To Net: NetName=NetR13_U_cdh2_2 Pin=R13_U_cdh2-2
+Added Pin To Net: NetName=NetR13_U_cdh2_2 Pin=R14_U_cdh2-2
+Added Pin To Net: NetName=NetR13_U_cdh2_2 Pin=U19_U_cdh2-8
+Added Pin To Net: NetName=NetR13_U_cdh2_2 Pin=U19_U_cdh2-9
+Added Net: Name=NetR13_U_cdh2_2
+Added Pin To Net: NetName=NetR13_U_cdh3_2 Pin=R13_U_cdh3-2
+Added Pin To Net: NetName=NetR13_U_cdh3_2 Pin=R14_U_cdh3-2
+Added Pin To Net: NetName=NetR13_U_cdh3_2 Pin=U19_U_cdh3-8
+Added Pin To Net: NetName=NetR13_U_cdh3_2 Pin=U19_U_cdh3-9
+Added Net: Name=NetR13_U_cdh3_2
+Added Pin To Net: NetName=NetR13_U_cdh4_2 Pin=R13_U_cdh4-2
+Added Pin To Net: NetName=NetR13_U_cdh4_2 Pin=R14_U_cdh4-2
+Added Pin To Net: NetName=NetR13_U_cdh4_2 Pin=U19_U_cdh4-8
+Added Pin To Net: NetName=NetR13_U_cdh4_2 Pin=U19_U_cdh4-9
+Added Net: Name=NetR13_U_cdh4_2
+Added Pin To Net: NetName=NetR13_U_cdh5_2 Pin=R13_U_cdh5-2
+Added Pin To Net: NetName=NetR13_U_cdh5_2 Pin=R14_U_cdh5-2
+Added Pin To Net: NetName=NetR13_U_cdh5_2 Pin=U19_U_cdh5-8
+Added Pin To Net: NetName=NetR13_U_cdh5_2 Pin=U19_U_cdh5-9
+Added Net: Name=NetR13_U_cdh5_2
+Added Pin To Net: NetName=NetR13_U_cdh6_2 Pin=R13_U_cdh6-2
+Added Pin To Net: NetName=NetR13_U_cdh6_2 Pin=R14_U_cdh6-2
+Added Pin To Net: NetName=NetR13_U_cdh6_2 Pin=U19_U_cdh6-8
+Added Pin To Net: NetName=NetR13_U_cdh6_2 Pin=U19_U_cdh6-9
+Added Net: Name=NetR13_U_cdh6_2
+Added Pin To Net: NetName=NetR13_U_cdh7_2 Pin=R13_U_cdh7-2
+Added Pin To Net: NetName=NetR13_U_cdh7_2 Pin=R14_U_cdh7-2
+Added Pin To Net: NetName=NetR13_U_cdh7_2 Pin=U19_U_cdh7-8
+Added Pin To Net: NetName=NetR13_U_cdh7_2 Pin=U19_U_cdh7-9
+Added Net: Name=NetR13_U_cdh7_2
+Added Pin To Net: NetName=NetR13_U_cdh8_2 Pin=R13_U_cdh8-2
+Added Pin To Net: NetName=NetR13_U_cdh8_2 Pin=R14_U_cdh8-2
+Added Pin To Net: NetName=NetR13_U_cdh8_2 Pin=U19_U_cdh8-8
+Added Pin To Net: NetName=NetR13_U_cdh8_2 Pin=U19_U_cdh8-9
+Added Net: Name=NetR13_U_cdh8_2
+Added Pin To Net: NetName=NetR24_U_cdh1_1 Pin=R24_U_cdh1-1
+Added Pin To Net: NetName=NetR24_U_cdh1_1 Pin=R26_U_cdh1-2
+Added Pin To Net: NetName=NetR24_U_cdh1_1 Pin=U19_U_cdh1-10
+Added Net: Name=NetR24_U_cdh1_1
+Added Pin To Net: NetName=NetR24_U_cdh2_1 Pin=R24_U_cdh2-1
+Added Pin To Net: NetName=NetR24_U_cdh2_1 Pin=R26_U_cdh2-2
+Added Pin To Net: NetName=NetR24_U_cdh2_1 Pin=U19_U_cdh2-10
+Added Net: Name=NetR24_U_cdh2_1
+Added Pin To Net: NetName=NetR24_U_cdh3_1 Pin=R24_U_cdh3-1
+Added Pin To Net: NetName=NetR24_U_cdh3_1 Pin=R26_U_cdh3-2
+Added Pin To Net: NetName=NetR24_U_cdh3_1 Pin=U19_U_cdh3-10
+Added Net: Name=NetR24_U_cdh3_1
+Added Pin To Net: NetName=NetR24_U_cdh4_1 Pin=R24_U_cdh4-1
+Added Pin To Net: NetName=NetR24_U_cdh4_1 Pin=R26_U_cdh4-2
+Added Pin To Net: NetName=NetR24_U_cdh4_1 Pin=U19_U_cdh4-10
+Added Net: Name=NetR24_U_cdh4_1
+Added Pin To Net: NetName=NetR24_U_cdh5_1 Pin=R24_U_cdh5-1
+Added Pin To Net: NetName=NetR24_U_cdh5_1 Pin=R26_U_cdh5-2
+Added Pin To Net: NetName=NetR24_U_cdh5_1 Pin=U19_U_cdh5-10
+Added Net: Name=NetR24_U_cdh5_1
+Added Pin To Net: NetName=NetR24_U_cdh6_1 Pin=R24_U_cdh6-1
+Added Pin To Net: NetName=NetR24_U_cdh6_1 Pin=R26_U_cdh6-2
+Added Pin To Net: NetName=NetR24_U_cdh6_1 Pin=U19_U_cdh6-10
+Added Net: Name=NetR24_U_cdh6_1
+Added Pin To Net: NetName=NetR24_U_cdh7_1 Pin=R24_U_cdh7-1
+Added Pin To Net: NetName=NetR24_U_cdh7_1 Pin=R26_U_cdh7-2
+Added Pin To Net: NetName=NetR24_U_cdh7_1 Pin=U19_U_cdh7-10
+Added Net: Name=NetR24_U_cdh7_1
+Added Pin To Net: NetName=NetR24_U_cdh8_1 Pin=R24_U_cdh8-1
+Added Pin To Net: NetName=NetR24_U_cdh8_1 Pin=R26_U_cdh8-2
+Added Pin To Net: NetName=NetR24_U_cdh8_1 Pin=U19_U_cdh8-10
+Added Net: Name=NetR24_U_cdh8_1
+Change Class Name : Old Net Name=cdh1 New Net Name=U_cdh1
+Change Class Name : Old Net Name=cdh2 New Net Name=U_cdh2
+Change Class Name : Old Net Name=cdh3 New Net Name=U_cdh3
+Change Class Name : Old Net Name=cdh4 New Net Name=U_cdh4
+Change Class Name : Old Net Name=cdh5 New Net Name=U_cdh5
+Change Class Name : Old Net Name=cdh6 New Net Name=U_cdh6
+Change Class Name : Old Net Name=cdh7 New Net Name=U_cdh7
+Change Class Name : Old Net Name=cdh8 New Net Name=U_cdh8
+Added Member To Class: ClassName=U_cdh1 Member=Component C2_U_cdh1 (C2) Cap Semi
+Added Member To Class: ClassName=U_cdh2 Member=Component C2_U_cdh2 (C2) Cap Semi
+Added Member To Class: ClassName=U_cdh3 Member=Component C2_U_cdh3 (C2) Cap Semi
+Added Member To Class: ClassName=U_cdh4 Member=Component C2_U_cdh4 (C2) Cap Semi
+Added Member To Class: ClassName=U_cdh5 Member=Component C2_U_cdh5 (C2) Cap Semi
+Added Member To Class: ClassName=U_cdh6 Member=Component C2_U_cdh6 (C2) Cap Semi
+Added Member To Class: ClassName=U_cdh7 Member=Component C2_U_cdh7 (C2) Cap Semi
+Added Member To Class: ClassName=U_cdh8 Member=Component C2_U_cdh8 (C2) Cap Semi
+Added Member To Class: ClassName=总图 Member=Component C3 Cap Pol3
+Added Member To Class: ClassName=总图 Member=Component C4 Cap Pol3
+Added Member To Class: ClassName=总图 Member=Component C5 Cap Semi
+Added Member To Class: ClassName=U_cdh1 Member=Component D2_U_cdh1 (D2) LED0
+Added Member To Class: ClassName=U_cdh2 Member=Component D2_U_cdh2 (D2) LED0
+Added Member To Class: ClassName=U_cdh3 Member=Component D2_U_cdh3 (D2) LED0
+Added Member To Class: ClassName=U_cdh4 Member=Component D2_U_cdh4 (D2) LED0
+Added Member To Class: ClassName=U_cdh5 Member=Component D2_U_cdh5 (D2) LED0
+Added Member To Class: ClassName=U_cdh6 Member=Component D2_U_cdh6 (D2) LED0
+Added Member To Class: ClassName=U_cdh7 Member=Component D2_U_cdh7 (D2) LED0
+Added Member To Class: ClassName=U_cdh8 Member=Component D2_U_cdh8 (D2) LED0
+Added Member To Class: ClassName=总图 Member=Component D3 1N4007
+Added Member To Class: ClassName=U_cdh1 Member=Component F2_U_cdh1 (F2) Fuse 1
+Added Member To Class: ClassName=U_cdh2 Member=Component F2_U_cdh2 (F2) Fuse 1
+Added Member To Class: ClassName=U_cdh3 Member=Component F2_U_cdh3 (F2) Fuse 1
+Added Member To Class: ClassName=U_cdh4 Member=Component F2_U_cdh4 (F2) Fuse 1
+Added Member To Class: ClassName=U_cdh5 Member=Component F2_U_cdh5 (F2) Fuse 1
+Added Member To Class: ClassName=U_cdh6 Member=Component F2_U_cdh6 (F2) Fuse 1
+Added Member To Class: ClassName=U_cdh7 Member=Component F2_U_cdh7 (F2) Fuse 1
+Added Member To Class: ClassName=U_cdh8 Member=Component F2_U_cdh8 (F2) Fuse 1
+Added Member To Class: ClassName=总图 Member=Component F3 Fuse 1
+Added Member To Class: ClassName=总图 Member=Component P1 Header 5X2
+Added Member To Class: ClassName=U_cdh1 Member=Component Q2_U_cdh1 (Q2) NPN
+Added Member To Class: ClassName=U_cdh2 Member=Component Q2_U_cdh2 (Q2) NPN
+Added Member To Class: ClassName=U_cdh3 Member=Component Q2_U_cdh3 (Q2) NPN
+Added Member To Class: ClassName=U_cdh4 Member=Component Q2_U_cdh4 (Q2) NPN
+Added Member To Class: ClassName=U_cdh5 Member=Component Q2_U_cdh5 (Q2) NPN
+Added Member To Class: ClassName=U_cdh6 Member=Component Q2_U_cdh6 (Q2) NPN
+Added Member To Class: ClassName=U_cdh7 Member=Component Q2_U_cdh7 (Q2) NPN
+Added Member To Class: ClassName=U_cdh8 Member=Component Q2_U_cdh8 (Q2) NPN
+Added Member To Class: ClassName=U_cdh1 Member=Component R3_U_cdh1 (R3) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R3_U_cdh2 (R3) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R3_U_cdh3 (R3) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R3_U_cdh4 (R3) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R3_U_cdh5 (R3) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R3_U_cdh6 (R3) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R3_U_cdh7 (R3) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R3_U_cdh8 (R3) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R4_U_cdh1 (R4) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R4_U_cdh2 (R4) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R4_U_cdh3 (R4) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R4_U_cdh4 (R4) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R4_U_cdh5 (R4) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R4_U_cdh6 (R4) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R4_U_cdh7 (R4) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R4_U_cdh8 (R4) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R6_U_cdh1 (R6) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R6_U_cdh2 (R6) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R6_U_cdh3 (R6) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R6_U_cdh4 (R6) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R6_U_cdh5 (R6) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R6_U_cdh6 (R6) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R6_U_cdh7 (R6) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R6_U_cdh8 (R6) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R8_U_cdh1 (R8) Res Tap
+Added Member To Class: ClassName=U_cdh2 Member=Component R8_U_cdh2 (R8) Res Tap
+Added Member To Class: ClassName=U_cdh3 Member=Component R8_U_cdh3 (R8) Res Tap
+Added Member To Class: ClassName=U_cdh4 Member=Component R8_U_cdh4 (R8) Res Tap
+Added Member To Class: ClassName=U_cdh5 Member=Component R8_U_cdh5 (R8) Res Tap
+Added Member To Class: ClassName=U_cdh6 Member=Component R8_U_cdh6 (R8) Res Tap
+Added Member To Class: ClassName=U_cdh7 Member=Component R8_U_cdh7 (R8) Res Tap
+Added Member To Class: ClassName=U_cdh8 Member=Component R8_U_cdh8 (R8) Res Tap
+Added Member To Class: ClassName=U_cdh1 Member=Component R12_U_cdh1 (R12) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R12_U_cdh2 (R12) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R12_U_cdh3 (R12) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R12_U_cdh4 (R12) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R12_U_cdh5 (R12) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R12_U_cdh6 (R12) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R12_U_cdh7 (R12) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R12_U_cdh8 (R12) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R13_U_cdh1 (R13) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R13_U_cdh2 (R13) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R13_U_cdh3 (R13) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R13_U_cdh4 (R13) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R13_U_cdh5 (R13) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R13_U_cdh6 (R13) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R13_U_cdh7 (R13) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R13_U_cdh8 (R13) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R14_U_cdh1 (R14) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R14_U_cdh2 (R14) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R14_U_cdh3 (R14) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R14_U_cdh4 (R14) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R14_U_cdh5 (R14) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R14_U_cdh6 (R14) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R14_U_cdh7 (R14) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R14_U_cdh8 (R14) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R16_U_cdh1 (R16) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R16_U_cdh2 (R16) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R16_U_cdh3 (R16) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R16_U_cdh4 (R16) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R16_U_cdh5 (R16) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R16_U_cdh6 (R16) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R16_U_cdh7 (R16) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R16_U_cdh8 (R16) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R18_U_cdh1 (R18) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R18_U_cdh2 (R18) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R18_U_cdh3 (R18) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R18_U_cdh4 (R18) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R18_U_cdh5 (R18) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R18_U_cdh6 (R18) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R18_U_cdh7 (R18) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R18_U_cdh8 (R18) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R20_U_cdh1 (R20) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R20_U_cdh2 (R20) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R20_U_cdh3 (R20) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R20_U_cdh4 (R20) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R20_U_cdh5 (R20) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R20_U_cdh6 (R20) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R20_U_cdh7 (R20) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R20_U_cdh8 (R20) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R22_U_cdh1 (R22) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R22_U_cdh2 (R22) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R22_U_cdh3 (R22) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R22_U_cdh4 (R22) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R22_U_cdh5 (R22) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R22_U_cdh6 (R22) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R22_U_cdh7 (R22) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R22_U_cdh8 (R22) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R24_U_cdh1 (R24) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R24_U_cdh2 (R24) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R24_U_cdh3 (R24) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R24_U_cdh4 (R24) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R24_U_cdh5 (R24) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R24_U_cdh6 (R24) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R24_U_cdh7 (R24) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R24_U_cdh8 (R24) Res2
+Added Member To Class: ClassName=U_cdh1 Member=Component R26_U_cdh1 (R26) Res2
+Added Member To Class: ClassName=U_cdh2 Member=Component R26_U_cdh2 (R26) Res2
+Added Member To Class: ClassName=U_cdh3 Member=Component R26_U_cdh3 (R26) Res2
+Added Member To Class: ClassName=U_cdh4 Member=Component R26_U_cdh4 (R26) Res2
+Added Member To Class: ClassName=U_cdh5 Member=Component R26_U_cdh5 (R26) Res2
+Added Member To Class: ClassName=U_cdh6 Member=Component R26_U_cdh6 (R26) Res2
+Added Member To Class: ClassName=U_cdh7 Member=Component R26_U_cdh7 (R26) Res2
+Added Member To Class: ClassName=U_cdh8 Member=Component R26_U_cdh8 (R26) Res2
+Added Member To Class: ClassName=总图 Member=Component U1 L7808
+Added Member To Class: ClassName=U_cdh1 Member=Component U3_U_cdh1 (U3) LM317
+Added Member To Class: ClassName=U_cdh2 Member=Component U3_U_cdh2 (U3) LM317
+Added Member To Class: ClassName=U_cdh3 Member=Component U3_U_cdh3 (U3) LM317
+Added Member To Class: ClassName=U_cdh4 Member=Component U3_U_cdh4 (U3) LM317
+Added Member To Class: ClassName=U_cdh5 Member=Component U3_U_cdh5 (U3) LM317
+Added Member To Class: ClassName=U_cdh6 Member=Component U3_U_cdh6 (U3) LM317
+Added Member To Class: ClassName=U_cdh7 Member=Component U3_U_cdh7 (U3) LM317
+Added Member To Class: ClassName=U_cdh8 Member=Component U3_U_cdh8 (U3) LM317
+Added Member To Class: ClassName=U_cdh1 Member=Component U5_U_cdh1 (U5) HW-101A
+Added Member To Class: ClassName=U_cdh2 Member=Component U5_U_cdh2 (U5) HW-101A
+Added Member To Class: ClassName=U_cdh3 Member=Component U5_U_cdh3 (U5) HW-101A
+Added Member To Class: ClassName=U_cdh4 Member=Component U5_U_cdh4 (U5) HW-101A
+Added Member To Class: ClassName=U_cdh5 Member=Component U5_U_cdh5 (U5) HW-101A
+Added Member To Class: ClassName=U_cdh6 Member=Component U5_U_cdh6 (U5) HW-101A
+Added Member To Class: ClassName=U_cdh7 Member=Component U5_U_cdh7 (U5) HW-101A
+Added Member To Class: ClassName=U_cdh8 Member=Component U5_U_cdh8 (U5) HW-101A
+Added Member To Class: ClassName=U_cdh1 Member=Component U19_U_cdh1 (U19A) TLC2264
+Added Member To Class: ClassName=U_cdh2 Member=Component U19_U_cdh2 (U19A) TLC2264
+Added Member To Class: ClassName=U_cdh3 Member=Component U19_U_cdh3 (U19A) TLC2264
+Added Member To Class: ClassName=U_cdh4 Member=Component U19_U_cdh4 (U19A) TLC2264
+Added Member To Class: ClassName=U_cdh5 Member=Component U19_U_cdh5 (U19A) TLC2264
+Added Member To Class: ClassName=U_cdh6 Member=Component U19_U_cdh6 (U19A) TLC2264
+Added Member To Class: ClassName=U_cdh7 Member=Component U19_U_cdh7 (U19A) TLC2264
+Added Member To Class: ClassName=U_cdh8 Member=Component U19_U_cdh8 (U19A) TLC2264
+Added Room: Name=U_cdh1
+Added Room: Name=U_cdh2
+Added Room: Name=U_cdh3
+Added Room: Name=U_cdh4
+Added Room: Name=U_cdh5
+Added Room: Name=U_cdh6
+Added Room: Name=U_cdh7
+Added Room: Name=U_cdh8
+Added Room: Name=总图

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CDH1 Pin=U26-10
+Removed Pin From Net: NetName=CDH2 Pin=U26-11
+Removed Pin From Net: NetName=CDH3 Pin=U26-12
+Removed Pin From Net: NetName=CDH4 Pin=U26-13
+Removed Pin From Net: NetName=CDH5 Pin=U26-14
+Removed Pin From Net: NetName=CDH6 Pin=U26-15
+Removed Pin From Net: NetName=CDH7 Pin=U26-16
+Removed Pin From Net: NetName=CDH8 Pin=U26-17
+Added Pin To Net: NetName=CDH8 Pin=U26-10
+Added Pin To Net: NetName=CDH7 Pin=U26-11
+Added Pin To Net: NetName=CDH6 Pin=U26-12
+Added Pin To Net: NetName=CDH5 Pin=U26-13
+Added Pin To Net: NetName=CDH4 Pin=U26-14
+Added Pin To Net: NetName=CDH3 Pin=U26-15
+Added Pin To Net: NetName=CDH2 Pin=U26-16
+Added Pin To Net: NetName=CDH1 Pin=U26-17

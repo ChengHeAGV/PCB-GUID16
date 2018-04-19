@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC21_1 Pin=D12-1
+Removed Pin From Net: NetName=GND Pin=D12-2
+Change Component DesignItemId : Designator=D12 Old DesignItemId=Diode 18TQ045 New DesignItemId=D Zener
+Change Component Comment : Designator=F3 Old Comment=2A/63V New Comment=Fuse 1
+Change Component Comment : Designator=C23 Old Comment=10uF New Comment=10uF/50V
+Change Component Comment : Designator=C22 Old Comment=22uF New Comment=22uF/16V
+Change Component Comment : Designator=L1 Old Comment=22uH New Comment=Inductor
+Change Component Comment : Designator=C19 Old Comment=104 New Comment=0.1uF
+Change Component Comment : Designator=C21 Old Comment=104 New Comment=0.1uF
+Change Component Description : Designator=D12 Old Description=Schottky Rectifier New Description=Zener Diode
+Added Component: Designator=C12(0603-CAP)
+Added Pin To Net: NetName=VCC3.3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=NetC21_1 Pin=D12-2
+Added Member To Class: ClassName=总图 Member=Component C12 104
+Added Member To Class: ClassName=总图 Member=Component L1 Inductor
+Added Member To Class: ClassName=总图 Member=Component R106 1k
+Added Member To Class: ClassName=cdh8 Member=Component U3_cdh8 (U3) LM317
+Added Member To Class: ClassName=cdh15 Member=Component U3_cdh15 (U3) LM317
+Added Member To Class: ClassName=总图 Member=Component U28 MP1584

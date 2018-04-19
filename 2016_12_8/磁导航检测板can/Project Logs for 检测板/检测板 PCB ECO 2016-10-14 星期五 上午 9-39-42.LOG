@@ -1,0 +1,114 @@
+Added Component: Designator=U1(SOT-23-4)
+Added Component: Designator=U2(SOT-23-4)
+Added Component: Designator=U3(SOT-23-4)
+Added Component: Designator=U4(SOT-23-4)
+Added Component: Designator=U5(SOT-23-4)
+Added Component: Designator=U6(SOT-23-4)
+Added Component: Designator=U7(SOT-23-4)
+Added Component: Designator=U8(SOT-23-4)
+Added Component: Designator=U9(PIN4)
+Added Component: Designator=U10(PIN4)
+Added Component: Designator=U11(PIN4)
+Added Component: Designator=U12(PIN4)
+Added Component: Designator=U13(PIN4)
+Added Component: Designator=U14(PIN4)
+Added Component: Designator=U15(PIN4)
+Added Component: Designator=U16(PIN4)
+Added Pin To Net: NetName=H1_IN1 Pin=U1-1
+Added Pin To Net: NetName=H1_IN1 Pin=U9-1
+Added Net: Name=H1_IN1
+Added Pin To Net: NetName=H1_IN3 Pin=U1-3
+Added Pin To Net: NetName=H1_IN3 Pin=U9-3
+Added Net: Name=H1_IN3
+Added Pin To Net: NetName=H1_OUT2 Pin=U1-2
+Added Pin To Net: NetName=H1_OUT2 Pin=U9-2
+Added Net: Name=H1_OUT2
+Added Pin To Net: NetName=H1_OUT4 Pin=U1-4
+Added Pin To Net: NetName=H1_OUT4 Pin=U9-4
+Added Net: Name=H1_OUT4
+Added Pin To Net: NetName=H2_IN1 Pin=U2-1
+Added Pin To Net: NetName=H2_IN1 Pin=U10-1
+Added Net: Name=H2_IN1
+Added Pin To Net: NetName=H2_IN3 Pin=U2-3
+Added Pin To Net: NetName=H2_IN3 Pin=U10-3
+Added Net: Name=H2_IN3
+Added Pin To Net: NetName=H2_OUT2 Pin=U2-2
+Added Pin To Net: NetName=H2_OUT2 Pin=U10-2
+Added Net: Name=H2_OUT2
+Added Pin To Net: NetName=H2_OUT4 Pin=U2-4
+Added Pin To Net: NetName=H2_OUT4 Pin=U10-4
+Added Net: Name=H2_OUT4
+Added Pin To Net: NetName=H3_IN1 Pin=U3-1
+Added Pin To Net: NetName=H3_IN1 Pin=U11-1
+Added Net: Name=H3_IN1
+Added Pin To Net: NetName=H3_IN3 Pin=U3-3
+Added Pin To Net: NetName=H3_IN3 Pin=U11-3
+Added Net: Name=H3_IN3
+Added Pin To Net: NetName=H3_OUT2 Pin=U3-2
+Added Pin To Net: NetName=H3_OUT2 Pin=U11-2
+Added Net: Name=H3_OUT2
+Added Pin To Net: NetName=H3_OUT4 Pin=U3-4
+Added Pin To Net: NetName=H3_OUT4 Pin=U11-4
+Added Net: Name=H3_OUT4
+Added Pin To Net: NetName=H4_IN1 Pin=U4-1
+Added Pin To Net: NetName=H4_IN1 Pin=U12-1
+Added Net: Name=H4_IN1
+Added Pin To Net: NetName=H4_IN3 Pin=U4-3
+Added Pin To Net: NetName=H4_IN3 Pin=U12-3
+Added Net: Name=H4_IN3
+Added Pin To Net: NetName=H4_OUT2 Pin=U4-2
+Added Pin To Net: NetName=H4_OUT2 Pin=U12-2
+Added Net: Name=H4_OUT2
+Added Pin To Net: NetName=H4_OUT4 Pin=U4-4
+Added Pin To Net: NetName=H4_OUT4 Pin=U12-4
+Added Net: Name=H4_OUT4
+Added Pin To Net: NetName=H5_IN1 Pin=U5-1
+Added Pin To Net: NetName=H5_IN1 Pin=U13-1
+Added Net: Name=H5_IN1
+Added Pin To Net: NetName=H5_IN3 Pin=U5-3
+Added Pin To Net: NetName=H5_IN3 Pin=U13-3
+Added Net: Name=H5_IN3
+Added Pin To Net: NetName=H5_OUT2 Pin=U5-2
+Added Pin To Net: NetName=H5_OUT2 Pin=U13-2
+Added Net: Name=H5_OUT2
+Added Pin To Net: NetName=H5_OUT4 Pin=U5-4
+Added Pin To Net: NetName=H5_OUT4 Pin=U13-4
+Added Net: Name=H5_OUT4
+Added Pin To Net: NetName=H6_IN1 Pin=U6-1
+Added Pin To Net: NetName=H6_IN1 Pin=U14-1
+Added Net: Name=H6_IN1
+Added Pin To Net: NetName=H6_IN3 Pin=U6-3
+Added Pin To Net: NetName=H6_IN3 Pin=U14-3
+Added Net: Name=H6_IN3
+Added Pin To Net: NetName=H6_OUT2 Pin=U6-2
+Added Pin To Net: NetName=H6_OUT2 Pin=U14-2
+Added Net: Name=H6_OUT2
+Added Pin To Net: NetName=H6_OUT4 Pin=U6-4
+Added Pin To Net: NetName=H6_OUT4 Pin=U14-4
+Added Net: Name=H6_OUT4
+Added Pin To Net: NetName=H7_IN1 Pin=U7-1
+Added Pin To Net: NetName=H7_IN1 Pin=U15-1
+Added Net: Name=H7_IN1
+Added Pin To Net: NetName=H7_IN3 Pin=U7-3
+Added Pin To Net: NetName=H7_IN3 Pin=U15-3
+Added Net: Name=H7_IN3
+Added Pin To Net: NetName=H7_OUT2 Pin=U7-2
+Added Pin To Net: NetName=H7_OUT2 Pin=U15-2
+Added Net: Name=H7_OUT2
+Added Pin To Net: NetName=H7_OUT4 Pin=U7-4
+Added Pin To Net: NetName=H7_OUT4 Pin=U15-4
+Added Net: Name=H7_OUT4
+Added Pin To Net: NetName=H8_IN1 Pin=U8-1
+Added Pin To Net: NetName=H8_IN1 Pin=U16-1
+Added Net: Name=H8_IN1
+Added Pin To Net: NetName=H8_IN3 Pin=U8-3
+Added Pin To Net: NetName=H8_IN3 Pin=U16-3
+Added Net: Name=H8_IN3
+Added Pin To Net: NetName=H8_OUT2 Pin=U8-2
+Added Pin To Net: NetName=H8_OUT2 Pin=U16-2
+Added Net: Name=H8_OUT2
+Added Pin To Net: NetName=H8_OUT4 Pin=U8-4
+Added Pin To Net: NetName=H8_OUT4 Pin=U16-4
+Added Net: Name=H8_OUT4
+Added Class: Name=¼ì²â°å
+Added Room: Name=¼ì²â°å

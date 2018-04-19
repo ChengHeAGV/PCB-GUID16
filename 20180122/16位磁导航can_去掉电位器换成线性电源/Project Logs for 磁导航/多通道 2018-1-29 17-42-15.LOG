@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=D11 Old DesignItemId=Diode New DesignItemId=SMA(DO-214AC) M7
+Change Component Comment : Designator=D11 Old Comment=1N4007 New Comment=M7
+Change Component Description : Designator=D11 Old Description=Default Diode New Description=¶þ¼«¹Ü
+Change Component Library : Designator=D11 Old Library=Miscellaneous Devices.IntLib New Library=Miscellaneous Devices LC.IntLib

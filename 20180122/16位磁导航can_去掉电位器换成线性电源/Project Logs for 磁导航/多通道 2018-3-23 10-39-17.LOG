@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC14_1 Pin=D12-1
+Removed Pin From Net: NetName=GND Pin=D12-2
+Change Component DesignItemId : Designator=D12 Old DesignItemId=Diode 18TQ045 New DesignItemId=SMA(DO-214AC) SS54
+Change Component Footprint: Designator=D12 Old Footprint=SS34 New Footprint=SMA(DO-214AC)_S1
+Change Component Comment : Designator=D12 Old Comment=SS34 New Comment=SS54
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=NetC14_1 Pin=D12-2

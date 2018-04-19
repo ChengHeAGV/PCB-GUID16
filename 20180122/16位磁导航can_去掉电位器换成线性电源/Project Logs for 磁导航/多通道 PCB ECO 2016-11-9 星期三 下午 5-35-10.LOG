@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C2_cdh1 Old Footprint=C0805 New Footprint=0603
+Change Component Footprint: Designator=C2_cdh2 Old Footprint=C0805 New Footprint=0603
+Change Component Footprint: Designator=C2_cdh3 Old Footprint=C0805 New Footprint=0603
+Change Component Footprint: Designator=C2_cdh4 Old Footprint=C0805 New Footprint=0603
+Change Component Footprint: Designator=C2_cdh5 Old Footprint=C0805 New Footprint=0603
+Change Component Footprint: Designator=C2_cdh6 Old Footprint=C0805 New Footprint=0603
+Change Component Footprint: Designator=C2_cdh7 Old Footprint=C0805 New Footprint=0603
+Change Component Footprint: Designator=C2_cdh8 Old Footprint=C0805 New Footprint=0603
+Change Component Comment : Designator=C2_cdh1 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C2_cdh2 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C2_cdh3 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C2_cdh4 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C2_cdh5 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C2_cdh6 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C2_cdh7 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C2_cdh8 Old Comment=Cap Semi New Comment=0.1uF

@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=Y1 Old DesignItemId=XTAL New DesignItemId=SMD-5032_2P 8MHz 20ppm 20pF
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL_US1 New Footprint=SMD-5032_2P
+Change Component Comment : Designator=Y1 Old Comment=8M New Comment=8MHz ¡À20ppm 20pF
+Added Member To Class: ClassName=×ÜÍ¼ Member=Component Y1 8MHz ¡À20ppm 20pF

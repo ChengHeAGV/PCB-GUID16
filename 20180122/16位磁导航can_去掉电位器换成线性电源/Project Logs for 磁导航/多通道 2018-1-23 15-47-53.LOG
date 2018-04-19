@@ -1,0 +1,128 @@
+Added Component: Designator=R16_cdh1(0603)
+Added Component: Designator=R16_cdh2(0603)
+Added Component: Designator=R16_cdh3(0603)
+Added Component: Designator=R16_cdh4(0603)
+Added Component: Designator=R16_cdh5(0603)
+Added Component: Designator=R16_cdh6(0603)
+Added Component: Designator=R16_cdh7(0603)
+Added Component: Designator=R16_cdh8(0603)
+Added Component: Designator=R16_cdh9(0603)
+Added Component: Designator=R16_cdh10(0603)
+Added Component: Designator=R16_cdh11(0603)
+Added Component: Designator=R16_cdh12(0603)
+Added Component: Designator=R16_cdh13(0603)
+Added Component: Designator=R16_cdh14(0603)
+Added Component: Designator=R16_cdh15(0603)
+Added Component: Designator=R16_cdh16(0603)
+Added Component: Designator=R20_cdh1(0603)
+Added Component: Designator=R20_cdh2(0603)
+Added Component: Designator=R20_cdh3(0603)
+Added Component: Designator=R20_cdh4(0603)
+Added Component: Designator=R20_cdh5(0603)
+Added Component: Designator=R20_cdh6(0603)
+Added Component: Designator=R20_cdh7(0603)
+Added Component: Designator=R20_cdh8(0603)
+Added Component: Designator=R20_cdh9(0603)
+Added Component: Designator=R20_cdh10(0603)
+Added Component: Designator=R20_cdh11(0603)
+Added Component: Designator=R20_cdh12(0603)
+Added Component: Designator=R20_cdh13(0603)
+Added Component: Designator=R20_cdh14(0603)
+Added Component: Designator=R20_cdh15(0603)
+Added Component: Designator=R20_cdh16(0603)
+Added Pin To Net: NetName=NetR16_cdh1_1 Pin=R16_cdh1-1
+Added Pin To Net: NetName=CDH1 Pin=R16_cdh1-2
+Added Pin To Net: NetName=NetR16_cdh2_1 Pin=R16_cdh2-1
+Added Pin To Net: NetName=CDH2 Pin=R16_cdh2-2
+Added Pin To Net: NetName=NetR16_cdh3_1 Pin=R16_cdh3-1
+Added Pin To Net: NetName=CDH3 Pin=R16_cdh3-2
+Added Pin To Net: NetName=NetR16_cdh4_1 Pin=R16_cdh4-1
+Added Pin To Net: NetName=CDH4 Pin=R16_cdh4-2
+Added Pin To Net: NetName=NetR16_cdh5_1 Pin=R16_cdh5-1
+Added Pin To Net: NetName=CDH5 Pin=R16_cdh5-2
+Added Pin To Net: NetName=NetR16_cdh6_1 Pin=R16_cdh6-1
+Added Pin To Net: NetName=CDH6 Pin=R16_cdh6-2
+Added Pin To Net: NetName=NetR16_cdh7_1 Pin=R16_cdh7-1
+Added Pin To Net: NetName=CDH7 Pin=R16_cdh7-2
+Added Pin To Net: NetName=NetR16_cdh8_1 Pin=R16_cdh8-1
+Added Pin To Net: NetName=CDH8 Pin=R16_cdh8-2
+Added Pin To Net: NetName=NetR16_cdh9_1 Pin=R16_cdh9-1
+Added Pin To Net: NetName=CDH9 Pin=R16_cdh9-2
+Added Pin To Net: NetName=NetR16_cdh10_1 Pin=R16_cdh10-1
+Added Pin To Net: NetName=CDH10 Pin=R16_cdh10-2
+Added Pin To Net: NetName=NetR16_cdh11_1 Pin=R16_cdh11-1
+Added Pin To Net: NetName=CDH11 Pin=R16_cdh11-2
+Added Pin To Net: NetName=NetR16_cdh12_1 Pin=R16_cdh12-1
+Added Pin To Net: NetName=CDH12 Pin=R16_cdh12-2
+Added Pin To Net: NetName=NetR16_cdh13_1 Pin=R16_cdh13-1
+Added Pin To Net: NetName=CDH13 Pin=R16_cdh13-2
+Added Pin To Net: NetName=NetR16_cdh14_1 Pin=R16_cdh14-1
+Added Pin To Net: NetName=CDH14 Pin=R16_cdh14-2
+Added Pin To Net: NetName=NetR16_cdh15_1 Pin=R16_cdh15-1
+Added Pin To Net: NetName=CDH15 Pin=R16_cdh15-2
+Added Pin To Net: NetName=NetR16_cdh16_1 Pin=R16_cdh16-1
+Added Pin To Net: NetName=CDH16 Pin=R16_cdh16-2
+Added Pin To Net: NetName=GND Pin=R20_cdh1-1
+Added Pin To Net: NetName=CDH1 Pin=R20_cdh1-2
+Added Pin To Net: NetName=GND Pin=R20_cdh2-1
+Added Pin To Net: NetName=CDH2 Pin=R20_cdh2-2
+Added Pin To Net: NetName=GND Pin=R20_cdh3-1
+Added Pin To Net: NetName=CDH3 Pin=R20_cdh3-2
+Added Pin To Net: NetName=GND Pin=R20_cdh4-1
+Added Pin To Net: NetName=CDH4 Pin=R20_cdh4-2
+Added Pin To Net: NetName=GND Pin=R20_cdh5-1
+Added Pin To Net: NetName=CDH5 Pin=R20_cdh5-2
+Added Pin To Net: NetName=GND Pin=R20_cdh6-1
+Added Pin To Net: NetName=CDH6 Pin=R20_cdh6-2
+Added Pin To Net: NetName=GND Pin=R20_cdh7-1
+Added Pin To Net: NetName=CDH7 Pin=R20_cdh7-2
+Added Pin To Net: NetName=GND Pin=R20_cdh8-1
+Added Pin To Net: NetName=CDH8 Pin=R20_cdh8-2
+Added Pin To Net: NetName=GND Pin=R20_cdh9-1
+Added Pin To Net: NetName=CDH9 Pin=R20_cdh9-2
+Added Pin To Net: NetName=GND Pin=R20_cdh10-1
+Added Pin To Net: NetName=CDH10 Pin=R20_cdh10-2
+Added Pin To Net: NetName=GND Pin=R20_cdh11-1
+Added Pin To Net: NetName=CDH11 Pin=R20_cdh11-2
+Added Pin To Net: NetName=GND Pin=R20_cdh12-1
+Added Pin To Net: NetName=CDH12 Pin=R20_cdh12-2
+Added Pin To Net: NetName=GND Pin=R20_cdh13-1
+Added Pin To Net: NetName=CDH13 Pin=R20_cdh13-2
+Added Pin To Net: NetName=GND Pin=R20_cdh14-1
+Added Pin To Net: NetName=CDH14 Pin=R20_cdh14-2
+Added Pin To Net: NetName=GND Pin=R20_cdh15-1
+Added Pin To Net: NetName=CDH15 Pin=R20_cdh15-2
+Added Pin To Net: NetName=GND Pin=R20_cdh16-1
+Added Pin To Net: NetName=CDH16 Pin=R20_cdh16-2
+Added Member To Class: ClassName=cdh1 Member=Component R16_cdh1 (R16) 4.7K
+Added Member To Class: ClassName=cdh2 Member=Component R16_cdh2 (R16) 4.7K
+Added Member To Class: ClassName=cdh3 Member=Component R16_cdh3 (R16) 4.7K
+Added Member To Class: ClassName=cdh4 Member=Component R16_cdh4 (R16) 4.7K
+Added Member To Class: ClassName=cdh5 Member=Component R16_cdh5 (R16) 4.7K
+Added Member To Class: ClassName=cdh6 Member=Component R16_cdh6 (R16) 4.7K
+Added Member To Class: ClassName=cdh7 Member=Component R16_cdh7 (R16) 4.7K
+Added Member To Class: ClassName=cdh8 Member=Component R16_cdh8 (R16) 4.7K
+Added Member To Class: ClassName=cdh9 Member=Component R16_cdh9 (R16) 4.7K
+Added Member To Class: ClassName=cdh10 Member=Component R16_cdh10 (R16) 4.7K
+Added Member To Class: ClassName=cdh11 Member=Component R16_cdh11 (R16) 4.7K
+Added Member To Class: ClassName=cdh12 Member=Component R16_cdh12 (R16) 4.7K
+Added Member To Class: ClassName=cdh13 Member=Component R16_cdh13 (R16) 4.7K
+Added Member To Class: ClassName=cdh14 Member=Component R16_cdh14 (R16) 4.7K
+Added Member To Class: ClassName=cdh15 Member=Component R16_cdh15 (R16) 4.7K
+Added Member To Class: ClassName=cdh16 Member=Component R16_cdh16 (R16) 4.7K
+Added Member To Class: ClassName=cdh1 Member=Component R20_cdh1 (R20) 4.7K
+Added Member To Class: ClassName=cdh2 Member=Component R20_cdh2 (R20) 4.7K
+Added Member To Class: ClassName=cdh3 Member=Component R20_cdh3 (R20) 4.7K
+Added Member To Class: ClassName=cdh4 Member=Component R20_cdh4 (R20) 4.7K
+Added Member To Class: ClassName=cdh5 Member=Component R20_cdh5 (R20) 4.7K
+Added Member To Class: ClassName=cdh6 Member=Component R20_cdh6 (R20) 4.7K
+Added Member To Class: ClassName=cdh7 Member=Component R20_cdh7 (R20) 4.7K
+Added Member To Class: ClassName=cdh8 Member=Component R20_cdh8 (R20) 4.7K
+Added Member To Class: ClassName=cdh9 Member=Component R20_cdh9 (R20) 4.7K
+Added Member To Class: ClassName=cdh10 Member=Component R20_cdh10 (R20) 4.7K
+Added Member To Class: ClassName=cdh11 Member=Component R20_cdh11 (R20) 4.7K
+Added Member To Class: ClassName=cdh12 Member=Component R20_cdh12 (R20) 4.7K
+Added Member To Class: ClassName=cdh13 Member=Component R20_cdh13 (R20) 4.7K
+Added Member To Class: ClassName=cdh14 Member=Component R20_cdh14 (R20) 4.7K
+Added Member To Class: ClassName=cdh15 Member=Component R20_cdh15 (R20) 4.7K
+Added Member To Class: ClassName=cdh16 Member=Component R20_cdh16 (R20) 4.7K

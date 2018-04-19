@@ -1,0 +1,981 @@
+Change Component DesignItemId : Designator=C18 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C19 Old DesignItemId= New DesignItemId=C_3
+Change Component DesignItemId : Designator=C20 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=U3_cdh1 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh2 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh3 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh4 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh5 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh6 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh7 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh8 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U28 Old DesignItemId= New DesignItemId=MP1584EN
+Change Component DesignItemId : Designator=R105 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R106 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R107 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R108 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R109 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R110 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R111 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R112 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=U27 Old DesignItemId= New DesignItemId=SN65HVD230D
+Change Component DesignItemId : Designator=U2 Old DesignItemId=AM New DesignItemId=AMS1117
+Change Component DesignItemId : Designator=F3 Old DesignItemId=Fuse New DesignItemId=Fuse 1
+Change Component DesignItemId : Designator=U26 Old DesignItemId=stm32f10 New DesignItemId=stm32f103v8t6
+Change Component DesignItemId : Designator=U19_cdh1 Old DesignItemId=TL New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh2 Old DesignItemId=TL New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh3 Old DesignItemId=TL New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh4 Old DesignItemId=TL New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh5 Old DesignItemId=TL New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh6 Old DesignItemId=TL New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh7 Old DesignItemId=TL New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh8 Old DesignItemId=TL New DesignItemId=TLC2264
+Change Component Comment : Designator=F3 Old Comment=2A/63V New Comment=Fuse 1
+Change Component Comment : Designator=Q2_cdh4 Old Comment=2N5551 New Comment=NPN
+Change Component Comment : Designator=C23 Old Comment=10uF/50V New Comment=0.1uF
+Change Component Comment : Designator=C17 Old Comment=22pF New Comment=Cap
+Change Component Comment : Designator=C22 Old Comment=22uF/16V New Comment=0.1uF
+Change Component Comment : Designator=C24 Old Comment=150pF New Comment=0.1uF
+Change Component Description : Designator=F3 Old Description= New Description=Fuse
+Change Component Description : Designator=P2 Old Description= New Description=Header, 4-Pin
+Change Component Description : Designator=U3_cdh1 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh2 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh3 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh4 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh5 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh6 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh7 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh8 Old Description= New Description=LM317
+Change Component Description : Designator=D10 Old Description= New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=C12 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C13 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C15 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C16 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C17 Old Description=Capa New Description=Capacitor
+Change Component Description : Designator=C2_cdh1 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh2 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh3 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh4 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh5 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh6 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh7 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh8 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C21 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C22 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C23 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C24 Old Description=Capacitor (Semiconductor SIM M New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=Y1 Old Description=Crystal Oscil New Description=Crystal Oscillator
+Change Component Description : Designator=D11 Old Description=Default New Description=Default Diode
+Change Component Description : Designator=U5_cdh1 Old Description=Header, New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh2 Old Description=Header, New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh3 Old Description=Header, New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh4 Old Description=Header, New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh5 Old Description=Header, New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh6 Old Description=Header, New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh7 Old Description=Header, New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh8 Old Description=Header, New Description=Header, 4-Pin
+Change Component Description : Designator=L1 Old Description=Ind New Description=Inductor
+Change Component Description : Designator=Q2_cdh1 Old Description=NPN Bipolar Trans New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh2 Old Description=NPN Bipolar Trans New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh3 Old Description=NPN Bipolar Trans New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh4 Old Description=NPN Bipolar Trans New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh5 Old Description=NPN Bipolar Trans New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh6 Old Description=NPN Bipolar Trans New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh7 Old Description=NPN Bipolar Trans New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh8 Old Description=NPN Bipolar Trans New Description=NPN Bipolar Transistor
+Change Component Description : Designator=R3_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R3_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R3_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R3_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R3_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R3_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R3_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R3_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R4_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R4_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R4_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R4_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R4_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R4_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R4_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R4_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R6_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R6_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R6_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R6_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R6_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R6_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R6_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R6_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R12_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R12_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R12_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R12_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R12_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R12_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R12_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R12_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R13_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R13_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R13_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R13_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R13_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R13_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R13_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R13_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R14_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R14_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R14_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R14_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R14_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R14_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R14_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R14_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R16_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R16_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R16_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R16_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R16_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R16_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R16_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R16_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R18_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R18_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R18_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R18_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R18_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R18_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R18_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R18_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R20_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R20_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R20_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R20_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R20_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R20_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R20_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R20_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R22_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R22_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R22_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R22_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R22_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R22_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R22_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R22_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R24_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R24_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R24_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R24_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R24_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R24_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R24_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R24_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R26_cdh1 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R26_cdh2 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R26_cdh3 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R26_cdh4 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R26_cdh5 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R26_cdh6 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R26_cdh7 Old Description=Res New Description=Resistor
+Change Component Description : Designator=R26_cdh8 Old Description=Res New Description=Resistor
+Change Component Description : Designator=D12 Old Description=Schottky Rect New Description=Schottky Rectifier
+Change Component Description : Designator=D2_cdh1 Old Description=Typical INFRARED Ga New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh2 Old Description=Typical INFRARED Ga New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh3 Old Description=Typical INFRARED Ga New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh4 Old Description=Typical INFRARED Ga New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh5 Old Description=Typical INFRARED Ga New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh6 Old Description=Typical INFRARED Ga New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh7 Old Description=Typical INFRARED Ga New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh8 Old Description=Typical INFRARED Ga New Description=Typical INFRARED GaAs LED
+Change Component Library : Designator=C18 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=C19 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R105 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R106 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R107 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R108 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R109 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R110 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R111 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R112 Old Library=Explorer STM32F407 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=U27 Old Library=Explorer STM32F407·â×°? New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=C20 Old Library=WarShip V3_SCH.l New Library=WarShip V3_SCH.lib
+Change Component Library : Designator=U28 Old Library=´Å New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh1 Old Library=´Åµ¼º½.Sc New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh2 Old Library=´Åµ¼º½.Sc New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh3 Old Library=´Åµ¼º½.Sc New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh4 Old Library=´Åµ¼º½.Sc New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh5 Old Library=´Åµ¼º½.Sc New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh6 Old Library=´Åµ¼º½.Sc New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh7 Old Library=´Åµ¼º½.Sc New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh8 Old Library=´Åµ¼º½.Sc New Library=´Åµ¼º½.SchLib
+Added Component: Designator=C2_cdh9(C0805)
+Added Component: Designator=C2_cdh10(C0805)
+Added Component: Designator=C2_cdh11(C0805)
+Added Component: Designator=C2_cdh12(C0805)
+Added Component: Designator=C2_cdh13(C0805)
+Added Component: Designator=C2_cdh14(C0805)
+Added Component: Designator=C2_cdh15(C0805)
+Added Component: Designator=C2_cdh16(C0805)
+Added Component: Designator=D2_cdh9(LED1)
+Added Component: Designator=D2_cdh10(LED1)
+Added Component: Designator=D2_cdh11(LED1)
+Added Component: Designator=D2_cdh12(LED1)
+Added Component: Designator=D2_cdh13(LED1)
+Added Component: Designator=D2_cdh14(LED1)
+Added Component: Designator=D2_cdh15(LED1)
+Added Component: Designator=D2_cdh16(LED1)
+Added Component: Designator=Q2_cdh9(SOT-23)
+Added Component: Designator=Q2_cdh10(SOT-23)
+Added Component: Designator=Q2_cdh11(SOT-23)
+Added Component: Designator=Q2_cdh12(SOT-23)
+Added Component: Designator=Q2_cdh13(SOT-23)
+Added Component: Designator=Q2_cdh14(SOT-23)
+Added Component: Designator=Q2_cdh15(SOT-23)
+Added Component: Designator=Q2_cdh16(SOT-23)
+Added Component: Designator=R3_cdh9(0805)
+Added Component: Designator=R3_cdh10(0805)
+Added Component: Designator=R3_cdh11(0805)
+Added Component: Designator=R3_cdh12(0805)
+Added Component: Designator=R3_cdh13(0805)
+Added Component: Designator=R3_cdh14(0805)
+Added Component: Designator=R3_cdh15(0805)
+Added Component: Designator=R3_cdh16(0805)
+Added Component: Designator=R4_cdh9(0805)
+Added Component: Designator=R4_cdh10(0805)
+Added Component: Designator=R4_cdh11(0805)
+Added Component: Designator=R4_cdh12(0805)
+Added Component: Designator=R4_cdh13(0805)
+Added Component: Designator=R4_cdh14(0805)
+Added Component: Designator=R4_cdh15(0805)
+Added Component: Designator=R4_cdh16(0805)
+Added Component: Designator=R6_cdh9(0805)
+Added Component: Designator=R6_cdh10(0805)
+Added Component: Designator=R6_cdh11(0805)
+Added Component: Designator=R6_cdh12(0805)
+Added Component: Designator=R6_cdh13(0805)
+Added Component: Designator=R6_cdh14(0805)
+Added Component: Designator=R6_cdh15(0805)
+Added Component: Designator=R6_cdh16(0805)
+Added Component: Designator=R8_cdh9(3224W)
+Added Component: Designator=R8_cdh10(3224W)
+Added Component: Designator=R8_cdh11(3224W)
+Added Component: Designator=R8_cdh12(3224W)
+Added Component: Designator=R8_cdh13(3224W)
+Added Component: Designator=R8_cdh14(3224W)
+Added Component: Designator=R8_cdh15(3224W)
+Added Component: Designator=R8_cdh16(3224W)
+Added Component: Designator=R12_cdh9(0805)
+Added Component: Designator=R12_cdh10(0805)
+Added Component: Designator=R12_cdh11(0805)
+Added Component: Designator=R12_cdh12(0805)
+Added Component: Designator=R12_cdh13(0805)
+Added Component: Designator=R12_cdh14(0805)
+Added Component: Designator=R12_cdh15(0805)
+Added Component: Designator=R12_cdh16(0805)
+Added Component: Designator=R13_cdh9(0805)
+Added Component: Designator=R13_cdh10(0805)
+Added Component: Designator=R13_cdh11(0805)
+Added Component: Designator=R13_cdh12(0805)
+Added Component: Designator=R13_cdh13(0805)
+Added Component: Designator=R13_cdh14(0805)
+Added Component: Designator=R13_cdh15(0805)
+Added Component: Designator=R13_cdh16(0805)
+Added Component: Designator=R14_cdh9(0805)
+Added Component: Designator=R14_cdh10(0805)
+Added Component: Designator=R14_cdh11(0805)
+Added Component: Designator=R14_cdh12(0805)
+Added Component: Designator=R14_cdh13(0805)
+Added Component: Designator=R14_cdh14(0805)
+Added Component: Designator=R14_cdh15(0805)
+Added Component: Designator=R14_cdh16(0805)
+Added Component: Designator=R16_cdh9(0603)
+Added Component: Designator=R16_cdh10(0603)
+Added Component: Designator=R16_cdh11(0603)
+Added Component: Designator=R16_cdh12(0603)
+Added Component: Designator=R16_cdh13(0603)
+Added Component: Designator=R16_cdh14(0603)
+Added Component: Designator=R16_cdh15(0603)
+Added Component: Designator=R16_cdh16(0603)
+Added Component: Designator=R18_cdh9(0805)
+Added Component: Designator=R18_cdh10(0805)
+Added Component: Designator=R18_cdh11(0805)
+Added Component: Designator=R18_cdh12(0805)
+Added Component: Designator=R18_cdh13(0805)
+Added Component: Designator=R18_cdh14(0805)
+Added Component: Designator=R18_cdh15(0805)
+Added Component: Designator=R18_cdh16(0805)
+Added Component: Designator=R20_cdh9(0603)
+Added Component: Designator=R20_cdh10(0603)
+Added Component: Designator=R20_cdh11(0603)
+Added Component: Designator=R20_cdh12(0603)
+Added Component: Designator=R20_cdh13(0603)
+Added Component: Designator=R20_cdh14(0603)
+Added Component: Designator=R20_cdh15(0603)
+Added Component: Designator=R20_cdh16(0603)
+Added Component: Designator=R22_cdh9(0805)
+Added Component: Designator=R22_cdh10(0805)
+Added Component: Designator=R22_cdh11(0805)
+Added Component: Designator=R22_cdh12(0805)
+Added Component: Designator=R22_cdh13(0805)
+Added Component: Designator=R22_cdh14(0805)
+Added Component: Designator=R22_cdh15(0805)
+Added Component: Designator=R22_cdh16(0805)
+Added Component: Designator=R24_cdh9(0805)
+Added Component: Designator=R24_cdh10(0805)
+Added Component: Designator=R24_cdh11(0805)
+Added Component: Designator=R24_cdh12(0805)
+Added Component: Designator=R24_cdh13(0805)
+Added Component: Designator=R24_cdh14(0805)
+Added Component: Designator=R24_cdh15(0805)
+Added Component: Designator=R24_cdh16(0805)
+Added Component: Designator=R26_cdh9(0805)
+Added Component: Designator=R26_cdh10(0805)
+Added Component: Designator=R26_cdh11(0805)
+Added Component: Designator=R26_cdh12(0805)
+Added Component: Designator=R26_cdh13(0805)
+Added Component: Designator=R26_cdh14(0805)
+Added Component: Designator=R26_cdh15(0805)
+Added Component: Designator=R26_cdh16(0805)
+Added Component: Designator=U3_cdh9(SO-8)
+Added Component: Designator=U3_cdh10(SO-8)
+Added Component: Designator=U3_cdh11(SO-8)
+Added Component: Designator=U3_cdh12(SO-8)
+Added Component: Designator=U3_cdh13(SO-8)
+Added Component: Designator=U3_cdh14(SO-8)
+Added Component: Designator=U3_cdh15(SO-8)
+Added Component: Designator=U3_cdh16(SO-8)
+Added Component: Designator=U5_cdh9(PIN4)
+Added Component: Designator=U5_cdh10(PIN4)
+Added Component: Designator=U5_cdh11(PIN4)
+Added Component: Designator=U5_cdh12(PIN4)
+Added Component: Designator=U5_cdh13(PIN4)
+Added Component: Designator=U5_cdh14(PIN4)
+Added Component: Designator=U5_cdh15(PIN4)
+Added Component: Designator=U5_cdh16(PIN4)
+Added Component: Designator=U19_cdh9(TSSOP14)
+Added Component: Designator=U19_cdh10(TSSOP14)
+Added Component: Designator=U19_cdh11(TSSOP14)
+Added Component: Designator=U19_cdh12(TSSOP14)
+Added Component: Designator=U19_cdh13(TSSOP14)
+Added Component: Designator=U19_cdh14(TSSOP14)
+Added Component: Designator=U19_cdh15(TSSOP14)
+Added Component: Designator=U19_cdh16(TSSOP14)
+Added Pin To Net: NetName=GND Pin=C2_cdh9-1
+Added Pin To Net: NetName=VCC8 Pin=C2_cdh9-2
+Added Pin To Net: NetName=GND Pin=C2_cdh10-1
+Added Pin To Net: NetName=VCC8 Pin=C2_cdh10-2
+Added Pin To Net: NetName=GND Pin=C2_cdh11-1
+Added Pin To Net: NetName=VCC8 Pin=C2_cdh11-2
+Added Pin To Net: NetName=GND Pin=C2_cdh12-1
+Added Pin To Net: NetName=VCC8 Pin=C2_cdh12-2
+Added Pin To Net: NetName=GND Pin=C2_cdh13-1
+Added Pin To Net: NetName=VCC8 Pin=C2_cdh13-2
+Added Pin To Net: NetName=GND Pin=C2_cdh14-1
+Added Pin To Net: NetName=VCC8 Pin=C2_cdh14-2
+Added Pin To Net: NetName=GND Pin=C2_cdh15-1
+Added Pin To Net: NetName=VCC8 Pin=C2_cdh15-2
+Added Pin To Net: NetName=GND Pin=C2_cdh16-1
+Added Pin To Net: NetName=VCC8 Pin=C2_cdh16-2
+Added Pin To Net: NetName=GND Pin=Q2_cdh9-3
+Added Pin To Net: NetName=GND Pin=Q2_cdh10-3
+Added Pin To Net: NetName=GND Pin=Q2_cdh11-3
+Added Pin To Net: NetName=GND Pin=Q2_cdh12-3
+Added Pin To Net: NetName=GND Pin=Q2_cdh13-3
+Added Pin To Net: NetName=GND Pin=Q2_cdh14-3
+Added Pin To Net: NetName=GND Pin=Q2_cdh15-3
+Added Pin To Net: NetName=GND Pin=Q2_cdh16-3
+Added Pin To Net: NetName=GND Pin=R20_cdh9-2
+Added Pin To Net: NetName=GND Pin=R20_cdh10-2
+Added Pin To Net: NetName=GND Pin=R20_cdh11-2
+Added Pin To Net: NetName=GND Pin=R20_cdh12-2
+Added Pin To Net: NetName=GND Pin=R20_cdh13-2
+Added Pin To Net: NetName=GND Pin=R20_cdh14-2
+Added Pin To Net: NetName=GND Pin=R20_cdh15-2
+Added Pin To Net: NetName=GND Pin=R20_cdh16-2
+Added Pin To Net: NetName=VCC8 Pin=R24_cdh9-2
+Added Pin To Net: NetName=VCC8 Pin=R24_cdh10-2
+Added Pin To Net: NetName=VCC8 Pin=R24_cdh11-2
+Added Pin To Net: NetName=VCC8 Pin=R24_cdh12-2
+Added Pin To Net: NetName=VCC8 Pin=R24_cdh13-2
+Added Pin To Net: NetName=VCC8 Pin=R24_cdh14-2
+Added Pin To Net: NetName=VCC8 Pin=R24_cdh15-2
+Added Pin To Net: NetName=VCC8 Pin=R24_cdh16-2
+Added Pin To Net: NetName=GND Pin=R26_cdh9-1
+Added Pin To Net: NetName=GND Pin=R26_cdh10-1
+Added Pin To Net: NetName=GND Pin=R26_cdh11-1
+Added Pin To Net: NetName=GND Pin=R26_cdh12-1
+Added Pin To Net: NetName=GND Pin=R26_cdh13-1
+Added Pin To Net: NetName=GND Pin=R26_cdh14-1
+Added Pin To Net: NetName=GND Pin=R26_cdh15-1
+Added Pin To Net: NetName=GND Pin=R26_cdh16-1
+Added Pin To Net: NetName=VCC8 Pin=U3_cdh9-1
+Added Pin To Net: NetName=VCC8 Pin=U3_cdh10-1
+Added Pin To Net: NetName=VCC8 Pin=U3_cdh11-1
+Added Pin To Net: NetName=VCC8 Pin=U3_cdh12-1
+Added Pin To Net: NetName=VCC8 Pin=U3_cdh13-1
+Added Pin To Net: NetName=VCC8 Pin=U3_cdh14-1
+Added Pin To Net: NetName=VCC8 Pin=U3_cdh15-1
+Added Pin To Net: NetName=VCC8 Pin=U3_cdh16-1
+Added Pin To Net: NetName=VCC8 Pin=U19_cdh9-4
+Added Pin To Net: NetName=GND Pin=U19_cdh9-11
+Added Pin To Net: NetName=VCC8 Pin=U19_cdh10-4
+Added Pin To Net: NetName=GND Pin=U19_cdh10-11
+Added Pin To Net: NetName=VCC8 Pin=U19_cdh11-4
+Added Pin To Net: NetName=GND Pin=U19_cdh11-11
+Added Pin To Net: NetName=VCC8 Pin=U19_cdh12-4
+Added Pin To Net: NetName=GND Pin=U19_cdh12-11
+Added Pin To Net: NetName=VCC8 Pin=U19_cdh13-4
+Added Pin To Net: NetName=GND Pin=U19_cdh13-11
+Added Pin To Net: NetName=VCC8 Pin=U19_cdh14-4
+Added Pin To Net: NetName=GND Pin=U19_cdh14-11
+Added Pin To Net: NetName=VCC8 Pin=U19_cdh15-4
+Added Pin To Net: NetName=GND Pin=U19_cdh15-11
+Added Pin To Net: NetName=VCC8 Pin=U19_cdh16-4
+Added Pin To Net: NetName=GND Pin=U19_cdh16-11
+Added Pin To Net: NetName=CDH9 Pin=Q2_cdh9-1
+Added Pin To Net: NetName=CDH9 Pin=U26-29
+Added Net: Name=CDH9
+Added Pin To Net: NetName=CDH10 Pin=Q2_cdh10-1
+Added Pin To Net: NetName=CDH10 Pin=U26-30
+Added Net: Name=CDH10
+Added Pin To Net: NetName=CDH11 Pin=Q2_cdh11-1
+Added Pin To Net: NetName=CDH11 Pin=U26-31
+Added Net: Name=CDH11
+Added Pin To Net: NetName=CDH12 Pin=Q2_cdh12-1
+Added Pin To Net: NetName=CDH12 Pin=U26-32
+Added Net: Name=CDH12
+Added Pin To Net: NetName=CDH13 Pin=Q2_cdh13-1
+Added Pin To Net: NetName=CDH13 Pin=U26-25
+Added Net: Name=CDH13
+Added Pin To Net: NetName=CDH14 Pin=Q2_cdh14-1
+Added Pin To Net: NetName=CDH14 Pin=U26-26
+Added Net: Name=CDH14
+Added Pin To Net: NetName=CDH15 Pin=Q2_cdh15-1
+Added Pin To Net: NetName=CDH15 Pin=U26-27
+Added Net: Name=CDH15
+Added Pin To Net: NetName=CDH16 Pin=Q2_cdh16-1
+Added Pin To Net: NetName=CDH16 Pin=U26-28
+Added Net: Name=CDH16
+Added Pin To Net: NetName=H1_IN1_cdh9 Pin=R6_cdh9-1
+Added Pin To Net: NetName=H1_IN1_cdh9 Pin=U3_cdh9-2
+Added Pin To Net: NetName=H1_IN1_cdh9 Pin=U3_cdh9-3
+Added Pin To Net: NetName=H1_IN1_cdh9 Pin=U5_cdh9-4
+Added Pin To Net: NetName=H1_IN1_cdh9 Pin=U19_cdh9-13
+Added Net: Name=H1_IN1_cdh9
+Added Pin To Net: NetName=H1_IN1_cdh10 Pin=R6_cdh10-1
+Added Pin To Net: NetName=H1_IN1_cdh10 Pin=U3_cdh10-2
+Added Pin To Net: NetName=H1_IN1_cdh10 Pin=U3_cdh10-3
+Added Pin To Net: NetName=H1_IN1_cdh10 Pin=U5_cdh10-4
+Added Pin To Net: NetName=H1_IN1_cdh10 Pin=U19_cdh10-13
+Added Net: Name=H1_IN1_cdh10
+Added Pin To Net: NetName=H1_IN1_cdh11 Pin=R6_cdh11-1
+Added Pin To Net: NetName=H1_IN1_cdh11 Pin=U3_cdh11-2
+Added Pin To Net: NetName=H1_IN1_cdh11 Pin=U3_cdh11-3
+Added Pin To Net: NetName=H1_IN1_cdh11 Pin=U5_cdh11-4
+Added Pin To Net: NetName=H1_IN1_cdh11 Pin=U19_cdh11-13
+Added Net: Name=H1_IN1_cdh11
+Added Pin To Net: NetName=H1_IN1_cdh12 Pin=R6_cdh12-1
+Added Pin To Net: NetName=H1_IN1_cdh12 Pin=U3_cdh12-2
+Added Pin To Net: NetName=H1_IN1_cdh12 Pin=U3_cdh12-3
+Added Pin To Net: NetName=H1_IN1_cdh12 Pin=U5_cdh12-4
+Added Pin To Net: NetName=H1_IN1_cdh12 Pin=U19_cdh12-13
+Added Net: Name=H1_IN1_cdh12
+Added Pin To Net: NetName=H1_IN1_cdh13 Pin=R6_cdh13-1
+Added Pin To Net: NetName=H1_IN1_cdh13 Pin=U3_cdh13-2
+Added Pin To Net: NetName=H1_IN1_cdh13 Pin=U3_cdh13-3
+Added Pin To Net: NetName=H1_IN1_cdh13 Pin=U5_cdh13-4
+Added Pin To Net: NetName=H1_IN1_cdh13 Pin=U19_cdh13-13
+Added Net: Name=H1_IN1_cdh13
+Added Pin To Net: NetName=H1_IN1_cdh14 Pin=R6_cdh14-1
+Added Pin To Net: NetName=H1_IN1_cdh14 Pin=U3_cdh14-2
+Added Pin To Net: NetName=H1_IN1_cdh14 Pin=U3_cdh14-3
+Added Pin To Net: NetName=H1_IN1_cdh14 Pin=U5_cdh14-4
+Added Pin To Net: NetName=H1_IN1_cdh14 Pin=U19_cdh14-13
+Added Net: Name=H1_IN1_cdh14
+Added Pin To Net: NetName=H1_IN1_cdh15 Pin=R6_cdh15-1
+Added Pin To Net: NetName=H1_IN1_cdh15 Pin=U3_cdh15-2
+Added Pin To Net: NetName=H1_IN1_cdh15 Pin=U3_cdh15-3
+Added Pin To Net: NetName=H1_IN1_cdh15 Pin=U5_cdh15-4
+Added Pin To Net: NetName=H1_IN1_cdh15 Pin=U19_cdh15-13
+Added Net: Name=H1_IN1_cdh15
+Added Pin To Net: NetName=H1_IN1_cdh16 Pin=R6_cdh16-1
+Added Pin To Net: NetName=H1_IN1_cdh16 Pin=U3_cdh16-2
+Added Pin To Net: NetName=H1_IN1_cdh16 Pin=U3_cdh16-3
+Added Pin To Net: NetName=H1_IN1_cdh16 Pin=U5_cdh16-4
+Added Pin To Net: NetName=H1_IN1_cdh16 Pin=U19_cdh16-13
+Added Net: Name=H1_IN1_cdh16
+Added Pin To Net: NetName=H1_IN3_cdh9 Pin=R18_cdh9-1
+Added Pin To Net: NetName=H1_IN3_cdh9 Pin=U3_cdh9-4
+Added Pin To Net: NetName=H1_IN3_cdh9 Pin=U5_cdh9-2
+Added Pin To Net: NetName=H1_IN3_cdh9 Pin=U19_cdh9-7
+Added Net: Name=H1_IN3_cdh9
+Added Pin To Net: NetName=H1_IN3_cdh10 Pin=R18_cdh10-1
+Added Pin To Net: NetName=H1_IN3_cdh10 Pin=U3_cdh10-4
+Added Pin To Net: NetName=H1_IN3_cdh10 Pin=U5_cdh10-2
+Added Pin To Net: NetName=H1_IN3_cdh10 Pin=U19_cdh10-7
+Added Net: Name=H1_IN3_cdh10
+Added Pin To Net: NetName=H1_IN3_cdh11 Pin=R18_cdh11-1
+Added Pin To Net: NetName=H1_IN3_cdh11 Pin=U3_cdh11-4
+Added Pin To Net: NetName=H1_IN3_cdh11 Pin=U5_cdh11-2
+Added Pin To Net: NetName=H1_IN3_cdh11 Pin=U19_cdh11-7
+Added Net: Name=H1_IN3_cdh11
+Added Pin To Net: NetName=H1_IN3_cdh12 Pin=R18_cdh12-1
+Added Pin To Net: NetName=H1_IN3_cdh12 Pin=U3_cdh12-4
+Added Pin To Net: NetName=H1_IN3_cdh12 Pin=U5_cdh12-2
+Added Pin To Net: NetName=H1_IN3_cdh12 Pin=U19_cdh12-7
+Added Net: Name=H1_IN3_cdh12
+Added Pin To Net: NetName=H1_IN3_cdh13 Pin=R18_cdh13-1
+Added Pin To Net: NetName=H1_IN3_cdh13 Pin=U3_cdh13-4
+Added Pin To Net: NetName=H1_IN3_cdh13 Pin=U5_cdh13-2
+Added Pin To Net: NetName=H1_IN3_cdh13 Pin=U19_cdh13-7
+Added Net: Name=H1_IN3_cdh13
+Added Pin To Net: NetName=H1_IN3_cdh14 Pin=R18_cdh14-1
+Added Pin To Net: NetName=H1_IN3_cdh14 Pin=U3_cdh14-4
+Added Pin To Net: NetName=H1_IN3_cdh14 Pin=U5_cdh14-2
+Added Pin To Net: NetName=H1_IN3_cdh14 Pin=U19_cdh14-7
+Added Net: Name=H1_IN3_cdh14
+Added Pin To Net: NetName=H1_IN3_cdh15 Pin=R18_cdh15-1
+Added Pin To Net: NetName=H1_IN3_cdh15 Pin=U3_cdh15-4
+Added Pin To Net: NetName=H1_IN3_cdh15 Pin=U5_cdh15-2
+Added Pin To Net: NetName=H1_IN3_cdh15 Pin=U19_cdh15-7
+Added Net: Name=H1_IN3_cdh15
+Added Pin To Net: NetName=H1_IN3_cdh16 Pin=R18_cdh16-1
+Added Pin To Net: NetName=H1_IN3_cdh16 Pin=U3_cdh16-4
+Added Pin To Net: NetName=H1_IN3_cdh16 Pin=U5_cdh16-2
+Added Pin To Net: NetName=H1_IN3_cdh16 Pin=U19_cdh16-7
+Added Net: Name=H1_IN3_cdh16
+Added Pin To Net: NetName=H1_OUT2_cdh9 Pin=U5_cdh9-3
+Added Pin To Net: NetName=H1_OUT2_cdh9 Pin=U19_cdh9-3
+Added Net: Name=H1_OUT2_cdh9
+Added Pin To Net: NetName=H1_OUT2_cdh10 Pin=U5_cdh10-3
+Added Pin To Net: NetName=H1_OUT2_cdh10 Pin=U19_cdh10-3
+Added Net: Name=H1_OUT2_cdh10
+Added Pin To Net: NetName=H1_OUT2_cdh11 Pin=U5_cdh11-3
+Added Pin To Net: NetName=H1_OUT2_cdh11 Pin=U19_cdh11-3
+Added Net: Name=H1_OUT2_cdh11
+Added Pin To Net: NetName=H1_OUT2_cdh12 Pin=U5_cdh12-3
+Added Pin To Net: NetName=H1_OUT2_cdh12 Pin=U19_cdh12-3
+Added Net: Name=H1_OUT2_cdh12
+Added Pin To Net: NetName=H1_OUT2_cdh13 Pin=U5_cdh13-3
+Added Pin To Net: NetName=H1_OUT2_cdh13 Pin=U19_cdh13-3
+Added Net: Name=H1_OUT2_cdh13
+Added Pin To Net: NetName=H1_OUT2_cdh14 Pin=U5_cdh14-3
+Added Pin To Net: NetName=H1_OUT2_cdh14 Pin=U19_cdh14-3
+Added Net: Name=H1_OUT2_cdh14
+Added Pin To Net: NetName=H1_OUT2_cdh15 Pin=U5_cdh15-3
+Added Pin To Net: NetName=H1_OUT2_cdh15 Pin=U19_cdh15-3
+Added Net: Name=H1_OUT2_cdh15
+Added Pin To Net: NetName=H1_OUT2_cdh16 Pin=U5_cdh16-3
+Added Pin To Net: NetName=H1_OUT2_cdh16 Pin=U19_cdh16-3
+Added Net: Name=H1_OUT2_cdh16
+Added Pin To Net: NetName=H1_OUT4_cdh9 Pin=U5_cdh9-1
+Added Pin To Net: NetName=H1_OUT4_cdh9 Pin=U19_cdh9-6
+Added Net: Name=H1_OUT4_cdh9
+Added Pin To Net: NetName=H1_OUT4_cdh10 Pin=U5_cdh10-1
+Added Pin To Net: NetName=H1_OUT4_cdh10 Pin=U19_cdh10-6
+Added Net: Name=H1_OUT4_cdh10
+Added Pin To Net: NetName=H1_OUT4_cdh11 Pin=U5_cdh11-1
+Added Pin To Net: NetName=H1_OUT4_cdh11 Pin=U19_cdh11-6
+Added Net: Name=H1_OUT4_cdh11
+Added Pin To Net: NetName=H1_OUT4_cdh12 Pin=U5_cdh12-1
+Added Pin To Net: NetName=H1_OUT4_cdh12 Pin=U19_cdh12-6
+Added Net: Name=H1_OUT4_cdh12
+Added Pin To Net: NetName=H1_OUT4_cdh13 Pin=U5_cdh13-1
+Added Pin To Net: NetName=H1_OUT4_cdh13 Pin=U19_cdh13-6
+Added Net: Name=H1_OUT4_cdh13
+Added Pin To Net: NetName=H1_OUT4_cdh14 Pin=U5_cdh14-1
+Added Pin To Net: NetName=H1_OUT4_cdh14 Pin=U19_cdh14-6
+Added Net: Name=H1_OUT4_cdh14
+Added Pin To Net: NetName=H1_OUT4_cdh15 Pin=U5_cdh15-1
+Added Pin To Net: NetName=H1_OUT4_cdh15 Pin=U19_cdh15-6
+Added Net: Name=H1_OUT4_cdh15
+Added Pin To Net: NetName=H1_OUT4_cdh16 Pin=U5_cdh16-1
+Added Pin To Net: NetName=H1_OUT4_cdh16 Pin=U19_cdh16-6
+Added Net: Name=H1_OUT4_cdh16
+Added Pin To Net: NetName=NetD2_cdh9_1 Pin=D2_cdh9-1
+Added Pin To Net: NetName=NetD2_cdh9_1 Pin=R22_cdh9-2
+Added Pin To Net: NetName=NetD2_cdh9_1 Pin=U19_cdh9-14
+Added Net: Name=NetD2_cdh9_1
+Added Pin To Net: NetName=NetD2_cdh9_2 Pin=D2_cdh9-2
+Added Pin To Net: NetName=NetD2_cdh9_2 Pin=R16_cdh9-1
+Added Net: Name=NetD2_cdh9_2
+Added Pin To Net: NetName=NetD2_cdh10_1 Pin=D2_cdh10-1
+Added Pin To Net: NetName=NetD2_cdh10_1 Pin=R22_cdh10-2
+Added Pin To Net: NetName=NetD2_cdh10_1 Pin=U19_cdh10-14
+Added Net: Name=NetD2_cdh10_1
+Added Pin To Net: NetName=NetD2_cdh10_2 Pin=D2_cdh10-2
+Added Pin To Net: NetName=NetD2_cdh10_2 Pin=R16_cdh10-1
+Added Net: Name=NetD2_cdh10_2
+Added Pin To Net: NetName=NetD2_cdh11_1 Pin=D2_cdh11-1
+Added Pin To Net: NetName=NetD2_cdh11_1 Pin=R22_cdh11-2
+Added Pin To Net: NetName=NetD2_cdh11_1 Pin=U19_cdh11-14
+Added Net: Name=NetD2_cdh11_1
+Added Pin To Net: NetName=NetD2_cdh11_2 Pin=D2_cdh11-2
+Added Pin To Net: NetName=NetD2_cdh11_2 Pin=R16_cdh11-1
+Added Net: Name=NetD2_cdh11_2
+Added Pin To Net: NetName=NetD2_cdh12_1 Pin=D2_cdh12-1
+Added Pin To Net: NetName=NetD2_cdh12_1 Pin=R22_cdh12-2
+Added Pin To Net: NetName=NetD2_cdh12_1 Pin=U19_cdh12-14
+Added Net: Name=NetD2_cdh12_1
+Added Pin To Net: NetName=NetD2_cdh12_2 Pin=D2_cdh12-2
+Added Pin To Net: NetName=NetD2_cdh12_2 Pin=R16_cdh12-1
+Added Net: Name=NetD2_cdh12_2
+Added Pin To Net: NetName=NetD2_cdh13_1 Pin=D2_cdh13-1
+Added Pin To Net: NetName=NetD2_cdh13_1 Pin=R22_cdh13-2
+Added Pin To Net: NetName=NetD2_cdh13_1 Pin=U19_cdh13-14
+Added Net: Name=NetD2_cdh13_1
+Added Pin To Net: NetName=NetD2_cdh13_2 Pin=D2_cdh13-2
+Added Pin To Net: NetName=NetD2_cdh13_2 Pin=R16_cdh13-1
+Added Net: Name=NetD2_cdh13_2
+Added Pin To Net: NetName=NetD2_cdh14_1 Pin=D2_cdh14-1
+Added Pin To Net: NetName=NetD2_cdh14_1 Pin=R22_cdh14-2
+Added Pin To Net: NetName=NetD2_cdh14_1 Pin=U19_cdh14-14
+Added Net: Name=NetD2_cdh14_1
+Added Pin To Net: NetName=NetD2_cdh14_2 Pin=D2_cdh14-2
+Added Pin To Net: NetName=NetD2_cdh14_2 Pin=R16_cdh14-1
+Added Net: Name=NetD2_cdh14_2
+Added Pin To Net: NetName=NetD2_cdh15_1 Pin=D2_cdh15-1
+Added Pin To Net: NetName=NetD2_cdh15_1 Pin=R22_cdh15-2
+Added Pin To Net: NetName=NetD2_cdh15_1 Pin=U19_cdh15-14
+Added Net: Name=NetD2_cdh15_1
+Added Pin To Net: NetName=NetD2_cdh15_2 Pin=D2_cdh15-2
+Added Pin To Net: NetName=NetD2_cdh15_2 Pin=R16_cdh15-1
+Added Net: Name=NetD2_cdh15_2
+Added Pin To Net: NetName=NetD2_cdh16_1 Pin=D2_cdh16-1
+Added Pin To Net: NetName=NetD2_cdh16_1 Pin=R22_cdh16-2
+Added Pin To Net: NetName=NetD2_cdh16_1 Pin=U19_cdh16-14
+Added Net: Name=NetD2_cdh16_1
+Added Pin To Net: NetName=NetD2_cdh16_2 Pin=D2_cdh16-2
+Added Pin To Net: NetName=NetD2_cdh16_2 Pin=R16_cdh16-1
+Added Net: Name=NetD2_cdh16_2
+Added Pin To Net: NetName=NetQ2_cdh9_2 Pin=Q2_cdh9-2
+Added Pin To Net: NetName=NetQ2_cdh9_2 Pin=R16_cdh9-2
+Added Pin To Net: NetName=NetQ2_cdh9_2 Pin=R20_cdh9-1
+Added Net: Name=NetQ2_cdh9_2
+Added Pin To Net: NetName=NetQ2_cdh10_2 Pin=Q2_cdh10-2
+Added Pin To Net: NetName=NetQ2_cdh10_2 Pin=R16_cdh10-2
+Added Pin To Net: NetName=NetQ2_cdh10_2 Pin=R20_cdh10-1
+Added Net: Name=NetQ2_cdh10_2
+Added Pin To Net: NetName=NetQ2_cdh11_2 Pin=Q2_cdh11-2
+Added Pin To Net: NetName=NetQ2_cdh11_2 Pin=R16_cdh11-2
+Added Pin To Net: NetName=NetQ2_cdh11_2 Pin=R20_cdh11-1
+Added Net: Name=NetQ2_cdh11_2
+Added Pin To Net: NetName=NetQ2_cdh12_2 Pin=Q2_cdh12-2
+Added Pin To Net: NetName=NetQ2_cdh12_2 Pin=R16_cdh12-2
+Added Pin To Net: NetName=NetQ2_cdh12_2 Pin=R20_cdh12-1
+Added Net: Name=NetQ2_cdh12_2
+Added Pin To Net: NetName=NetQ2_cdh13_2 Pin=Q2_cdh13-2
+Added Pin To Net: NetName=NetQ2_cdh13_2 Pin=R16_cdh13-2
+Added Pin To Net: NetName=NetQ2_cdh13_2 Pin=R20_cdh13-1
+Added Net: Name=NetQ2_cdh13_2
+Added Pin To Net: NetName=NetQ2_cdh14_2 Pin=Q2_cdh14-2
+Added Pin To Net: NetName=NetQ2_cdh14_2 Pin=R16_cdh14-2
+Added Pin To Net: NetName=NetQ2_cdh14_2 Pin=R20_cdh14-1
+Added Net: Name=NetQ2_cdh14_2
+Added Pin To Net: NetName=NetQ2_cdh15_2 Pin=Q2_cdh15-2
+Added Pin To Net: NetName=NetQ2_cdh15_2 Pin=R16_cdh15-2
+Added Pin To Net: NetName=NetQ2_cdh15_2 Pin=R20_cdh15-1
+Added Net: Name=NetQ2_cdh15_2
+Added Pin To Net: NetName=NetQ2_cdh16_2 Pin=Q2_cdh16-2
+Added Pin To Net: NetName=NetQ2_cdh16_2 Pin=R16_cdh16-2
+Added Pin To Net: NetName=NetQ2_cdh16_2 Pin=R20_cdh16-1
+Added Net: Name=NetQ2_cdh16_2
+Added Pin To Net: NetName=NetR3_cdh9_1 Pin=R3_cdh9-1
+Added Pin To Net: NetName=NetR3_cdh9_1 Pin=R14_cdh9-1
+Added Pin To Net: NetName=NetR3_cdh9_1 Pin=U19_cdh9-2
+Added Net: Name=NetR3_cdh9_1
+Added Pin To Net: NetName=NetR3_cdh9_2 Pin=R3_cdh9-2
+Added Pin To Net: NetName=NetR3_cdh9_2 Pin=R4_cdh9-1
+Added Pin To Net: NetName=NetR3_cdh9_2 Pin=U19_cdh9-1
+Added Net: Name=NetR3_cdh9_2
+Added Pin To Net: NetName=NetR3_cdh10_1 Pin=R3_cdh10-1
+Added Pin To Net: NetName=NetR3_cdh10_1 Pin=R14_cdh10-1
+Added Pin To Net: NetName=NetR3_cdh10_1 Pin=U19_cdh10-2
+Added Net: Name=NetR3_cdh10_1
+Added Pin To Net: NetName=NetR3_cdh10_2 Pin=R3_cdh10-2
+Added Pin To Net: NetName=NetR3_cdh10_2 Pin=R4_cdh10-1
+Added Pin To Net: NetName=NetR3_cdh10_2 Pin=U19_cdh10-1
+Added Net: Name=NetR3_cdh10_2
+Added Pin To Net: NetName=NetR3_cdh11_1 Pin=R3_cdh11-1
+Added Pin To Net: NetName=NetR3_cdh11_1 Pin=R14_cdh11-1
+Added Pin To Net: NetName=NetR3_cdh11_1 Pin=U19_cdh11-2
+Added Net: Name=NetR3_cdh11_1
+Added Pin To Net: NetName=NetR3_cdh11_2 Pin=R3_cdh11-2
+Added Pin To Net: NetName=NetR3_cdh11_2 Pin=R4_cdh11-1
+Added Pin To Net: NetName=NetR3_cdh11_2 Pin=U19_cdh11-1
+Added Net: Name=NetR3_cdh11_2
+Added Pin To Net: NetName=NetR3_cdh12_1 Pin=R3_cdh12-1
+Added Pin To Net: NetName=NetR3_cdh12_1 Pin=R14_cdh12-1
+Added Pin To Net: NetName=NetR3_cdh12_1 Pin=U19_cdh12-2
+Added Net: Name=NetR3_cdh12_1
+Added Pin To Net: NetName=NetR3_cdh12_2 Pin=R3_cdh12-2
+Added Pin To Net: NetName=NetR3_cdh12_2 Pin=R4_cdh12-1
+Added Pin To Net: NetName=NetR3_cdh12_2 Pin=U19_cdh12-1
+Added Net: Name=NetR3_cdh12_2
+Added Pin To Net: NetName=NetR3_cdh13_1 Pin=R3_cdh13-1
+Added Pin To Net: NetName=NetR3_cdh13_1 Pin=R14_cdh13-1
+Added Pin To Net: NetName=NetR3_cdh13_1 Pin=U19_cdh13-2
+Added Net: Name=NetR3_cdh13_1
+Added Pin To Net: NetName=NetR3_cdh13_2 Pin=R3_cdh13-2
+Added Pin To Net: NetName=NetR3_cdh13_2 Pin=R4_cdh13-1
+Added Pin To Net: NetName=NetR3_cdh13_2 Pin=U19_cdh13-1
+Added Net: Name=NetR3_cdh13_2
+Added Pin To Net: NetName=NetR3_cdh14_1 Pin=R3_cdh14-1
+Added Pin To Net: NetName=NetR3_cdh14_1 Pin=R14_cdh14-1
+Added Pin To Net: NetName=NetR3_cdh14_1 Pin=U19_cdh14-2
+Added Net: Name=NetR3_cdh14_1
+Added Pin To Net: NetName=NetR3_cdh14_2 Pin=R3_cdh14-2
+Added Pin To Net: NetName=NetR3_cdh14_2 Pin=R4_cdh14-1
+Added Pin To Net: NetName=NetR3_cdh14_2 Pin=U19_cdh14-1
+Added Net: Name=NetR3_cdh14_2
+Added Pin To Net: NetName=NetR3_cdh15_1 Pin=R3_cdh15-1
+Added Pin To Net: NetName=NetR3_cdh15_1 Pin=R14_cdh15-1
+Added Pin To Net: NetName=NetR3_cdh15_1 Pin=U19_cdh15-2
+Added Net: Name=NetR3_cdh15_1
+Added Pin To Net: NetName=NetR3_cdh15_2 Pin=R3_cdh15-2
+Added Pin To Net: NetName=NetR3_cdh15_2 Pin=R4_cdh15-1
+Added Pin To Net: NetName=NetR3_cdh15_2 Pin=U19_cdh15-1
+Added Net: Name=NetR3_cdh15_2
+Added Pin To Net: NetName=NetR3_cdh16_1 Pin=R3_cdh16-1
+Added Pin To Net: NetName=NetR3_cdh16_1 Pin=R14_cdh16-1
+Added Pin To Net: NetName=NetR3_cdh16_1 Pin=U19_cdh16-2
+Added Net: Name=NetR3_cdh16_1
+Added Pin To Net: NetName=NetR3_cdh16_2 Pin=R3_cdh16-2
+Added Pin To Net: NetName=NetR3_cdh16_2 Pin=R4_cdh16-1
+Added Pin To Net: NetName=NetR3_cdh16_2 Pin=U19_cdh16-1
+Added Net: Name=NetR3_cdh16_2
+Added Pin To Net: NetName=NetR4_cdh9_2 Pin=R4_cdh9-2
+Added Pin To Net: NetName=NetR4_cdh9_2 Pin=R22_cdh9-1
+Added Pin To Net: NetName=NetR4_cdh9_2 Pin=U19_cdh9-12
+Added Net: Name=NetR4_cdh9_2
+Added Pin To Net: NetName=NetR4_cdh10_2 Pin=R4_cdh10-2
+Added Pin To Net: NetName=NetR4_cdh10_2 Pin=R22_cdh10-1
+Added Pin To Net: NetName=NetR4_cdh10_2 Pin=U19_cdh10-12
+Added Net: Name=NetR4_cdh10_2
+Added Pin To Net: NetName=NetR4_cdh11_2 Pin=R4_cdh11-2
+Added Pin To Net: NetName=NetR4_cdh11_2 Pin=R22_cdh11-1
+Added Pin To Net: NetName=NetR4_cdh11_2 Pin=U19_cdh11-12
+Added Net: Name=NetR4_cdh11_2
+Added Pin To Net: NetName=NetR4_cdh12_2 Pin=R4_cdh12-2
+Added Pin To Net: NetName=NetR4_cdh12_2 Pin=R22_cdh12-1
+Added Pin To Net: NetName=NetR4_cdh12_2 Pin=U19_cdh12-12
+Added Net: Name=NetR4_cdh12_2
+Added Pin To Net: NetName=NetR4_cdh13_2 Pin=R4_cdh13-2
+Added Pin To Net: NetName=NetR4_cdh13_2 Pin=R22_cdh13-1
+Added Pin To Net: NetName=NetR4_cdh13_2 Pin=U19_cdh13-12
+Added Net: Name=NetR4_cdh13_2
+Added Pin To Net: NetName=NetR4_cdh14_2 Pin=R4_cdh14-2
+Added Pin To Net: NetName=NetR4_cdh14_2 Pin=R22_cdh14-1
+Added Pin To Net: NetName=NetR4_cdh14_2 Pin=U19_cdh14-12
+Added Net: Name=NetR4_cdh14_2
+Added Pin To Net: NetName=NetR4_cdh15_2 Pin=R4_cdh15-2
+Added Pin To Net: NetName=NetR4_cdh15_2 Pin=R22_cdh15-1
+Added Pin To Net: NetName=NetR4_cdh15_2 Pin=U19_cdh15-12
+Added Net: Name=NetR4_cdh15_2
+Added Pin To Net: NetName=NetR4_cdh16_2 Pin=R4_cdh16-2
+Added Pin To Net: NetName=NetR4_cdh16_2 Pin=R22_cdh16-1
+Added Pin To Net: NetName=NetR4_cdh16_2 Pin=U19_cdh16-12
+Added Net: Name=NetR4_cdh16_2
+Added Pin To Net: NetName=NetR6_cdh9_2 Pin=R6_cdh9-2
+Added Pin To Net: NetName=NetR6_cdh9_2 Pin=R8_cdh9-1
+Added Net: Name=NetR6_cdh9_2
+Added Pin To Net: NetName=NetR6_cdh10_2 Pin=R6_cdh10-2
+Added Pin To Net: NetName=NetR6_cdh10_2 Pin=R8_cdh10-1
+Added Net: Name=NetR6_cdh10_2
+Added Pin To Net: NetName=NetR6_cdh11_2 Pin=R6_cdh11-2
+Added Pin To Net: NetName=NetR6_cdh11_2 Pin=R8_cdh11-1
+Added Net: Name=NetR6_cdh11_2
+Added Pin To Net: NetName=NetR6_cdh12_2 Pin=R6_cdh12-2
+Added Pin To Net: NetName=NetR6_cdh12_2 Pin=R8_cdh12-1
+Added Net: Name=NetR6_cdh12_2
+Added Pin To Net: NetName=NetR6_cdh13_2 Pin=R6_cdh13-2
+Added Pin To Net: NetName=NetR6_cdh13_2 Pin=R8_cdh13-1
+Added Net: Name=NetR6_cdh13_2
+Added Pin To Net: NetName=NetR6_cdh14_2 Pin=R6_cdh14-2
+Added Pin To Net: NetName=NetR6_cdh14_2 Pin=R8_cdh14-1
+Added Net: Name=NetR6_cdh14_2
+Added Pin To Net: NetName=NetR6_cdh15_2 Pin=R6_cdh15-2
+Added Pin To Net: NetName=NetR6_cdh15_2 Pin=R8_cdh15-1
+Added Net: Name=NetR6_cdh15_2
+Added Pin To Net: NetName=NetR6_cdh16_2 Pin=R6_cdh16-2
+Added Pin To Net: NetName=NetR6_cdh16_2 Pin=R8_cdh16-1
+Added Net: Name=NetR6_cdh16_2
+Added Pin To Net: NetName=NetR8_cdh9_2 Pin=R8_cdh9-2
+Added Pin To Net: NetName=NetR8_cdh9_2 Pin=R18_cdh9-2
+Added Net: Name=NetR8_cdh9_2
+Added Pin To Net: NetName=NetR8_cdh9_3 Pin=R8_cdh9-3
+Added Pin To Net: NetName=NetR8_cdh9_3 Pin=R12_cdh9-1
+Added Net: Name=NetR8_cdh9_3
+Added Pin To Net: NetName=NetR8_cdh10_2 Pin=R8_cdh10-2
+Added Pin To Net: NetName=NetR8_cdh10_2 Pin=R18_cdh10-2
+Added Net: Name=NetR8_cdh10_2
+Added Pin To Net: NetName=NetR8_cdh10_3 Pin=R8_cdh10-3
+Added Pin To Net: NetName=NetR8_cdh10_3 Pin=R12_cdh10-1
+Added Net: Name=NetR8_cdh10_3
+Added Pin To Net: NetName=NetR8_cdh11_2 Pin=R8_cdh11-2
+Added Pin To Net: NetName=NetR8_cdh11_2 Pin=R18_cdh11-2
+Added Net: Name=NetR8_cdh11_2
+Added Pin To Net: NetName=NetR8_cdh11_3 Pin=R8_cdh11-3
+Added Pin To Net: NetName=NetR8_cdh11_3 Pin=R12_cdh11-1
+Added Net: Name=NetR8_cdh11_3
+Added Pin To Net: NetName=NetR8_cdh12_2 Pin=R8_cdh12-2
+Added Pin To Net: NetName=NetR8_cdh12_2 Pin=R18_cdh12-2
+Added Net: Name=NetR8_cdh12_2
+Added Pin To Net: NetName=NetR8_cdh12_3 Pin=R8_cdh12-3
+Added Pin To Net: NetName=NetR8_cdh12_3 Pin=R12_cdh12-1
+Added Net: Name=NetR8_cdh12_3
+Added Pin To Net: NetName=NetR8_cdh13_2 Pin=R8_cdh13-2
+Added Pin To Net: NetName=NetR8_cdh13_2 Pin=R18_cdh13-2
+Added Net: Name=NetR8_cdh13_2
+Added Pin To Net: NetName=NetR8_cdh13_3 Pin=R8_cdh13-3
+Added Pin To Net: NetName=NetR8_cdh13_3 Pin=R12_cdh13-1
+Added Net: Name=NetR8_cdh13_3
+Added Pin To Net: NetName=NetR8_cdh14_2 Pin=R8_cdh14-2
+Added Pin To Net: NetName=NetR8_cdh14_2 Pin=R18_cdh14-2
+Added Net: Name=NetR8_cdh14_2
+Added Pin To Net: NetName=NetR8_cdh14_3 Pin=R8_cdh14-3
+Added Pin To Net: NetName=NetR8_cdh14_3 Pin=R12_cdh14-1
+Added Net: Name=NetR8_cdh14_3
+Added Pin To Net: NetName=NetR8_cdh15_2 Pin=R8_cdh15-2
+Added Pin To Net: NetName=NetR8_cdh15_2 Pin=R18_cdh15-2
+Added Net: Name=NetR8_cdh15_2
+Added Pin To Net: NetName=NetR8_cdh15_3 Pin=R8_cdh15-3
+Added Pin To Net: NetName=NetR8_cdh15_3 Pin=R12_cdh15-1
+Added Net: Name=NetR8_cdh15_3
+Added Pin To Net: NetName=NetR8_cdh16_2 Pin=R8_cdh16-2
+Added Pin To Net: NetName=NetR8_cdh16_2 Pin=R18_cdh16-2
+Added Net: Name=NetR8_cdh16_2
+Added Pin To Net: NetName=NetR8_cdh16_3 Pin=R8_cdh16-3
+Added Pin To Net: NetName=NetR8_cdh16_3 Pin=R12_cdh16-1
+Added Net: Name=NetR8_cdh16_3
+Added Pin To Net: NetName=NetR12_cdh9_2 Pin=R12_cdh9-2
+Added Pin To Net: NetName=NetR12_cdh9_2 Pin=R13_cdh9-1
+Added Pin To Net: NetName=NetR12_cdh9_2 Pin=U19_cdh9-5
+Added Net: Name=NetR12_cdh9_2
+Added Pin To Net: NetName=NetR12_cdh10_2 Pin=R12_cdh10-2
+Added Pin To Net: NetName=NetR12_cdh10_2 Pin=R13_cdh10-1
+Added Pin To Net: NetName=NetR12_cdh10_2 Pin=U19_cdh10-5
+Added Net: Name=NetR12_cdh10_2
+Added Pin To Net: NetName=NetR12_cdh11_2 Pin=R12_cdh11-2
+Added Pin To Net: NetName=NetR12_cdh11_2 Pin=R13_cdh11-1
+Added Pin To Net: NetName=NetR12_cdh11_2 Pin=U19_cdh11-5
+Added Net: Name=NetR12_cdh11_2
+Added Pin To Net: NetName=NetR12_cdh12_2 Pin=R12_cdh12-2
+Added Pin To Net: NetName=NetR12_cdh12_2 Pin=R13_cdh12-1
+Added Pin To Net: NetName=NetR12_cdh12_2 Pin=U19_cdh12-5
+Added Net: Name=NetR12_cdh12_2
+Added Pin To Net: NetName=NetR12_cdh13_2 Pin=R12_cdh13-2
+Added Pin To Net: NetName=NetR12_cdh13_2 Pin=R13_cdh13-1
+Added Pin To Net: NetName=NetR12_cdh13_2 Pin=U19_cdh13-5
+Added Net: Name=NetR12_cdh13_2
+Added Pin To Net: NetName=NetR12_cdh14_2 Pin=R12_cdh14-2
+Added Pin To Net: NetName=NetR12_cdh14_2 Pin=R13_cdh14-1
+Added Pin To Net: NetName=NetR12_cdh14_2 Pin=U19_cdh14-5
+Added Net: Name=NetR12_cdh14_2
+Added Pin To Net: NetName=NetR12_cdh15_2 Pin=R12_cdh15-2
+Added Pin To Net: NetName=NetR12_cdh15_2 Pin=R13_cdh15-1
+Added Pin To Net: NetName=NetR12_cdh15_2 Pin=U19_cdh15-5
+Added Net: Name=NetR12_cdh15_2
+Added Pin To Net: NetName=NetR12_cdh16_2 Pin=R12_cdh16-2
+Added Pin To Net: NetName=NetR12_cdh16_2 Pin=R13_cdh16-1
+Added Pin To Net: NetName=NetR12_cdh16_2 Pin=U19_cdh16-5
+Added Net: Name=NetR12_cdh16_2
+Added Pin To Net: NetName=NetR13_cdh9_2 Pin=R13_cdh9-2
+Added Pin To Net: NetName=NetR13_cdh9_2 Pin=R14_cdh9-2
+Added Pin To Net: NetName=NetR13_cdh9_2 Pin=U19_cdh9-8
+Added Pin To Net: NetName=NetR13_cdh9_2 Pin=U19_cdh9-9
+Added Net: Name=NetR13_cdh9_2
+Added Pin To Net: NetName=NetR13_cdh10_2 Pin=R13_cdh10-2
+Added Pin To Net: NetName=NetR13_cdh10_2 Pin=R14_cdh10-2
+Added Pin To Net: NetName=NetR13_cdh10_2 Pin=U19_cdh10-8
+Added Pin To Net: NetName=NetR13_cdh10_2 Pin=U19_cdh10-9
+Added Net: Name=NetR13_cdh10_2
+Added Pin To Net: NetName=NetR13_cdh11_2 Pin=R13_cdh11-2
+Added Pin To Net: NetName=NetR13_cdh11_2 Pin=R14_cdh11-2
+Added Pin To Net: NetName=NetR13_cdh11_2 Pin=U19_cdh11-8
+Added Pin To Net: NetName=NetR13_cdh11_2 Pin=U19_cdh11-9
+Added Net: Name=NetR13_cdh11_2
+Added Pin To Net: NetName=NetR13_cdh12_2 Pin=R13_cdh12-2
+Added Pin To Net: NetName=NetR13_cdh12_2 Pin=R14_cdh12-2
+Added Pin To Net: NetName=NetR13_cdh12_2 Pin=U19_cdh12-8
+Added Pin To Net: NetName=NetR13_cdh12_2 Pin=U19_cdh12-9
+Added Net: Name=NetR13_cdh12_2
+Added Pin To Net: NetName=NetR13_cdh13_2 Pin=R13_cdh13-2
+Added Pin To Net: NetName=NetR13_cdh13_2 Pin=R14_cdh13-2
+Added Pin To Net: NetName=NetR13_cdh13_2 Pin=U19_cdh13-8
+Added Pin To Net: NetName=NetR13_cdh13_2 Pin=U19_cdh13-9
+Added Net: Name=NetR13_cdh13_2
+Added Pin To Net: NetName=NetR13_cdh14_2 Pin=R13_cdh14-2
+Added Pin To Net: NetName=NetR13_cdh14_2 Pin=R14_cdh14-2
+Added Pin To Net: NetName=NetR13_cdh14_2 Pin=U19_cdh14-8
+Added Pin To Net: NetName=NetR13_cdh14_2 Pin=U19_cdh14-9
+Added Net: Name=NetR13_cdh14_2
+Added Pin To Net: NetName=NetR13_cdh15_2 Pin=R13_cdh15-2
+Added Pin To Net: NetName=NetR13_cdh15_2 Pin=R14_cdh15-2
+Added Pin To Net: NetName=NetR13_cdh15_2 Pin=U19_cdh15-8
+Added Pin To Net: NetName=NetR13_cdh15_2 Pin=U19_cdh15-9
+Added Net: Name=NetR13_cdh15_2
+Added Pin To Net: NetName=NetR13_cdh16_2 Pin=R13_cdh16-2
+Added Pin To Net: NetName=NetR13_cdh16_2 Pin=R14_cdh16-2
+Added Pin To Net: NetName=NetR13_cdh16_2 Pin=U19_cdh16-8
+Added Pin To Net: NetName=NetR13_cdh16_2 Pin=U19_cdh16-9
+Added Net: Name=NetR13_cdh16_2
+Added Pin To Net: NetName=NetR24_cdh9_1 Pin=R24_cdh9-1
+Added Pin To Net: NetName=NetR24_cdh9_1 Pin=R26_cdh9-2
+Added Pin To Net: NetName=NetR24_cdh9_1 Pin=U19_cdh9-10
+Added Net: Name=NetR24_cdh9_1
+Added Pin To Net: NetName=NetR24_cdh10_1 Pin=R24_cdh10-1
+Added Pin To Net: NetName=NetR24_cdh10_1 Pin=R26_cdh10-2
+Added Pin To Net: NetName=NetR24_cdh10_1 Pin=U19_cdh10-10
+Added Net: Name=NetR24_cdh10_1
+Added Pin To Net: NetName=NetR24_cdh11_1 Pin=R24_cdh11-1
+Added Pin To Net: NetName=NetR24_cdh11_1 Pin=R26_cdh11-2
+Added Pin To Net: NetName=NetR24_cdh11_1 Pin=U19_cdh11-10
+Added Net: Name=NetR24_cdh11_1
+Added Pin To Net: NetName=NetR24_cdh12_1 Pin=R24_cdh12-1
+Added Pin To Net: NetName=NetR24_cdh12_1 Pin=R26_cdh12-2
+Added Pin To Net: NetName=NetR24_cdh12_1 Pin=U19_cdh12-10
+Added Net: Name=NetR24_cdh12_1
+Added Pin To Net: NetName=NetR24_cdh13_1 Pin=R24_cdh13-1
+Added Pin To Net: NetName=NetR24_cdh13_1 Pin=R26_cdh13-2
+Added Pin To Net: NetName=NetR24_cdh13_1 Pin=U19_cdh13-10
+Added Net: Name=NetR24_cdh13_1
+Added Pin To Net: NetName=NetR24_cdh14_1 Pin=R24_cdh14-1
+Added Pin To Net: NetName=NetR24_cdh14_1 Pin=R26_cdh14-2
+Added Pin To Net: NetName=NetR24_cdh14_1 Pin=U19_cdh14-10
+Added Net: Name=NetR24_cdh14_1
+Added Pin To Net: NetName=NetR24_cdh15_1 Pin=R24_cdh15-1
+Added Pin To Net: NetName=NetR24_cdh15_1 Pin=R26_cdh15-2
+Added Pin To Net: NetName=NetR24_cdh15_1 Pin=U19_cdh15-10
+Added Net: Name=NetR24_cdh15_1
+Added Pin To Net: NetName=NetR24_cdh16_1 Pin=R24_cdh16-1
+Added Pin To Net: NetName=NetR24_cdh16_1 Pin=R26_cdh16-2
+Added Pin To Net: NetName=NetR24_cdh16_1 Pin=U19_cdh16-10
+Added Net: Name=NetR24_cdh16_1
+Added Class: Name=cdh9
+Added Class: Name=cdh10
+Added Class: Name=cdh11
+Added Class: Name=cdh12
+Added Class: Name=cdh13
+Added Class: Name=cdh14
+Added Class: Name=cdh15
+Added Class: Name=cdh16
+Added Class: Name=CDH[1..16]
+Added Room: Name=cdh1
+Added Room: Name=cdh2
+Added Room: Name=cdh3
+Added Room: Name=cdh4
+Added Room: Name=cdh5
+Added Room: Name=cdh6
+Added Room: Name=cdh7
+Added Room: Name=cdh8
+Added Room: Name=cdh9
+Added Room: Name=cdh10
+Added Room: Name=cdh11
+Added Room: Name=cdh12
+Added Room: Name=cdh13
+Added Room: Name=cdh14
+Added Room: Name=cdh15
+Added Room: Name=cdh16
+Added Room: Name=×ÜÍ¼

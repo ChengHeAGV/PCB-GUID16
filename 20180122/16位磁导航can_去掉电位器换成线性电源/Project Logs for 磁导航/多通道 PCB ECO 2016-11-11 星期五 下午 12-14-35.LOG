@@ -1,0 +1,9 @@
+Added Component: Designator=C14(0603)
+Added Component: Designator=U1(TO-220)
+Added Pin To Net: NetName=VCC3.3 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VCC8 Pin=U1-3
+Added Member To Class: ClassName=змЭМ Member=Component C14 Cap
+Added Member To Class: ClassName=змЭМ Member=Component U1 L7808

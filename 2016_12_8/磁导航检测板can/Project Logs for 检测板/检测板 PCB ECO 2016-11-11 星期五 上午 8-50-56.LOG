@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=H1_OUT4 Pin=U5_cdh1-1
+Removed Pin From Net: NetName=H1_IN3 Pin=U5_cdh1-2
+Removed Pin From Net: NetName=H1_OUT2 Pin=U5_cdh1-3
+Removed Pin From Net: NetName=H1_IN1 Pin=U5_cdh1-4
+Removed Pin From Net: NetName=H1_IN1 Pin=U9-1
+Removed Pin From Net: NetName=H1_OUT2 Pin=U9-2
+Removed Pin From Net: NetName=H1_IN3 Pin=U9-3
+Removed Pin From Net: NetName=H1_OUT4 Pin=U9-4
+Removed Pin From Net: NetName=H2_IN1 Pin=U10-1
+Removed Pin From Net: NetName=H2_OUT2 Pin=U10-2
+Removed Pin From Net: NetName=H2_IN3 Pin=U10-3
+Removed Pin From Net: NetName=H2_OUT4 Pin=U10-4
+Removed Pin From Net: NetName=H3_IN1 Pin=U11-1
+Removed Pin From Net: NetName=H3_OUT2 Pin=U11-2
+Removed Pin From Net: NetName=H3_IN3 Pin=U11-3
+Removed Pin From Net: NetName=H3_OUT4 Pin=U11-4
+Removed Pin From Net: NetName=H4_IN1 Pin=U12-1
+Removed Pin From Net: NetName=H4_OUT2 Pin=U12-2
+Removed Pin From Net: NetName=H4_IN3 Pin=U12-3
+Removed Pin From Net: NetName=H4_OUT4 Pin=U12-4
+Removed Pin From Net: NetName=H5_IN1 Pin=U13-1
+Removed Pin From Net: NetName=H5_OUT2 Pin=U13-2
+Removed Pin From Net: NetName=H5_IN3 Pin=U13-3
+Removed Pin From Net: NetName=H5_OUT4 Pin=U13-4
+Removed Pin From Net: NetName=H6_IN1 Pin=U14-1
+Removed Pin From Net: NetName=H6_OUT2 Pin=U14-2
+Removed Pin From Net: NetName=H6_IN3 Pin=U14-3
+Removed Pin From Net: NetName=H6_OUT4 Pin=U14-4
+Removed Pin From Net: NetName=H7_IN1 Pin=U15-1
+Removed Pin From Net: NetName=H7_OUT2 Pin=U15-2
+Removed Pin From Net: NetName=H7_IN3 Pin=U15-3
+Removed Pin From Net: NetName=H7_OUT4 Pin=U15-4
+Removed Pin From Net: NetName=H8_IN1 Pin=U16-1
+Removed Pin From Net: NetName=H8_OUT2 Pin=U16-2
+Removed Pin From Net: NetName=H8_IN3 Pin=U16-3
+Removed Pin From Net: NetName=H8_OUT4 Pin=U16-4
+Change Component Comment : Designator=U1 Old Comment=1 New Comment=HW-101A
+Change Component Comment : Designator=U2 Old Comment=2 New Comment=HW-101A
+Change Component Comment : Designator=U3 Old Comment=3 New Comment=HW-101A
+Change Component Comment : Designator=U4 Old Comment=4 New Comment=HW-101A
+Change Component Comment : Designator=U5 Old Comment=5 New Comment=HW-101A
+Change Component Comment : Designator=U6 Old Comment=6 New Comment=HW-101A
+Change Component Comment : Designator=U7 Old Comment=7 New Comment=HW-101A
+Change Component Comment : Designator=U8 Old Comment=8 New Comment=HW-101A
+Change Component Description : Designator=U9 Old Description=Header, 4-P New Description=Header, 4-Pin
+Change Component Description : Designator=U10 Old Description=Header, 4-P New Description=Header, 4-Pin
+Change Component Description : Designator=U11 Old Description=Header, 4-P New Description=Header, 4-Pin
+Change Component Description : Designator=U12 Old Description=Header, 4-P New Description=Header, 4-Pin
+Change Component Description : Designator=U13 Old Description=Header, 4-P New Description=Header, 4-Pin
+Change Component Description : Designator=U14 Old Description=Header, 4-P New Description=Header, 4-Pin
+Change Component Description : Designator=U15 Old Description=Header, 4-P New Description=Header, 4-Pin
+Change Component Description : Designator=U16 Old Description=Header, 4-P New Description=Header, 4-Pin
+Added Pin To Net: NetName=H1_OUT4 Pin=U9-1
+Added Pin To Net: NetName=H1_IN3 Pin=U9-2
+Added Pin To Net: NetName=H1_OUT2 Pin=U9-3
+Added Pin To Net: NetName=H1_IN1 Pin=U9-4
+Added Pin To Net: NetName=H2_OUT4 Pin=U10-1
+Added Pin To Net: NetName=H2_IN3 Pin=U10-2
+Added Pin To Net: NetName=H2_OUT2 Pin=U10-3
+Added Pin To Net: NetName=H2_IN1 Pin=U10-4
+Added Pin To Net: NetName=H3_OUT4 Pin=U11-1
+Added Pin To Net: NetName=H3_IN3 Pin=U11-2
+Added Pin To Net: NetName=H3_OUT2 Pin=U11-3
+Added Pin To Net: NetName=H3_IN1 Pin=U11-4
+Added Pin To Net: NetName=H4_OUT4 Pin=U12-1
+Added Pin To Net: NetName=H4_IN3 Pin=U12-2
+Added Pin To Net: NetName=H4_OUT2 Pin=U12-3
+Added Pin To Net: NetName=H4_IN1 Pin=U12-4
+Added Pin To Net: NetName=H5_OUT4 Pin=U13-1
+Added Pin To Net: NetName=H5_IN3 Pin=U13-2
+Added Pin To Net: NetName=H5_OUT2 Pin=U13-3
+Added Pin To Net: NetName=H5_IN1 Pin=U13-4
+Added Pin To Net: NetName=H6_OUT4 Pin=U14-1
+Added Pin To Net: NetName=H6_IN3 Pin=U14-2
+Added Pin To Net: NetName=H6_OUT2 Pin=U14-3
+Added Pin To Net: NetName=H6_IN1 Pin=U14-4
+Added Pin To Net: NetName=H7_OUT4 Pin=U15-1
+Added Pin To Net: NetName=H7_IN3 Pin=U15-2
+Added Pin To Net: NetName=H7_OUT2 Pin=U15-3
+Added Pin To Net: NetName=H7_IN1 Pin=U15-4
+Added Pin To Net: NetName=H8_OUT4 Pin=U16-1
+Added Pin To Net: NetName=H8_IN3 Pin=U16-2
+Added Pin To Net: NetName=H8_OUT2 Pin=U16-3
+Added Pin To Net: NetName=H8_IN1 Pin=U16-4
+Added Member To Class: ClassName=¼ì²â°å Member=Component U15 Header 4

@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=CDH1 Pin=Q2_cdh1-1
+Added Pin To Net: NetName=CDH1 Pin=U26-10
+Added Net: Name=CDH1
+Added Pin To Net: NetName=CDH2 Pin=Q2_cdh2-1
+Added Pin To Net: NetName=CDH2 Pin=U26-11
+Added Net: Name=CDH2
+Added Pin To Net: NetName=CDH3 Pin=Q2_cdh3-1
+Added Pin To Net: NetName=CDH3 Pin=U26-12
+Added Net: Name=CDH3
+Added Pin To Net: NetName=CDH4 Pin=Q2_cdh4-1
+Added Pin To Net: NetName=CDH4 Pin=U26-13
+Added Net: Name=CDH4
+Added Pin To Net: NetName=CDH5 Pin=Q2_cdh5-1
+Added Pin To Net: NetName=CDH5 Pin=U26-14
+Added Net: Name=CDH5
+Added Pin To Net: NetName=CDH6 Pin=Q2_cdh6-1
+Added Pin To Net: NetName=CDH6 Pin=U26-15
+Added Net: Name=CDH6
+Added Pin To Net: NetName=CDH7 Pin=Q2_cdh7-1
+Added Pin To Net: NetName=CDH7 Pin=U26-16
+Added Net: Name=CDH7
+Added Pin To Net: NetName=CDH8 Pin=Q2_cdh8-1
+Added Pin To Net: NetName=CDH8 Pin=U26-17
+Added Net: Name=CDH8
+Added Class: Name=CDH[1..8]

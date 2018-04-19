@@ -1,0 +1,323 @@
+Removed Pin From Net: NetName=H1_OUT2_cdh1 Pin=U5_cdh1-2
+Removed Pin From Net: NetName=H1_OUT4_cdh1 Pin=U5_cdh1-4
+Removed Pin From Net: NetName=H1_OUT2_cdh2 Pin=U5_cdh2-2
+Removed Pin From Net: NetName=H1_OUT4_cdh2 Pin=U5_cdh2-4
+Removed Pin From Net: NetName=H1_OUT2_cdh3 Pin=U5_cdh3-2
+Removed Pin From Net: NetName=H1_OUT4_cdh3 Pin=U5_cdh3-4
+Removed Pin From Net: NetName=H1_OUT2_cdh4 Pin=U5_cdh4-2
+Removed Pin From Net: NetName=H1_OUT4_cdh4 Pin=U5_cdh4-4
+Removed Pin From Net: NetName=H1_OUT2_cdh5 Pin=U5_cdh5-2
+Removed Pin From Net: NetName=H1_OUT4_cdh5 Pin=U5_cdh5-4
+Removed Pin From Net: NetName=H1_OUT2_cdh6 Pin=U5_cdh6-2
+Removed Pin From Net: NetName=H1_OUT4_cdh6 Pin=U5_cdh6-4
+Removed Pin From Net: NetName=H1_OUT2_cdh7 Pin=U5_cdh7-2
+Removed Pin From Net: NetName=H1_OUT4_cdh7 Pin=U5_cdh7-4
+Removed Pin From Net: NetName=H1_OUT2_cdh8 Pin=U5_cdh8-2
+Removed Pin From Net: NetName=H1_OUT4_cdh8 Pin=U5_cdh8-4
+Removed Member From Class: ClassName=cdh1 Member=F2_cdh1
+Removed Member From Class: ClassName=cdh2 Member=F2_cdh2
+Removed Member From Class: ClassName=cdh3 Member=F2_cdh3
+Removed Member From Class: ClassName=cdh4 Member=F2_cdh4
+Removed Member From Class: ClassName=cdh5 Member=F2_cdh5
+Removed Member From Class: ClassName=cdh6 Member=F2_cdh6
+Removed Member From Class: ClassName=cdh7 Member=F2_cdh7
+Removed Member From Class: ClassName=cdh8 Member=F2_cdh8
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=L7808
+Change Component DesignItemId : Designator=U3_cdh1 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh2 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh3 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh4 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh5 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh6 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh7 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh8 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U19_cdh1 Old DesignItemId=TLC New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh2 Old DesignItemId=TLC New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh3 Old DesignItemId=TLC New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh4 Old DesignItemId=TLC New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh5 Old DesignItemId=TLC New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh6 Old DesignItemId=TLC New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh7 Old DesignItemId=TLC New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh8 Old DesignItemId=TLC New DesignItemId=TLC2264
+Change Component Footprint: Designator=R3_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R3_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R3_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R3_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R3_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R3_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R3_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R3_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R4_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R4_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R4_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R4_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R4_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R4_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R4_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R4_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R6_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R6_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R6_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R6_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R6_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R6_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R6_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R6_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R12_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R12_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R12_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R12_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R12_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R12_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R12_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R12_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R13_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R13_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R13_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R13_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R13_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R13_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R13_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R13_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R14_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R14_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R14_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R14_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R14_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R14_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R14_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R14_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R16_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R16_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R16_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R16_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R16_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R16_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R16_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R16_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R18_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R18_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R18_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R18_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R18_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R18_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R18_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R18_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R20_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R20_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R20_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R20_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R20_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R20_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R20_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R20_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R22_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R22_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R22_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R22_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R22_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R22_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R22_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R22_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R24_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R24_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R24_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R24_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R24_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R24_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R24_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R24_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R26_cdh1 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R26_cdh2 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R26_cdh3 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R26_cdh4 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R26_cdh5 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R26_cdh6 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R26_cdh7 Old Footprint=0805 New Footprint=0603
+Change Component Footprint: Designator=R26_cdh8 Old Footprint=0805 New Footprint=0603
+Change Component Comment : Designator=C2_cdh1 Old Comment=0.1uF New Comment=Cap Semi
+Change Component Comment : Designator=R13_cdh1 Old Comment=1K New Comment=Res2
+Change Component Comment : Designator=R14_cdh1 Old Comment=1K New Comment=Res2
+Change Component Comment : Designator=R22_cdh1 Old Comment=1M New Comment=Res2
+Change Component Comment : Designator=R18_cdh1 Old Comment=2.2K New Comment=Res2
+Change Component Comment : Designator=R4_cdh1 Old Comment=3K New Comment=Res2
+Change Component Comment : Designator=R16_cdh1 Old Comment=4.7K New Comment=Res2
+Change Component Comment : Designator=R16_cdh2 Old Comment=4.7K New Comment=Res2
+Change Component Comment : Designator=R16_cdh3 Old Comment=4.7K New Comment=Res2
+Change Component Comment : Designator=R16_cdh4 Old Comment=4.7K New Comment=Res2
+Change Component Comment : Designator=R16_cdh5 Old Comment=4.7K New Comment=Res2
+Change Component Comment : Designator=R16_cdh6 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R16_cdh7 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R16_cdh8 Old Comment=4.7K New Comment=Res2
+Change Component Comment : Designator=R20_cdh1 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R20_cdh2 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R20_cdh3 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R20_cdh4 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R20_cdh5 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R20_cdh6 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R20_cdh7 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R20_cdh8 Old Comment=4.7k New Comment=Res2
+Change Component Comment : Designator=R6_cdh1 Old Comment=8.2K New Comment=Res2
+Change Component Comment : Designator=R24_cdh1 Old Comment=10k New Comment=Res2
+Change Component Comment : Designator=R26_cdh1 Old Comment=10k New Comment=Res2
+Change Component Comment : Designator=R12_cdh1 Old Comment=30K New Comment=Res2
+Change Component Comment : Designator=R3_cdh1 Old Comment=390K New Comment=Res2
+Change Component Description : Designator=F3 Old Description= New Description=Fuse
+Change Component Description : Designator=U1 Old Description= New Description=L7808
+Change Component Description : Designator=U3_cdh1 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh2 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh3 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh4 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh5 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh6 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh7 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh8 Old Description= New Description=LM317
+Change Component Description : Designator=D3 Old Description=1 Amp General Purpose Recti New Description=1 Amp General Purpose Rectifier
+Change Component Description : Designator=C2_cdh1 Old Description=Capacitor (Semiconductor SIM Mo New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh2 Old Description=Capacitor (Semiconductor SIM Mo New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh3 Old Description=Capacitor (Semiconductor SIM Mo New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh4 Old Description=Capacitor (Semiconductor SIM Mo New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh5 Old Description=Capacitor (Semiconductor SIM Mo New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh6 Old Description=Capacitor (Semiconductor SIM Mo New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh7 Old Description=Capacitor (Semiconductor SIM Mo New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh8 Old Description=Capacitor (Semiconductor SIM Mo New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C5 Old Description=Capacitor (Semiconductor SIM Mo New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=U5_cdh1 Old Description=Header, 4 New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh2 Old Description=Header, 4 New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh3 Old Description=Header, 4 New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh4 Old Description=Header, 4 New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh5 Old Description=Header, 4 New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh6 Old Description=Header, 4 New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh7 Old Description=Header, 4 New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh8 Old Description=Header, 4 New Description=Header, 4-Pin
+Change Component Description : Designator=Q2_cdh1 Old Description=NPN Bipolar Transi New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh2 Old Description=NPN Bipolar Transi New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh3 Old Description=NPN Bipolar Transi New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh4 Old Description=NPN Bipolar Transi New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh5 Old Description=NPN Bipolar Transi New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh6 Old Description=NPN Bipolar Transi New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh7 Old Description=NPN Bipolar Transi New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh8 Old Description=NPN Bipolar Transi New Description=NPN Bipolar Transistor
+Change Component Description : Designator=C3 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=C4 Old Description=Polarized Capacitor (Surface Mo New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=D2_cdh1 Old Description=Typical INFRARED GaA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh2 Old Description=Typical INFRARED GaA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh3 Old Description=Typical INFRARED GaA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh4 Old Description=Typical INFRARED GaA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh5 Old Description=Typical INFRARED GaA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh6 Old Description=Typical INFRARED GaA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh7 Old Description=Typical INFRARED GaA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh8 Old Description=Typical INFRARED GaA New Description=Typical INFRARED GaAs LED
+Added Pin To Net: NetName=CDH1 Pin=P1-1
+Added Pin To Net: NetName=CDH2 Pin=P1-2
+Added Pin To Net: NetName=CDH3 Pin=P1-3
+Added Pin To Net: NetName=CDH4 Pin=P1-4
+Added Pin To Net: NetName=CDH5 Pin=P1-5
+Added Pin To Net: NetName=CDH6 Pin=P1-6
+Added Pin To Net: NetName=CDH7 Pin=P1-7
+Added Pin To Net: NetName=CDH8 Pin=P1-8
+Added Pin To Net: NetName=H1_OUT4_cdh1 Pin=U5_cdh1-1
+Added Pin To Net: NetName=H1_OUT2_cdh1 Pin=U5_cdh1-3
+Added Pin To Net: NetName=H1_OUT4_cdh2 Pin=U5_cdh2-1
+Added Pin To Net: NetName=H1_OUT2_cdh2 Pin=U5_cdh2-3
+Added Pin To Net: NetName=H1_OUT4_cdh3 Pin=U5_cdh3-1
+Added Pin To Net: NetName=H1_OUT2_cdh3 Pin=U5_cdh3-3
+Added Pin To Net: NetName=H1_OUT4_cdh4 Pin=U5_cdh4-1
+Added Pin To Net: NetName=H1_OUT2_cdh4 Pin=U5_cdh4-3
+Added Pin To Net: NetName=H1_OUT4_cdh5 Pin=U5_cdh5-1
+Added Pin To Net: NetName=H1_OUT2_cdh5 Pin=U5_cdh5-3
+Added Pin To Net: NetName=H1_OUT4_cdh6 Pin=U5_cdh6-1
+Added Pin To Net: NetName=H1_OUT2_cdh6 Pin=U5_cdh6-3
+Added Pin To Net: NetName=H1_OUT4_cdh7 Pin=U5_cdh7-1
+Added Pin To Net: NetName=H1_OUT2_cdh7 Pin=U5_cdh7-3
+Added Pin To Net: NetName=H1_OUT4_cdh8 Pin=U5_cdh8-1
+Added Pin To Net: NetName=H1_OUT2_cdh8 Pin=U5_cdh8-3
+Change Net Name : Old Net Name=H1_OUT2_cdh1 New Net Name=H1_IN3_cdh1
+Change Net Name : Old Net Name=H1_OUT2_cdh2 New Net Name=H1_IN3_cdh2
+Change Net Name : Old Net Name=H1_OUT2_cdh3 New Net Name=H1_IN3_cdh3
+Change Net Name : Old Net Name=H1_OUT2_cdh4 New Net Name=H1_IN3_cdh4
+Change Net Name : Old Net Name=H1_OUT2_cdh5 New Net Name=H1_IN3_cdh5
+Change Net Name : Old Net Name=H1_OUT2_cdh6 New Net Name=H1_IN3_cdh6
+Change Net Name : Old Net Name=H1_OUT2_cdh7 New Net Name=H1_IN3_cdh7
+Change Net Name : Old Net Name=H1_OUT2_cdh8 New Net Name=H1_IN3_cdh8
+Change Net Name : Old Net Name=H1_OUT4_cdh1 New Net Name=H1_IN1_cdh1
+Change Net Name : Old Net Name=H1_OUT4_cdh2 New Net Name=H1_IN1_cdh2
+Change Net Name : Old Net Name=H1_OUT4_cdh3 New Net Name=H1_IN1_cdh3
+Change Net Name : Old Net Name=H1_OUT4_cdh4 New Net Name=H1_IN1_cdh4
+Change Net Name : Old Net Name=H1_OUT4_cdh5 New Net Name=H1_IN1_cdh5
+Change Net Name : Old Net Name=H1_OUT4_cdh6 New Net Name=H1_IN1_cdh6
+Change Net Name : Old Net Name=H1_OUT4_cdh7 New Net Name=H1_IN1_cdh7
+Change Net Name : Old Net Name=H1_OUT4_cdh8 New Net Name=H1_IN1_cdh8
+Added Pin To Net: NetName=H1_OUT2_cdh1 Pin=U5_cdh1-2
+Added Pin To Net: NetName=H1_OUT2_cdh1 Pin=U19_cdh1-3
+Added Net: Name=H1_OUT2_cdh1
+Added Pin To Net: NetName=H1_OUT2_cdh2 Pin=U5_cdh2-2
+Added Pin To Net: NetName=H1_OUT2_cdh2 Pin=U19_cdh2-3
+Added Net: Name=H1_OUT2_cdh2
+Added Pin To Net: NetName=H1_OUT2_cdh3 Pin=U5_cdh3-2
+Added Pin To Net: NetName=H1_OUT2_cdh3 Pin=U19_cdh3-3
+Added Net: Name=H1_OUT2_cdh3
+Added Pin To Net: NetName=H1_OUT2_cdh4 Pin=U5_cdh4-2
+Added Pin To Net: NetName=H1_OUT2_cdh4 Pin=U19_cdh4-3
+Added Net: Name=H1_OUT2_cdh4
+Added Pin To Net: NetName=H1_OUT2_cdh5 Pin=U5_cdh5-2
+Added Pin To Net: NetName=H1_OUT2_cdh5 Pin=U19_cdh5-3
+Added Net: Name=H1_OUT2_cdh5
+Added Pin To Net: NetName=H1_OUT2_cdh6 Pin=U5_cdh6-2
+Added Pin To Net: NetName=H1_OUT2_cdh6 Pin=U19_cdh6-3
+Added Net: Name=H1_OUT2_cdh6
+Added Pin To Net: NetName=H1_OUT2_cdh7 Pin=U5_cdh7-2
+Added Pin To Net: NetName=H1_OUT2_cdh7 Pin=U19_cdh7-3
+Added Net: Name=H1_OUT2_cdh7
+Added Pin To Net: NetName=H1_OUT2_cdh8 Pin=U5_cdh8-2
+Added Pin To Net: NetName=H1_OUT2_cdh8 Pin=U19_cdh8-3
+Added Net: Name=H1_OUT2_cdh8
+Added Pin To Net: NetName=H1_OUT4_cdh1 Pin=U5_cdh1-4
+Added Pin To Net: NetName=H1_OUT4_cdh1 Pin=U19_cdh1-6
+Added Net: Name=H1_OUT4_cdh1
+Added Pin To Net: NetName=H1_OUT4_cdh2 Pin=U5_cdh2-4
+Added Pin To Net: NetName=H1_OUT4_cdh2 Pin=U19_cdh2-6
+Added Net: Name=H1_OUT4_cdh2
+Added Pin To Net: NetName=H1_OUT4_cdh3 Pin=U5_cdh3-4
+Added Pin To Net: NetName=H1_OUT4_cdh3 Pin=U19_cdh3-6
+Added Net: Name=H1_OUT4_cdh3
+Added Pin To Net: NetName=H1_OUT4_cdh4 Pin=U5_cdh4-4
+Added Pin To Net: NetName=H1_OUT4_cdh4 Pin=U19_cdh4-6
+Added Net: Name=H1_OUT4_cdh4
+Added Pin To Net: NetName=H1_OUT4_cdh5 Pin=U5_cdh5-4
+Added Pin To Net: NetName=H1_OUT4_cdh5 Pin=U19_cdh5-6
+Added Net: Name=H1_OUT4_cdh5
+Added Pin To Net: NetName=H1_OUT4_cdh6 Pin=U5_cdh6-4
+Added Pin To Net: NetName=H1_OUT4_cdh6 Pin=U19_cdh6-6
+Added Net: Name=H1_OUT4_cdh6
+Added Pin To Net: NetName=H1_OUT4_cdh7 Pin=U5_cdh7-4
+Added Pin To Net: NetName=H1_OUT4_cdh7 Pin=U19_cdh7-6
+Added Net: Name=H1_OUT4_cdh7
+Added Pin To Net: NetName=H1_OUT4_cdh8 Pin=U5_cdh8-4
+Added Pin To Net: NetName=H1_OUT4_cdh8 Pin=U19_cdh8-6
+Added Net: Name=H1_OUT4_cdh8
+Added Pin To Net: NetName=NetQ2_cdh1_1 Pin=Q2_cdh1-1
+Added Net: Name=NetQ2_cdh1_1
+Added Pin To Net: NetName=NetQ2_cdh2_1 Pin=Q2_cdh2-1
+Added Net: Name=NetQ2_cdh2_1
+Added Pin To Net: NetName=NetQ2_cdh3_1 Pin=Q2_cdh3-1
+Added Net: Name=NetQ2_cdh3_1
+Added Pin To Net: NetName=NetQ2_cdh4_1 Pin=Q2_cdh4-1
+Added Net: Name=NetQ2_cdh4_1
+Added Pin To Net: NetName=NetQ2_cdh5_1 Pin=Q2_cdh5-1
+Added Net: Name=NetQ2_cdh5_1
+Added Pin To Net: NetName=NetQ2_cdh6_1 Pin=Q2_cdh6-1
+Added Net: Name=NetQ2_cdh6_1
+Added Pin To Net: NetName=NetQ2_cdh7_1 Pin=Q2_cdh7-1
+Added Net: Name=NetQ2_cdh7_1
+Added Pin To Net: NetName=NetQ2_cdh8_1 Pin=Q2_cdh8-1
+Added Net: Name=NetQ2_cdh8_1
+Added Room: Name=cdh1
+Added Room: Name=cdh2
+Added Room: Name=cdh3
+Added Room: Name=cdh4
+Added Room: Name=cdh5
+Added Room: Name=cdh6
+Added Room: Name=cdh7
+Added Room: Name=cdh8
+Added Room: Name=змЭМ

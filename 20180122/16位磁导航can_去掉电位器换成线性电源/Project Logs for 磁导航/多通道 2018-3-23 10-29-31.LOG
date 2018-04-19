@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=NetC14_1 Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=VCC8 Pin=C22-2
+Removed Pin From Net: NetName=NetD11_2 Pin=F3-1
+Removed Pin From Net: NetName=NetC14_1 Pin=F3-2
+Removed Pin From Net: NetName=NetC14_1 Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-2
+Removed Pin From Net: NetName=VCC8 Pin=VR1-3
+Removed Member From Class: ClassName=总图 Member=F3
+Removed Member From Class: ClassName=总图 Member=VR1
+Change Component DesignItemId : Designator=C22 Old DesignItemId=0603 100nF (104) 10% 50V New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C21 Old DesignItemId=0603 330nF (334) 10% 25V New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C14 Old DesignItemId=Cap Pol3 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=D11 Old DesignItemId=SMA(DO-214AC) M7 New DesignItemId=Diode
+Change Component Footprint: Designator=C21 Old Footprint=0603_C New Footprint=1206
+Change Component Footprint: Designator=C22 Old Footprint=0603_C New Footprint=1206
+Change Component Footprint: Designator=C14 Old Footprint=CAP-6*12 New Footprint=0603-CAP
+Change Component Footprint: Designator=D11 Old Footprint=SMA(DO-214AC)_S1 New Footprint=DIDOE
+Change Component Comment : Designator=C14 Old Comment=22uf/63V New Comment=0.1uF
+Change Component Comment : Designator=C22 Old Comment=100nF (104) 10% 50V New Comment=0.1uF
+Change Component Comment : Designator=C21 Old Comment=330nF (334) 10% 25V New Comment=0.1uF
+Change Component Comment : Designator=D11 Old Comment=M7 New Comment=1N4007
+Added Component: Designator=C12(0603-CAP)
+Added Component: Designator=C23(0603-CAP)
+Added Component: Designator=D12(SS34)
+Added Component: Designator=F10(1206)
+Added Component: Designator=L1(L-7*7*4mm-S)
+Added Component: Designator=R107(0603)
+Added Component: Designator=R108(0603)
+Added Component: Designator=R109(0603)
+Added Component: Designator=R110(0603)
+Added Component: Designator=R111(0603)
+Added Component: Designator=R112(0603)
+Added Component: Designator=U28(SO-8)
+Added Pin To Net: NetName=VCC3.3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=VCC8 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=NetC14_1 Pin=D12-1
+Added Pin To Net: NetName=GND Pin=D12-2
+Added Pin To Net: NetName=NetD11_2 Pin=F10-1
+Added Pin To Net: NetName=NetC14_1 Pin=L1-1
+Added Pin To Net: NetName=VCC8 Pin=L1-2
+Added Pin To Net: NetName=VCC8 Pin=R108-2
+Added Pin To Net: NetName=GND Pin=R109-2
+Added Pin To Net: NetName=GND Pin=R110-2
+Added Pin To Net: NetName=GND Pin=R111-2
+Added Pin To Net: NetName=GND Pin=R112-2
+Added Pin To Net: NetName=NetC14_1 Pin=U28-1
+Added Pin To Net: NetName=GND Pin=U28-5
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U28-8
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=F10-2
+Added Pin To Net: NetName=NetC22_1 Pin=R107-1
+Added Pin To Net: NetName=NetC22_1 Pin=U28-7
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_1 Pin=R112-1
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=U28-3
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetR107_2 Pin=R107-2
+Added Pin To Net: NetName=NetR107_2 Pin=R109-1
+Added Pin To Net: NetName=NetR107_2 Pin=U28-2
+Added Net: Name=NetR107_2
+Added Pin To Net: NetName=NetR108_1 Pin=R108-1
+Added Pin To Net: NetName=NetR108_1 Pin=R110-1
+Added Pin To Net: NetName=NetR108_1 Pin=U28-4
+Added Net: Name=NetR108_1
+Added Pin To Net: NetName=NetR111_1 Pin=R111-1
+Added Pin To Net: NetName=NetR111_1 Pin=U28-6
+Added Net: Name=NetR111_1
+Added Member To Class: ClassName=总图 Member=Component C12 104
+Added Member To Class: ClassName=总图 Member=Component C23 0.1uF
+Added Member To Class: ClassName=总图 Member=Component D12 SS34
+Added Member To Class: ClassName=总图 Member=Component F10 Fuse 1
+Added Member To Class: ClassName=总图 Member=Component L1 Inductor
+Added Member To Class: ClassName=总图 Member=Component R107 100K
+Added Member To Class: ClassName=总图 Member=Component R108 365K
+Added Member To Class: ClassName=总图 Member=Component R109 29.4K
+Added Member To Class: ClassName=总图 Member=Component R110 40.2K
+Added Member To Class: ClassName=总图 Member=Component R111 200K
+Added Member To Class: ClassName=总图 Member=Component R112 100K
+Added Member To Class: ClassName=总图 Member=Component U28 MP1584

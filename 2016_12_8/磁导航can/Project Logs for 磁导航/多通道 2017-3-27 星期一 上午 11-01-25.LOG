@@ -1,0 +1,711 @@
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=AMS1117
+Change Component DesignItemId : Designator=C18 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C19 Old DesignItemId= New DesignItemId=C_3
+Change Component DesignItemId : Designator=C20 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=F3 Old DesignItemId= New DesignItemId=Fuse 1
+Change Component DesignItemId : Designator=P2 Old DesignItemId= New DesignItemId=Header 4
+Change Component DesignItemId : Designator=D10 Old DesignItemId= New DesignItemId=LED0
+Change Component DesignItemId : Designator=U3_cdh1 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh2 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh3 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh4 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh5 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh6 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh7 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh8 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh9 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh10 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh11 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh12 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh13 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh14 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh15 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U3_cdh16 Old DesignItemId= New DesignItemId=LM317
+Change Component DesignItemId : Designator=U28 Old DesignItemId= New DesignItemId=MP1584EN
+Change Component DesignItemId : Designator=R105 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R106 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R107 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R108 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R109 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R110 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R111 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R112 Old DesignItemId= New DesignItemId=R_2
+Change Component DesignItemId : Designator=R3_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh9 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh10 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh11 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh12 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh13 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh14 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh15 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh16 Old DesignItemId= New DesignItemId=Res2
+Change Component DesignItemId : Designator=U27 Old DesignItemId= New DesignItemId=SN65HVD230D
+Change Component DesignItemId : Designator=U19_cdh1 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh2 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh3 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh4 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh5 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh6 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh7 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh8 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh9 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh10 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh11 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh12 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh13 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh14 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh15 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=U19_cdh16 Old DesignItemId= New DesignItemId=TLC2264
+Change Component DesignItemId : Designator=C13 Old DesignItemId=Ca New DesignItemId=Cap
+Change Component DesignItemId : Designator=C15 Old DesignItemId=Ca New DesignItemId=Cap
+Change Component DesignItemId : Designator=C16 Old DesignItemId=Ca New DesignItemId=Cap
+Change Component DesignItemId : Designator=C17 Old DesignItemId=Ca New DesignItemId=Cap
+Change Component DesignItemId : Designator=L1 Old DesignItemId=Induct New DesignItemId=Inductor
+Change Component DesignItemId : Designator=R3_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R3_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R4_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R6_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R12_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R13_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R14_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R16_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R18_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R20_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R22_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R24_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh1 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh2 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh3 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh4 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh5 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh6 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh7 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=R26_cdh8 Old DesignItemId=Re New DesignItemId=Res2
+Change Component DesignItemId : Designator=U26 Old DesignItemId=stm New DesignItemId=stm32f103v8t6
+Change Component Comment : Designator=C23 Old Comment=0.1uF New Comment=10uF/50V
+Change Component Comment : Designator=C22 Old Comment=0.1uF New Comment=22uF/16V
+Change Component Comment : Designator=U2 Old Comment=AMS1117 New Comment=AMS1117-3.3
+Change Component Comment : Designator=C16 Old Comment=Cap New Comment=22p
+Change Component Comment : Designator=C17 Old Comment=Cap New Comment=22p
+Change Component Comment : Designator=C13 Old Comment=Cap New Comment=104
+Change Component Comment : Designator=C15 Old Comment=Cap New Comment=104
+Change Component Comment : Designator=Q2_cdh1 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh2 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh3 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh4 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh5 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh6 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh7 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh8 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh9 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh10 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh11 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh12 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh13 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh14 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh15 Old Comment=NPN New Comment=MMBT5551
+Change Component Comment : Designator=Q2_cdh16 Old Comment=NPN New Comment=MMBT5551
+Change Component Description : Designator=C13 Old Description= New Description=Capacitor
+Change Component Description : Designator=C15 Old Description= New Description=Capacitor
+Change Component Description : Designator=C16 Old Description= New Description=Capacitor
+Change Component Description : Designator=C17 Old Description= New Description=Capacitor
+Change Component Description : Designator=F3 Old Description= New Description=Fuse
+Change Component Description : Designator=P2 Old Description= New Description=Header, 4-Pin
+Change Component Description : Designator=L1 Old Description= New Description=Inductor
+Change Component Description : Designator=U3_cdh1 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh2 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh3 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh4 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh5 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh6 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh7 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh8 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh9 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh10 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh11 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh12 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh13 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh14 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh15 Old Description= New Description=LM317
+Change Component Description : Designator=U3_cdh16 Old Description= New Description=LM317
+Change Component Description : Designator=R3_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R3_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R4_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R6_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R12_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R13_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R14_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R16_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R18_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R20_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R22_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R24_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh1 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh2 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh3 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh4 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh5 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh6 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh7 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh8 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh9 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh10 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh11 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh12 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh13 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh14 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh15 Old Description= New Description=Resistor
+Change Component Description : Designator=R26_cdh16 Old Description= New Description=Resistor
+Change Component Description : Designator=D10 Old Description= New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=C2_cdh1 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh2 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh3 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh4 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh5 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh6 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh7 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh8 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh9 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh10 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh11 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh12 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh13 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh14 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh15 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C2_cdh16 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C21 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C22 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C23 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C24 Old Description=Capacitor (Semiconducto New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=Y1 Old Description=Crystal New Description=Crystal Oscillator
+Change Component Description : Designator=D11 Old Description=De New Description=Default Diode
+Change Component Description : Designator=U5_cdh1 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh2 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh3 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh4 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh5 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh6 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh7 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh8 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh9 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh10 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh11 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh12 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh13 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh14 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh15 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=U5_cdh16 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=Q2_cdh1 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh2 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh3 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh4 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh5 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh6 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh7 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh8 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh9 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh10 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh11 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh12 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh13 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh14 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh15 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=Q2_cdh16 Old Description=NPN Bipolar New Description=NPN Bipolar Transistor
+Change Component Description : Designator=D12 Old Description=Schottk New Description=Schottky Rectifier
+Change Component Description : Designator=D2_cdh1 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh2 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh3 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh4 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh5 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh6 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh7 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh8 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh9 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh10 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh11 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh12 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh13 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh14 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh15 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=D2_cdh16 Old Description=Typical INFRA New Description=Typical INFRARED GaAs LED
+Change Component Library : Designator=U3_cdh1 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh2 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh3 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh4 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh5 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh6 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh7 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh8 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh9 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh10 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh11 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh12 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh13 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh14 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh15 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U3_cdh16 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=U28 Old Library= New Library=´Åµ¼º½.SchLib
+Change Component Library : Designator=D10 Old Library=? New Library=¼ÌµçÆ÷°å_1.SCHLIB
+Change Component Library : Designator=U19_cdh1 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh2 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh3 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh4 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh5 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh6 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh7 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh8 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh9 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh10 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh11 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh12 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh13 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh14 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh15 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=U19_cdh16 Old Library=EXPLORER.SCH New Library=EXPLORER.SCHLIB
+Change Component Library : Designator=C18 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=C19 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R105 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R106 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R107 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R108 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R109 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R110 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R111 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R112 Old Library=Explorer STM3 New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=U27 Old Library=Explorer STM32F New Library=Explorer STM32F407·â×°¿â.IntLib
+Change Component Library : Designator=R3_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R6_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R6_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R6_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R6_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R6_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R6_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R6_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R6_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R12_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R12_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R12_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R12_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R12_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R12_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R12_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R12_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R13_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R13_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R13_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R13_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R13_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R13_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R13_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R13_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R16_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R16_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R16_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R16_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R16_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R16_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R16_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R16_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R18_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R18_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R18_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R18_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R18_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R18_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R18_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R18_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R22_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R22_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R22_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R22_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R22_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R22_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R22_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R22_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R24_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R24_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R24_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R24_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R24_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R24_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R24_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R24_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R26_cdh9 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R26_cdh10 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R26_cdh11 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R26_cdh12 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R26_cdh13 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R26_cdh14 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R26_cdh15 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R26_cdh16 Old Library=Miscellaneous New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=P2 Old Library=Miscellaneous Connectors. New Library=Miscellaneous Connectors.IntLib
+Change Component Library : Designator=F3 Old Library=Miscellaneous Devices.IntLi New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C20 Old Library=WarShip V3_ New Library=WarShip V3_SCH.lib
+Change Component Library : Designator=U2 Old Library=WarShip V3_SCH. New Library=WarShip V3_SCH.lib
+Added Component: Designator=C12(0603-CAP)
+Added Pin To Net: NetName=VCC3.3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Member To Class: ClassName=×ÜÍ¼ Member=Component C12 104
+Added Member To Class: ClassName=cdh16 Member=Component D2_cdh16 (D2) LED0
+Added Member To Class: ClassName=cdh6 Member=Component R22_cdh6 (R22) 1M
+Added Member To Class: ClassName=cdh8 Member=Component R22_cdh8 (R22) 1M
+Added Member To Class: ClassName=cdh1 Member=Component U5_cdh1 (U5) Header 4
+Added Member To Class: ClassName=cdh9 Member=Component U5_cdh9 (U5) Header 4

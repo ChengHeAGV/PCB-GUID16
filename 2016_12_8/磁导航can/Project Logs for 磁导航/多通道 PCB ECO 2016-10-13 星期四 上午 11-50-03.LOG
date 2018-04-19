@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetF2_cdh1_2 Pin=P1-1
+Removed Pin From Net: NetName=NetF2_cdh2_2 Pin=P1-2
+Removed Pin From Net: NetName=NetF2_cdh3_2 Pin=P1-3
+Removed Pin From Net: NetName=NetF2_cdh4_2 Pin=P1-4
+Removed Pin From Net: NetName=NetF2_cdh5_2 Pin=P1-5
+Removed Pin From Net: NetName=NetF2_cdh6_2 Pin=P1-6
+Removed Pin From Net: NetName=NetF2_cdh7_2 Pin=P1-7
+Removed Pin From Net: NetName=NetF2_cdh8_2 Pin=P1-8
+Change Component DesignItemId : Designator=U5_cdh1 Old DesignItemId=HW-101A New DesignItemId=Header 4
+Change Component DesignItemId : Designator=U5_cdh2 Old DesignItemId=HW-101A New DesignItemId=Header 4
+Change Component DesignItemId : Designator=U5_cdh3 Old DesignItemId=HW-101A New DesignItemId=Header 4
+Change Component DesignItemId : Designator=U5_cdh4 Old DesignItemId=HW-101A New DesignItemId=Header 4
+Change Component DesignItemId : Designator=U5_cdh5 Old DesignItemId=HW-101A New DesignItemId=Header 4
+Change Component DesignItemId : Designator=U5_cdh6 Old DesignItemId=HW-101A New DesignItemId=Header 4
+Change Component DesignItemId : Designator=U5_cdh7 Old DesignItemId=HW-101A New DesignItemId=Header 4
+Change Component DesignItemId : Designator=U5_cdh8 Old DesignItemId=HW-101A New DesignItemId=Header 4
+Change Component Footprint: Designator=U5_cdh1 Old Footprint=SOT-23-4 New Footprint=PIN4
+Change Component Footprint: Designator=U5_cdh2 Old Footprint=SOT-23-4 New Footprint=PIN4
+Change Component Footprint: Designator=U5_cdh3 Old Footprint=SOT-23-4 New Footprint=PIN4
+Change Component Footprint: Designator=U5_cdh4 Old Footprint=SOT-23-4 New Footprint=PIN4
+Change Component Footprint: Designator=U5_cdh5 Old Footprint=SOT-23-4 New Footprint=PIN4
+Change Component Footprint: Designator=U5_cdh6 Old Footprint=SOT-23-4 New Footprint=PIN4
+Change Component Footprint: Designator=U5_cdh7 Old Footprint=SOT-23-4 New Footprint=PIN4
+Change Component Footprint: Designator=U5_cdh8 Old Footprint=SOT-23-4 New Footprint=PIN4
+Change Component Comment : Designator=U5_cdh1 Old Comment=HW-101A New Comment=Header 4
+Change Component Comment : Designator=U5_cdh2 Old Comment=HW-101A New Comment=Header 4
+Change Component Comment : Designator=U5_cdh3 Old Comment=HW-101A New Comment=Header 4
+Change Component Comment : Designator=U5_cdh4 Old Comment=HW-101A New Comment=Header 4
+Change Component Comment : Designator=U5_cdh5 Old Comment=HW-101A New Comment=Header 4
+Change Component Comment : Designator=U5_cdh6 Old Comment=HW-101A New Comment=Header 4
+Change Component Comment : Designator=U5_cdh7 Old Comment=HW-101A New Comment=Header 4
+Change Component Comment : Designator=U5_cdh8 Old Comment=HW-101A New Comment=Header 4
+Added Pin To Net: NetName=CDH1 Pin=P1-1
+Added Pin To Net: NetName=CDH2 Pin=P1-2
+Added Pin To Net: NetName=CDH3 Pin=P1-3
+Added Pin To Net: NetName=CDH4 Pin=P1-4
+Added Pin To Net: NetName=CDH5 Pin=P1-5
+Added Pin To Net: NetName=CDH6 Pin=P1-6
+Added Pin To Net: NetName=CDH7 Pin=P1-7
+Added Pin To Net: NetName=CDH8 Pin=P1-8
+Added Room: Name=змЭМ
