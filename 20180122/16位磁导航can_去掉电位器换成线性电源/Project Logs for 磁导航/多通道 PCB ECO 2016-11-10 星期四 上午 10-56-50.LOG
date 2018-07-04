@@ -1,6 +1,0 @@
-Added Component: Designator=P2(DZ-4-3.5)
-Added Pin To Net: NetName=VCC24 Pin=P2-1
-Added Pin To Net: NetName=GND Pin=P2-2
-Added Pin To Net: NetName=CAN_H Pin=P2-3
-Added Pin To Net: NetName=CAN_L Pin=P2-4
-Added Member To Class: ClassName=змЭМ Member=Component P2 Header 4

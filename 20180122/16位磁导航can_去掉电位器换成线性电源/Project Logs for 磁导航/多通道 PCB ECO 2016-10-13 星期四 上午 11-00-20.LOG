@@ -1,9 +1,0 @@
-Change Net Name : Old Net Name=CDH1 New Net Name=CDH_CDH1
-Change Net Name : Old Net Name=CDH2 New Net Name=CDH_CDH2
-Change Net Name : Old Net Name=CDH3 New Net Name=CDH_CDH3
-Change Net Name : Old Net Name=CDH4 New Net Name=CDH_CDH4
-Change Net Name : Old Net Name=CDH5 New Net Name=CDH_CDH5
-Change Net Name : Old Net Name=CDH6 New Net Name=CDH_CDH6
-Change Net Name : Old Net Name=CDH7 New Net Name=CDH_CDH7
-Change Net Name : Old Net Name=CDH8 New Net Name=CDH_CDH8
-Added Class: Name=CDH_CDH[1..8]

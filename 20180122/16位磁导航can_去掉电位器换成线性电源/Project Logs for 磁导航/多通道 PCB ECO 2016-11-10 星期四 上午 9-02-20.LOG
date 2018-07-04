@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=VCC Pin=U27-3
-Change Component Comment : Designator=U27 Old Comment=TJA1050 New Comment=SN65HVD230
-Added Pin To Net: NetName=VCC3.3 Pin=U27-3

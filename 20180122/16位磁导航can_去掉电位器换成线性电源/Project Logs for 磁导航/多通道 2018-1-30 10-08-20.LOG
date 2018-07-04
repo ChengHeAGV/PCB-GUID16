@@ -1,3 +1,0 @@
-Change Component DesignItemId : Designator=C20 Old DesignItemId=CAP New DesignItemId=3528 100uF (107) 10% 6.3V
-Change Component Footprint: Designator=C20 Old Footprint=3216 New Footprint=CASE-B_3528
-Change Component Comment : Designator=C20 Old Comment=100uF/6.3V New Comment=100uF (107) ¡À10% 6.3V

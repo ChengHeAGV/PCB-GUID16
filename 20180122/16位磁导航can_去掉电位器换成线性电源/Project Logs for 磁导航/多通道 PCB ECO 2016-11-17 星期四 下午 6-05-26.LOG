@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=P3 Old Footprint=IDE4 New Footprint=HDR1X4
-Added Component: Designator=C14(0603)
-Added Pin To Net: NetName=VCC3.3 Pin=C14-1
-Added Pin To Net: NetName=GND Pin=C14-2
-Added Member To Class: ClassName=змЭМ Member=Component C14 Cap
